@@ -680,6 +680,7 @@
       "minecraft:jungle": "2024-12-07 23:26:43 +0000",
       "minecraft:snowy_beach": "2024-12-06 04:29:18 +0000",
       "minecraft:flower_forest": "2024-12-06 04:01:10 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-11 06:26:47 +0000",
       "minecraft:deep_dark": "2024-12-07 00:50:49 +0000",
       "minecraft:meadow": "2024-12-05 08:13:48 +0000",
       "minecraft:savanna": "2024-12-06 04:58:25 +0000",
@@ -1013,6 +1014,7 @@
       "golden_apple": "2024-12-05 19:06:22 +0000",
       "golden_carrot": "2024-12-07 23:39:29 +0000",
       "cooked_rabbit": "2024-12-07 23:34:50 +0000",
+      "cooked_chicken": "2024-12-11 06:31:28 +0000",
       "carrot": "2024-12-06 07:29:18 +0000"
     },
     "done": false
@@ -6107,6 +6109,24 @@
   "netherexp:recipes/soul_slate/wall": {
     "criteria": {
       "has_planks": "2024-12-11 05:52:24 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/netherite_hammer_smithing": {
+    "criteria": {
+      "has_item0": "2024-12-11 06:23:11 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/netherite_excavator_head_smithing": {
+    "criteria": {
+      "has_item0": "2024-12-11 06:22:03 +0000"
+    },
+    "done": true
+  },
+  "simplytools:recipes/tools/netherite_hammer_head_smithing": {
+    "criteria": {
+      "has_item0": "2024-12-11 06:22:56 +0000"
     },
     "done": true
   },
