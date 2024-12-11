@@ -1857,3 +1857,64 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 04:49:08.761] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [11Dec2024 04:50:10.918] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
 [11Dec2024 04:53:26.954] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[11Dec2024 04:57:20.817] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/satisfyu/meadow/entity/chicken/ChickenVar
+[11Dec2024 05:00:17.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Local Brewery]
+[11Dec2024 05:02:20.525] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/explorerscompass/util/CompassState
+[11Dec2024 05:02:20.532] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 74673dc9: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[11Dec2024 05:02:20.582] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[11Dec2024 05:02:20.586] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 74673dc9: RandomSpreadSearchWorker succeeded with 751 radius, 1 samples
+[11Dec2024 05:02:24.108] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[11Dec2024 05:02:28.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[11Dec2024 05:02:28.685] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[11Dec2024 05:02:31.099] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[11Dec2024 05:02:34.644] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$Interp
+[11Dec2024 05:02:34.645] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$NoiseType
+[11Dec2024 05:02:34.650] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$FractalType
+[11Dec2024 05:02:34.651] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$CellularDistanceFunction
+[11Dec2024 05:02:34.652] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$CellularReturnType
+[11Dec2024 05:02:40.700] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11Dec2024 05:02:40.703] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11Dec2024 05:02:48.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[11Dec2024 05:03:10.287] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 05:03:10.287] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 05:03:10.287] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 05:03:10.287] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 05:03:15.718] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[11Dec2024 05:03:15.718] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[11Dec2024 05:03:31.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5993ms or 119 ticks behind
+[11Dec2024 05:05:15.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[11Dec2024 05:05:20.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Arrow] to aaaaa]
+[11Dec2024 05:06:02.972] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/dead_king_boss/DeadKingBoss$AttackType
+[11Dec2024 05:06:03.028] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/dead_king_boss/DeadKingBoss$Phases
+[11Dec2024 05:06:13.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has completed the challenge [Overkill]
+[11Dec2024 05:06:27.529] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[11Dec2024 05:06:27.530] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[11Dec2024 05:17:03.393] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 74673dc9: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[11Dec2024 05:17:04.041] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 74673dc9: RandomSpreadSearchWorker succeeded with 1019 radius, 12 samples
+[11Dec2024 05:18:08.539] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Rumak the Dark'/5127, l='ServerLevel[world]', x=4535.70, y=66.00, z=39636.12] died: Rumak the Dark was slain by aaaaa
+[11Dec2024 05:18:18.407] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[11Dec2024 05:18:18.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[11Dec2024 05:18:18.425] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[11Dec2024 05:18:18.937] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/satisfyu/meadow/entity/sheep/SheepVar
+[11Dec2024 05:21:55.930] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/s2c/OpenGuiRequest$Type
+[11Dec2024 05:22:21.083] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[11Dec2024 05:23:28.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=4563, y=44, z=39423}
+[11Dec2024 05:23:28.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=4563, y=43, z=39423}
+[11Dec2024 05:23:28.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=4564, y=44, z=39423}
+[11Dec2024 05:23:28.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=4565, y=42, z=39423}
+[11Dec2024 05:23:28.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=4565, y=41, z=39423}
+[11Dec2024 05:23:28.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=4563, y=42, z=39423}
+[11Dec2024 05:23:28.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=4564, y=43, z=39423}
+[11Dec2024 05:23:28.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=4565, y=44, z=39423}
+[11Dec2024 05:23:28.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=4563, y=41, z=39423}
+[11Dec2024 05:23:28.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=4564, y=42, z=39423}
+[11Dec2024 05:23:28.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=4565, y=43, z=39423}
+[11Dec2024 05:24:24.625] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natalya'/5179, l='ServerLevel[world]', x=4617.31, y=72.00, z=39659.13] died, message: 'Natalya was slain by Ghost'
+[11Dec2024 05:24:24.628] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natalya'/5179, l='ServerLevel[world]', x=4617.31, y=72.00, z=39659.13] died: Natalya was slain by Ghost
+[11Dec2024 05:24:24.630] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
+[11Dec2024 05:24:24.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[11Dec2024 05:25:08.126] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[11Dec2024 05:25:23.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[11Dec2024 05:29:33.863] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[11Dec2024 05:29:58.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Night Sky Stalkers]
+[11Dec2024 05:29:58.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has reached the goal [Worsening Nightmares]

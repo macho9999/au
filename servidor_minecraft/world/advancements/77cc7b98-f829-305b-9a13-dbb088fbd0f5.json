@@ -1628,7 +1628,10 @@
       "minecraft:spider": "2024-12-07 01:10:41 +0000",
       "minecraft:piglin_brute": "2024-12-10 07:06:14 +0000",
       "minecraft:creeper": "2024-12-07 00:28:02 +0000",
+      "minecraft:evoker": "2024-12-11 05:18:08 +0000",
+      "minecraft:phantom": "2024-12-11 05:29:58 +0000",
       "minecraft:piglin": "2024-12-08 01:16:58 +0000",
+      "minecraft:vex": "2024-12-11 05:18:21 +0000",
       "minecraft:zombie": "2024-12-07 01:00:29 +0000",
       "minecraft:drowned": "2024-12-06 04:48:08 +0000"
     },
@@ -2806,7 +2809,8 @@
   },
   "bonesupdate:skull_quest/kill_all_bones_monsters": {
     "criteria": {
-      "bonesupdate:haunter_skeleton": "2024-12-06 03:50:18 +0000"
+      "bonesupdate:haunter_skeleton": "2024-12-06 03:50:18 +0000",
+      "bonesupdate:minion": "2024-12-11 05:25:14 +0000"
     },
     "done": false
   },
@@ -5973,6 +5977,78 @@
       "has_smooth_quartz": "2024-12-10 07:26:27 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-12-11 05:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-11 05:00:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2024-12-11 05:28:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2024-12-11 05:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-12-11 05:19:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2024-12-11 05:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-11 05:24:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2024-12-11 05:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-12-11 05:19:39 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2024-12-11 05:29:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2024-12-11 05:06:13 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-11 05:29:58 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
