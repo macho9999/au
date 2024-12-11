@@ -1955,3 +1955,17 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 06:27:42.837] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
 [11Dec2024 06:27:53.258] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
 [11Dec2024 06:27:53.259] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11Dec2024 06:35:35.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[11Dec2024 06:36:59.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[11Dec2024 06:37:07.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[11Dec2024 06:43:11.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[11Dec2024 06:43:46.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[11Dec2024 06:43:49.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[11Dec2024 06:43:57.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Patches'/32231, l='ServerLevel[world]', x=134.50, y=110.00, z=5088.50, tamed=false, owner='~NULL~'] died: Patches tried to swim in lava
+[11Dec2024 06:44:17.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Frankie'/32508, l='ServerLevel[world]', x=45.50, y=78.00, z=5076.50, tamed=false, owner='~NULL~'] died: Frankie tried to swim in lava
+[11Dec2024 06:44:37.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Yannie'/32642, l='ServerLevel[world]', x=102.50, y=133.00, z=5031.50, tamed=false, owner='~NULL~'] died: Yannie tried to swim in lava
+[11Dec2024 06:44:57.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Jule'/32738, l='ServerLevel[world]', x=43.50, y=63.00, z=4953.50, tamed=false, owner='~NULL~'] died: Jule tried to swim in lava
+[11Dec2024 06:45:17.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5624ms or 112 ticks behind
+[11Dec2024 06:45:33.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Dec2024 06:45:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaaaa> as
+[11Dec2024 06:45:40.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Ryu'/32802, l='ServerLevel[world]', x=146.50, y=29.28, z=5101.50, tamed=false, owner='~NULL~'] died: Ryu tried to swim in lava

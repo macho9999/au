@@ -14360,3 +14360,49 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 06:34:53.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
 [11Dec2024 06:34:53.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
 [11Dec2024 06:34:53.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[11Dec2024 06:35:35.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[11Dec2024 06:36:15.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/hoglin_spawner
+[11Dec2024 06:36:29.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 06:36:29.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 06:36:40.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_center_square
+[11Dec2024 06:36:41.211] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:blazeboss at BlockPos{x=719, y=74, z=5220} at Chest with:minecraft:chests/bastion_treasure
+[11Dec2024 06:36:59.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[11Dec2024 06:37:07.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[11Dec2024 06:40:53.098] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/centers/center_3
+[11Dec2024 06:40:53.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_back_right
+[11Dec2024 06:40:53.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_back_right
+[11Dec2024 06:40:53.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_back_right
+[11Dec2024 06:40:53.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_shelf_5wide_1
+[11Dec2024 06:40:53.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/worship_md_l_0
+[11Dec2024 06:40:53.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_2_r
+[11Dec2024 06:40:53.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_2_l
+[11Dec2024 06:40:53.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_2
+[11Dec2024 06:40:53.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_3
+[11Dec2024 06:40:53.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_4
+[11Dec2024 06:41:27.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/jail_md_r_0
+[11Dec2024 06:41:27.877] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_3
+[11Dec2024 06:41:29.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 06:41:29.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 06:41:43.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[11Dec2024 06:41:43.212] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[11Dec2024 06:41:43.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[11Dec2024 06:41:43.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[11Dec2024 06:41:43.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[11Dec2024 06:42:06.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/centers/center_1
+[11Dec2024 06:43:11.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[11Dec2024 06:43:33.282] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:altar/small_altar_3
+[11Dec2024 06:43:33.283] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:piglin_house/piglin_house_2
+[11Dec2024 06:43:33.284] [Worker-Main-3/DEBUG] [ModernFix/]: Structure netherdungeons:piglin_house/cage_with_wither_skeleton is being run through DFU (hash dca3c3245d53da0b4e0b2379fb9a97438e37d299c38cc83981a50c3896253ddd), this will cause launch time delays
+[11Dec2024 06:43:33.427] [Worker-Main-3/DEBUG] [ModernFix/]: Structure netherdungeons:piglin_house/empty_cage is being run through DFU (hash 9311a353a76c4976b825ef2177b71b0a32826fdb1d8842e1865e166e110cf486), this will cause launch time delays
+[11Dec2024 06:43:36.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[11Dec2024 06:43:37.573] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:warped_ender_claw/warped_ender_claw
+[11Dec2024 06:43:46.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[11Dec2024 06:43:49.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[11Dec2024 06:43:57.425] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Patches'/32231, l='ServerLevel[world]', x=134.50, y=110.00, z=5088.50, tamed=false, owner='~NULL~'] died: Patches tried to swim in lava
+[11Dec2024 06:44:17.725] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Frankie'/32508, l='ServerLevel[world]', x=45.50, y=78.00, z=5076.50, tamed=false, owner='~NULL~'] died: Frankie tried to swim in lava
+[11Dec2024 06:44:37.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Yannie'/32642, l='ServerLevel[world]', x=102.50, y=133.00, z=5031.50, tamed=false, owner='~NULL~'] died: Yannie tried to swim in lava
+[11Dec2024 06:44:57.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Jule'/32738, l='ServerLevel[world]', x=43.50, y=63.00, z=4953.50, tamed=false, owner='~NULL~'] died: Jule tried to swim in lava
+[11Dec2024 06:45:17.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5624ms or 112 ticks behind
+[11Dec2024 06:45:33.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[11Dec2024 06:45:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaaaa> as
+[11Dec2024 06:45:40.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Ryu'/32802, l='ServerLevel[world]', x=146.50, y=29.28, z=5101.50, tamed=false, owner='~NULL~'] died: Ryu tried to swim in lava
