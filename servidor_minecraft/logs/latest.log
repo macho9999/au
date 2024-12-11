@@ -1969,3 +1969,21 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 06:45:33.698] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [11Dec2024 06:45:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaaaa> as
 [11Dec2024 06:45:40.480] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Ryu'/32802, l='ServerLevel[world]', x=146.50, y=29.28, z=5101.50, tamed=false, owner='~NULL~'] died: Ryu tried to swim in lava
+[11Dec2024 06:45:50.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17828ms or 356 ticks behind
+[11Dec2024 06:46:07.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa moved too quickly! -2.183038109644869,-10.035554153911605,1.1587418597746364
+[11Dec2024 06:46:23.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity SmallGhast['Cato'/32896, l='ServerLevel[world]', x=113.50, y=31.00, z=4963.50, tamed=false, owner='~NULL~'] died: Cato tried to swim in lava
+[11Dec2024 06:46:41.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa moved too quickly! 1.049832736115846,9.759930406242873,2.121413478767863
+[11Dec2024 06:46:41.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaaaa> asd
+[11Dec2024 06:46:41.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36320ms or 726 ticks behind
+[11Dec2024 06:46:54.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[11Dec2024 06:46:54.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa moved too quickly! 8.361671726169305,-6.293512139530577,0.803115201597393
+[11Dec2024 06:47:05.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa moved too quickly! 3.2907121037691525,4.869338893210966,8.371593816818859
+[11Dec2024 06:47:08.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12102ms or 242 ticks behind
+[11Dec2024 06:48:11.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[11Dec2024 06:48:18.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaaaa> asd
+[11Dec2024 06:48:18.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5162ms or 103 ticks behind
+[11Dec2024 06:48:18.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aaaaa> asd
+[11Dec2024 06:48:44.442] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/Coralssus_Entity$Variant
+[11Dec2024 06:48:45.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12329ms or 246 ticks behind
+[11Dec2024 06:51:33.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[11Dec2024 06:51:45.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
