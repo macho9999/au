@@ -1918,3 +1918,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [11Dec2024 05:29:33.863] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
 [11Dec2024 05:29:58.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Night Sky Stalkers]
 [11Dec2024 05:29:58.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has reached the goal [Worsening Nightmares]
+[11Dec2024 05:46:11.919] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[11Dec2024 05:46:12.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[11Dec2024 05:46:12.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestred/piglinproliferation/common/entities/ai/behaviors/ChargeTask$ChargePhases
+[11Dec2024 05:46:27.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5695ms or 113 ticks behind
+[11Dec2024 05:46:57.525] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 74673dc9: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[11Dec2024 05:46:57.574] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 74673dc9: RandomSpreadSearchWorker succeeded with 335 radius, 1 samples
+[11Dec2024 05:47:03.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[11Dec2024 05:47:04.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Creative Mode]
+[11Dec2024 05:47:15.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[11Dec2024 05:47:22.366] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[11Dec2024 05:48:17.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/keeper/KeeperEntity$AttackType
+[11Dec2024 05:57:36.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa was kicked for floating too long!
+[11Dec2024 05:57:36.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Disconnected
+[11Dec2024 05:57:36.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
+[11Dec2024 05:57:36.710] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Dec2024 05:57:51.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaaaa[/100.110.119.13:64601] logged in with entity id 16492 at (346.9991460354714, 47.166109260938214, 4681.566815556949)
+[11Dec2024 05:57:51.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa joined the game
+[11Dec2024 05:57:51.103] [Server thread/INFO] [Jade/]: Syncing config to aaaaa (77cc7b98-f829-305b-9a13-dbb088fbd0f5)
+[11Dec2024 06:03:44.313] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/entities/Berserker$Phase

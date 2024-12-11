@@ -5978,21 +5978,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2024-12-11 05:19:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-11 05:00:17 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+  "netherexp:nether/overkill": {
     "criteria": {
-      "requirement": "2024-12-11 05:28:35 +0000"
+      "overkill": "2024-12-11 05:06:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-12-11 05:19:39 +0000"
     },
     "done": true
   },
@@ -6008,9 +6008,9 @@
     },
     "done": true
   },
-  "stellarity:adventure/kill_large_phantom": {
+  "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
-      "size_doesnt_matter": "2024-12-11 05:29:58 +0000"
+      "has_purple_wool": "2024-12-11 05:19:39 +0000"
     },
     "done": true
   },
@@ -6020,15 +6020,15 @@
     },
     "done": true
   },
-  "stellarity:recipes/leather_from_membranes": {
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
-      "has_item": "2024-12-11 05:30:00 +0000"
+      "requirement": "2024-12-11 05:28:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_banner": {
+  "stellarity:adventure/kill_large_phantom": {
     "criteria": {
-      "has_purple_wool": "2024-12-11 05:19:39 +0000"
+      "size_doesnt_matter": "2024-12-11 05:29:58 +0000"
     },
     "done": true
   },
@@ -6038,17 +6038,77 @@
     },
     "done": true
   },
-  "netherexp:nether/overkill": {
-    "criteria": {
-      "overkill": "2024-12-11 05:06:13 +0000"
-    },
-    "done": true
-  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2024-12-11 05:29:58 +0000"
     },
     "done": false
+  },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2024-12-11 05:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-11 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-11 05:48:54 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_soil_layer": {
+    "criteria": {
+      "has_item": "2024-12-11 05:49:35 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2024-12-11 05:52:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2024-12-11 05:52:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 05:52:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 05:52:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2024-12-11 05:52:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2024-12-11 05:52:24 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2024-12-11 05:52:24 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
