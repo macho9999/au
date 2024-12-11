@@ -1,0 +1,61 @@
+#If True You will be granted a Information Booklet everytime you login if you don't have one in your inventory
+GrantsInfoBookEveryLogin = true
+#Whether rascal mob can spawn (this includes from spawn eggs)
+CanRascalSpawn = true
+#Whether starve mob can spawn (this includes from spawn eggs)
+CanStarveSpawn = true
+#Whether moobloom mob can spawn (this includes from spawn eggs)
+CanMoobloomSpawn = true
+#Whether iceologer mob can spawn (this includes from spawn eggs)
+CanIceologerSpawn = true
+#Whether armadillo mob can spawn (this includes from spawn eggs)
+CanArmadilloSpawn = true
+#Whether Fennec Fox mob can spawn (this includes from spawn eggs)
+CanFennecFoxSpawn = true
+#Whether Suspicious Sniffer mob can spawn (this includes from spawn eggs)
+CanSuspiciousSnifferSpawn = true
+#Whether Tuff Golem mob can spawn (this includes from spawn eggs)
+CanTuffGolemSpawn = true
+#Whether Echoid mob can spawn (this includes from spawn eggs)
+CanEchoidSpawn = true
+#Whether Lurker mob can spawn (this includes from spawn eggs)
+CanLurkerSpawn = true
+#Whether Elderman mob can spawn (this includes from spawn eggs)
+CanEldermanSpawn = true
+#Whether Glare mob can spawn (this includes from spawn eggs)
+CanGlareSpawn = true
+#Whether Crab mob can spawn (this includes from spawn eggs)
+CanCrabSpawn = true
+#Whether Penguin mob can spawn (this includes from spawn eggs)
+CanPenguinSpawn = true
+#Whether Watchling mob can spawn (this includes from spawn eggs)
+CanWatchlingSpawn = true
+#Whether Endersent mob can spawn (this includes from spawn eggs)
+CanEndersentSpawn = true
+#Whether Blastling mob can spawn (this includes from spawn eggs)
+CanBlastlingSpawn = true
+#Whether Snareling mob can spawn (this includes from spawn eggs)
+CanSnarelingSpawn = true
+#Whether Ender Jelly mob can spawn (this includes from spawn eggs)
+CanEnderJellySpawn = true
+#Whether Ghoul mob can spawn (this includes from spawn eggs)
+CanGhoulSpawn = true
+#Whether Purpur Golem mob can spawn (this includes from spawn eggs)
+CanPurpurGolemSpawn = true
+#Whether Ostrich mob can spawn (this includes from spawn eggs)
+CanOstrichSpawn = true
+#Whether Copper Golem mob can spawn (this includes from spawn eggs)
+CanCopperGolemSpawn = true
+#Whether Inferno mob can spawn (this includes from spawn eggs)
+CanInfernoSpawn = true
+#Whether Muddy Pig mob can spawn (this includes from spawn eggs)
+CanMuddyPigSpawn = true
+#Whether Meerkat mob can spawn (this includes from spawn eggs)
+CanMeerkatSpawn = true
+#Whether Weeper mob can spawn (this includes from spawn eggs)
+CanWeeperSpawn = true
+#Whether Boneling mob can spawn (this includes from spawn eggs)
+CanBonelingSpawn = true
+#Whether Bone Spider mob can spawn (this includes from spawn eggs)
+CanBoneSpiderSpawn = true
+

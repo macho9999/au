@@ -1,0 +1,729 @@
+{
+  "supertools:supertools/super_shovel": {
+    "criteria": {
+      "super_shovel": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/obsidian_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/quartz_shovel": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "ddenizens:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/emerald_boots": {
+    "criteria": {
+      "has_emerald": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/special_cup": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/obsidian_leggings": {
+    "criteria": {
+      "has_obsidian": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "base_camp:starter_base_adv": {
+    "criteria": {
+      "starter_base_adv": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/golden_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/diamond_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/quartz_boots": {
+    "criteria": {
+      "has_quartz": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:supertools/cup": {
+    "criteria": {
+      "cup": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/obsidian_shovel": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:supertools/super_axe": {
+    "criteria": {
+      "super_axe": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/quartz_leggings": {
+    "criteria": {
+      "has_quartz": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/obsidian_pickaxe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:recipes/armor/quartz_helmet": {
+    "criteria": {
+      "has_quartz": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/emerald_chestplate": {
+    "criteria": {
+      "has_emerald": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/copper_sword": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/quartz_axe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/copper_hoe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "exploration_:exploration_parent_advancement": {
+    "criteria": {
+      "exploration_parent_advancement": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/lapis_chestplate": {
+    "criteria": {
+      "has_lapis": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/obsidian_boots": {
+    "criteria": {
+      "has_obsidian": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/emerald_pickaxe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/obsidian_sword": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:supertools/super_sickle": {
+    "criteria": {
+      "super_sickle": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/quartz_chestplate": {
+    "criteria": {
+      "has_quartz": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/lapis_boots": {
+    "criteria": {
+      "has_lapis": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/obsidian_hoe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:recipes/tools/emerald_sword": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/super_hoe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/emerald_axe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/super_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:recipes/tools/lapis_axe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/lapis_shovel": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/redstone_hoe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/redstone_pickaxe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/quartz_pickaxe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/copper_axe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/super_shovel": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/lapis_sword": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "orcz:orczchallenge": {
+    "criteria": {
+      "orczchallenge": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/emerald_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:recipes/tools/lapis_hoe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/obsidian_axe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/quartz_hoe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/lapis_leggings": {
+    "criteria": {
+      "has_lapis": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:recipes/supertools/adarum": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:faded_2": {
+    "criteria": {
+      "faded_2_0": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/copper_helmet": {
+    "criteria": {
+      "has_emerald": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:supertools/super_pickaxe": {
+    "criteria": {
+      "super_pickaxe": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:supertools/special_cup": {
+    "criteria": {
+      "special_cup": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/netherite_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/emerald_shovel": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/redstone_axe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/emerald_hoe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/super_axe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "bossominium:loot_bosses_a": {
+    "criteria": {
+      "loot_bosses_a": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:recipes/tools/lapis_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/obsidian_chestplate": {
+    "criteria": {
+      "has_obsidian": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/copper_chestplate": {
+    "criteria": {
+      "has_emerald": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/obsidian_helmet": {
+    "criteria": {
+      "has_obsidian": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/copper_boots": {
+    "criteria": {
+      "has_emerald": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/lapis_helmet": {
+    "criteria": {
+      "has_lapis": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:supertools/super_sword": {
+    "criteria": {
+      "super_sword": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/redstone_shovel": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "warp_portals:warp_portals": {
+    "criteria": {
+      "trigger": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:recipes/supertools/super_sword": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/copper_leggings": {
+    "criteria": {
+      "has_emerald": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "power:keepers_of_the_stones_2": {
+    "criteria": {
+      "keepers_of_the_stones_2_0": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/emerald_helmet": {
+    "criteria": {
+      "has_emerald": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/cup": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "player_companions:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:recipes/tools/copper_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "global:notnull": {
+    "criteria": {
+      "trigger": "2024-12-05 05:35:12 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/redstone_sword": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/lapis_pickaxe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/iron_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/copper_shovel": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:recipes/tools/quartz_sword": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/quartz_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/emerald_leggings": {
+    "criteria": {
+      "has_emerald": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/redstone_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:ice_spikes": "2024-12-05 05:35:13 +0000"
+    },
+    "done": false
+  },
+  "supertools:supertools/super_hoe": {
+    "criteria": {
+      "super_hoe": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/supertools/super_pickaxe": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:supertools/bag_of_bonemeal": {
+    "criteria": {
+      "bone_meal_tool": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/stone_sickle": {
+    "criteria": {
+      "has_items": "2024-12-05 05:35:11 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

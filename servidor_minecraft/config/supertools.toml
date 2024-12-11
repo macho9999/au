@@ -1,0 +1,105 @@
+
+#Config File of the Super Tools mod.
+[SuperTools]
+	#Enable Super Tools(Not the mod) (Default: true)
+	supertools = true
+	#Enable that the Super Tools drop Blocks in Creative Mode(Default: false)
+	creative_block_drops = false
+
+	[SuperTools."Armor Effects"]
+		#Enable the Armor Potion Effects (Default: true)
+		armor_potion_effects = true
+
+		[SuperTools."Armor Effects"."Quartz Effects"]
+			#Enable the Quartz Armor Potion Effects (Default: true)
+			quartz_armor_potion_effects = true
+
+		[SuperTools."Armor Effects"."Obsidian Effetcs"]
+			#Enable the Obsidian Armor Potion Effects (Default: true)
+			obsidian_armor_potion_effects = true
+
+			[SuperTools."Armor Effects"."Obsidian Effetcs"."Level 1"]
+				#Enable the Obsidian Armor Potion Effects when you have only 1 piece or more pieces (Default: true)
+				obsidian_armor_potion_effects_level1 = true
+
+				[SuperTools."Armor Effects"."Obsidian Effetcs"."Level 1"."Level 2"]
+					#Enable the Armor Status Effects when you have every piece(Default: true)
+					obsidian_armor_potion_effects_level2 = true
+
+	[SuperTools.Durabilities]
+		#Quartz durabilty (Default: 1000)
+		#Range: 0 ~ 999999999
+		quartz_tools_durabilty = 1000
+		#Copper durabilty (Default: 200)
+		#Range: 0 ~ 999999999
+		copper_tools_durabilty = 200
+		#Obsidian durabilty (Default: 2000)
+		#Range: 0 ~ 999999999
+		obsidian_tools_durabilty = 2000
+		#Emerald durabilty (Default: 1561)
+		#Range: 0 ~ 999999999
+		emerald_tools_durabilty = 1561
+		#Lapis durabilty (Default: 150)
+		#Range: 0 ~ 999999999
+		lapis_tools_durabilty = 150
+		#Redstone durabilty (Default: 100)
+		#Range: 0 ~ 999999999
+		redstone_tools_durabilty = 100
+		#Super Tools durabilty (Default: 2000)
+		#Range: 0 ~ 999999999
+		super_tools_durabilty = 2000
+		#A Bag of Bonemeal durabilty (Default: 100)
+		#Range: 0 ~ 999999999
+		"a_bag_of_bonemeal _durabilty" = 100
+		#Cup durabilty (Default: 1700)
+		#Range: 0 ~ 999999999
+		cup_durabilty = 1700
+		#SpecialCup durabilty (Default: 2000)
+		#Range: 0 ~ 999999999
+		special_cup_durabilty = 2000
+
+	[SuperTools."Tool Attack Damage"]
+
+		[SuperTools."Tool Attack Damage"."DONT CHANGE THE STRINGS!"]
+			dontchange = "Base Axe damage: 6"
+			dontchange2 = "Base Sword damage: 3"
+			dontchange3 = "Base Shovel damage: 1.5"
+			dontchange4 = "Base Pickaxe damage: 1"
+			dontchange5 = "Base Hoe damage: 0"
+			dontchange6 = "Base Cup damage: 1"
+			dontchange7 = "To get the damage you want add the base damage of the Tool and the base attack damage of the material."
+
+		[SuperTools."Tool Attack Damage"."Attack Damage"]
+			#Quartz base attack damage
+			#Range: -9.99999999E8 ~ 9.99999999E8
+			attackdamage_quartz = 2.0
+			#Copper base attack damage
+			#Range: -9.99999999E8 ~ 9.99999999E8
+			attackdamage_copper = 1.5
+			#Obsidian base attack damage
+			#Range: -9.99999999E8 ~ 9.99999999E8
+			attackdamage_obsidian = 3.5
+			#Emerald base attack damage
+			#Range: -9.99999999E8 ~ 9.99999999E8
+			attackdamage_emerald = 3.5
+			#Lapis base attack damage
+			#Range: -9.99999999E8 ~ 9.99999999E8
+			attackdamage_lapis = 2.0
+			#Redstone base attack damage
+			#Range: -9.99999999E8 ~ 9.99999999E8
+			attackdamage_redstone = -0.5
+			#Super Tools base attack damage
+			#Range: -9.99999999E8 ~ 9.99999999E8
+			attackdamage_supertools = 3.5
+			#Cup base attack damage
+			#Range: -9.99999999E8 ~ 9.99999999E8
+			attackdamage_cup = 3.5
+			#Special Cup base attack damage
+			#Range: -9.99999999E8 ~ 9.99999999E8
+			attackdamage_specialcup = 4.0
+
+	[SuperTools."Super Axe"]
+		#Set the Maxmium amount of Wood Logs being chopped with the Super Axe
+		#Range: 0 ~ 999999999
+		max_wood_logs = 64
+
