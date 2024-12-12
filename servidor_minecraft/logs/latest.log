@@ -122,3 +122,17 @@
 [12Dec2024 02:02:09.214] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [12Dec2024 02:02:09.215] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [12Dec2024 02:08:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[12Dec2024 02:16:12.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[12Dec2024 02:21:33.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[12Dec2024 02:21:33.930] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[12Dec2024 02:21:33.935] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[12Dec2024 02:23:58.991] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Dec2024 02:24:25.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:25.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:25.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:26.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:26.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:26.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:26.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:26.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:25:39.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/42070, l='ServerLevel[world]', x=3384.70, y=46.00, z=40413.50] died: Sargent the Soaked suffocated in a wall

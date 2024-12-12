@@ -13515,3 +13515,80 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [12Dec2024 02:08:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
 [12Dec2024 02:10:10.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 02:10:10.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:15:10.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:15:10.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:16:07.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[12Dec2024 02:16:07.652] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_dark_oak
+[12Dec2024 02:16:12.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[12Dec2024 02:18:16.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:medieval_boat
+[12Dec2024 02:18:36.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_1
+[12Dec2024 02:18:36.860] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:undead_crypt/undead_crypt_spawner_room_3 is being run through DFU (hash 1d6df7eea2018b669d5305297fc956730646530726d5dae0fa037acac6431cc9), this will cause launch time delays
+[12Dec2024 02:18:36.977] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs
+[12Dec2024 02:18:36.979] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_4
+[12Dec2024 02:18:36.982] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs_t
+[12Dec2024 02:18:36.985] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_l_2
+[12Dec2024 02:18:36.987] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_cross
+[12Dec2024 02:18:36.988] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_6
+[12Dec2024 02:18:36.991] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs_high
+[12Dec2024 02:18:36.992] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_3
+[12Dec2024 02:18:36.993] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_t
+[12Dec2024 02:18:36.995] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_5
+[12Dec2024 02:18:36.996] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_1
+[12Dec2024 02:18:36.997] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_l_1
+[12Dec2024 02:18:36.999] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_2
+[12Dec2024 02:18:37.000] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_r
+[12Dec2024 02:18:37.010] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_statue_room
+[12Dec2024 02:18:37.012] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_lock
+[12Dec2024 02:19:15.091] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_small_7
+[12Dec2024 02:20:10.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:20:10.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:21:04.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_medium_3
+[12Dec2024 02:21:24.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[12Dec2024 02:21:24.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_2
+[12Dec2024 02:21:24.819] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_1
+[12Dec2024 02:21:33.928] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[12Dec2024 02:21:33.930] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[12Dec2024 02:21:33.935] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[12Dec2024 02:23:58.960] [Worker-Main-2/DEBUG] [ModernFix/]: Structure undead_revamp2:camp_bostrox2 is being run through DFU (hash 901d4f766cec098bc74e88437e052c15e627ada63e615b1c4aed02786ab32159), this will cause launch time delays
+[12Dec2024 02:23:58.991] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Dec2024 02:24:05.837] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:pumpkin_patch/medium_9_pumpkin_patch
+[12Dec2024 02:24:25.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:25.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:25.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:26.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:26.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:26.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:26.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:26.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 02:24:28.675] [Netty Epoll Server IO #2/DEBUG] [mezz.jei.common.platform.Services/]: Loaded mezz.jei.forge.platform.PlatformHelper@1ed59da4 for service interface mezz.jei.common.platform.IPlatformHelper
+[12Dec2024 02:25:10.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:25:10.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:25:39.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/42070, l='ServerLevel[world]', x=3384.70, y=46.00, z=40413.50] died: Sargent the Soaked suffocated in a wall
+[12Dec2024 02:27:51.169] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:desert_double
+[12Dec2024 02:27:51.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/knight
+[12Dec2024 02:29:35.374] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[12Dec2024 02:29:35.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_small_4
+[12Dec2024 02:29:45.916] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=3145, y=-42, z=40259} at Chest with:minecraft:chests/simple_dungeon
+[12Dec2024 02:29:46.076] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/small_potato_patch_variant_1
+[12Dec2024 02:29:58.872] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_swamp_naturalist
+[12Dec2024 02:30:05.488] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/entrance_alt
+[12Dec2024 02:30:05.489] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance_1_alt
+[12Dec2024 02:30:05.490] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance_1_alt
+[12Dec2024 02:30:05.492] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_alt
+[12Dec2024 02:30:05.493] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/entrance_alt
+[12Dec2024 02:30:05.494] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mud/path_1 is being run through DFU (hash 8a65cf9655872576e7dd71c6e8bd723b858d35b4a218a6797f9ca7227eb1ccc1), this will cause launch time delays
+[12Dec2024 02:30:05.528] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/birch/down_2 is being run through DFU (hash dbc261fdc8615a4be5a8f7e63a3db9ca3104c4f3958c4dfb0ccf331af1bfd6ff), this will cause launch time delays
+[12Dec2024 02:30:05.530] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/turn
+[12Dec2024 02:30:05.531] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/path_1
+[12Dec2024 02:30:05.534] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/pathlong_1
+[12Dec2024 02:30:05.535] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance_1_alt
+[12Dec2024 02:30:05.792] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:libraries/cold
+[12Dec2024 02:30:05.794] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/tiny_potato_patch_variant_3
+[12Dec2024 02:30:05.962] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:oak_house
+[12Dec2024 02:30:05.975] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:terracotta_double
+[12Dec2024 02:30:10.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:30:10.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:30:13.635] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_jungle_naturalist
+[12Dec2024 02:30:14.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_6
+[12Dec2024 02:30:14.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_4
+[12Dec2024 02:30:31.338] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=3074, y=14, z=40399} at Chest with:minecraft:chests/simple_dungeon
