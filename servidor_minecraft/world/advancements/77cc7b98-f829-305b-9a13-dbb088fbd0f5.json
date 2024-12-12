@@ -4841,7 +4841,8 @@
     "criteria": {
       "incendium:ash_barrens": "2024-12-07 23:52:31 +0000",
       "incendium:infernal_dunes": "2024-12-10 07:14:31 +0000",
-      "incendium:weeping_valley": "2024-12-10 07:14:04 +0000"
+      "incendium:weeping_valley": "2024-12-10 07:14:04 +0000",
+      "incendium:quartz_flats": "2024-12-12 00:16:39 +0000"
     },
     "done": false
   },
@@ -6224,6 +6225,42 @@
   "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
     "criteria": {
       "arcane_anvil": "2024-12-11 07:03:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/rescue_mission": {
+    "criteria": {
+      "requirement": "2024-12-12 00:16:42 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2024-12-11 23:51:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/raw_platinum_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/platinum]": "2024-12-11 23:51:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2024-12-12 00:16:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2024-12-12 00:16:39 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-11 23:51:23 +0000"
     },
     "done": true
   },
