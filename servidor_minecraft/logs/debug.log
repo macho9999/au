@@ -12408,3 +12408,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [12Dec2024 00:20:13.399] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
 [12Dec2024 00:20:13.408] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
 [12Dec2024 00:20:13.449] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[12Dec2024 00:21:55.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 00:21:55.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 00:22:52.236] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [2c6bd626-14e3-4ec8-836c-7a12eb29f73c]
+[12Dec2024 00:26:31.231] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[12Dec2024 00:26:55.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 00:26:55.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
