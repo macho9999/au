@@ -12474,3 +12474,53 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [12Dec2024 01:18:08.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
 [12Dec2024 01:18:52.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 01:18:52.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:21:58.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4081ms or 81 ticks behind
+[12Dec2024 01:23:56.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:23:56.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:24:59.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[12Dec2024 01:25:03.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 01:25:06.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 01:25:06.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 01:25:06.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 01:25:06.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Potion of Night Vision] to aaaaa]
+[12Dec2024 01:25:40.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5157ms or 103 ticks behind
+[12Dec2024 01:25:42.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:nether_monster_room
+[12Dec2024 01:25:42.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:obsidian_egg/small_obsidian_egg_side
+[12Dec2024 01:25:42.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[12Dec2024 01:25:42.304] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[12Dec2024 01:25:42.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[12Dec2024 01:25:42.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[12Dec2024 01:25:42.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[12Dec2024 01:25:42.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_v
+[12Dec2024 01:25:42.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[12Dec2024 01:25:42.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[12Dec2024 01:25:42.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_h
+[12Dec2024 01:25:42.311] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[12Dec2024 01:25:42.312] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[12Dec2024 01:25:42.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[12Dec2024 01:25:42.314] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[12Dec2024 01:25:42.314] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[12Dec2024 01:25:42.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:obsidian_egg/medium_obsidian_egg
+[12Dec2024 01:25:42.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/blazetower_spawnpos
+[12Dec2024 01:25:49.121] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:warped_tower/base/bottom/0
+[12Dec2024 01:25:49.125] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:crimson_tower/base/bottom/0
+[12Dec2024 01:25:49.990] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:netherrack_spiral/base/0
+[12Dec2024 01:26:47.535] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/keeper/KeeperEntity$AttackType
+[12Dec2024 01:27:27.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5247ms or 104 ticks behind
+[12Dec2024 01:27:31.007] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:gauntlet_arena/base
+[12Dec2024 01:27:34.001] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [beed5289-24da-4149-b60a-960e2c67eb7d]
+[12Dec2024 01:27:35.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:strider_stable/strider_stable
+[12Dec2024 01:27:35.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:netherrack_spiral/top/netherrack
+[12Dec2024 01:27:37.798] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:obsidian_egg/small_obsidian_egg
+[12Dec2024 01:28:20.500] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:altar/small_altar_3
+[12Dec2024 01:28:26.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[12Dec2024 01:28:39.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
+[12Dec2024 01:28:57.664] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [a87e424a-73db-4483-be72-98bbf0f104cc]
+[12Dec2024 01:29:12.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:29:12.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:29:51.700] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [e035a9bf-2cb0-42e8-8b50-d491415953be]
+[12Dec2024 01:30:18.436] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:ice_block 1: [49980850-78b4-4e10-99db-0788f4a0d96d]
+[12Dec2024 01:30:25.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [70f4ee18-4a37-4957-8b8e-e3211bde869b]
+[12Dec2024 01:31:03.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[12Dec2024 01:31:07.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[12Dec2024 01:31:24.148] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [94de9c73-2e13-49ae-ac23-01c10e139794]
