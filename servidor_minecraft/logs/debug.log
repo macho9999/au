@@ -13600,3 +13600,24 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [12Dec2024 02:45:10.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Dec2024 02:50:10.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 02:50:10.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:55:10.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:55:10.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:59:52.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:birch_mushroom_cave/birch_mushroom_cave
+[12Dec2024 02:59:52.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[12Dec2024 02:59:52.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/small_carrot_patch_variant_3
+[12Dec2024 02:59:55.641] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[12Dec2024 02:59:57.804] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[12Dec2024 02:59:58.057] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=3795, y=72, z=40317}) doesn't have enough leaves around top most log
+[12Dec2024 03:00:05.894] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[12Dec2024 03:00:10.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 03:00:10.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 03:00:31.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:dark_tower
+[12Dec2024 03:00:31.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:darktower2
+[12Dec2024 03:00:34.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_4
+[12Dec2024 03:01:45.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_mixed1
+[12Dec2024 03:03:24.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Disconnected
+[12Dec2024 03:03:24.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
+[12Dec2024 03:05:10.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 03:05:10.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 03:10:10.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 03:10:10.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
