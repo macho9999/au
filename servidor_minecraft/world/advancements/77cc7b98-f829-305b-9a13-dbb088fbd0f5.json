@@ -6235,9 +6235,21 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/sanctum/root": {
+    "criteria": {
+      "requirement": "2024-12-12 01:47:58 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/platinum_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2024-12-11 23:51:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2024-12-12 01:50:51 +0000"
     },
     "done": true
   },

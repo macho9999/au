@@ -12524,3 +12524,893 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [12Dec2024 01:31:03.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
 [12Dec2024 01:31:07.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
 [12Dec2024 01:31:24.148] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [94de9c73-2e13-49ae-ac23-01c10e139794]
+[12Dec2024 01:34:12.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:34:12.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:34:45.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [1c14ef80-ae9f-45bf-bd44-5f37344da8fa]
+[12Dec2024 01:35:41.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
+[12Dec2024 01:37:01.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[12Dec2024 01:37:08.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Creative Mode]
+[12Dec2024 01:37:20.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[12Dec2024 01:38:23.808] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [e621534a-4e47-4d4d-a1c8-550178cd40e2]
+[12Dec2024 01:39:16.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:39:16.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:39:48.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[12Dec2024 01:41:05.932] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [9c28d034-cf15-4dc0-9d7d-e1446fe1011e]
+[12Dec2024 01:41:24.876] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:lush_trap
+[12Dec2024 01:41:24.897] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_small_2
+[12Dec2024 01:41:24.908] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/tiny_wheat_patch_variant_2
+[12Dec2024 01:41:24.919] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_3
+[12Dec2024 01:41:24.926] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_savanna_hunter
+[12Dec2024 01:41:24.947] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_jungle_hunter
+[12Dec2024 01:41:24.954] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/small_potato_patch_variant_2
+[12Dec2024 01:41:24.972] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[12Dec2024 01:41:25.025] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of red:abandoned_house
+[12Dec2024 01:41:25.036] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_mushroom_hunter
+[12Dec2024 01:41:25.061] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:muddy_badlands_well/clean_badlands_well
+[12Dec2024 01:41:25.094] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of red:snowy_oracle
+[12Dec2024 01:41:25.107] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of red:sphinx
+[12Dec2024 01:41:25.130] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance_1
+[12Dec2024 01:41:25.131] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/acacia/entrance_alt is being run through DFU (hash 4df3d0454fcb6e050eb58a350b2b8207c64befdeff0b368a88ab3f996f6b20a5), this will cause launch time delays
+[12Dec2024 01:41:25.311] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/mud/entrance_alt is being run through DFU (hash 07adb74be3e693e79cce649012c20f1d4904258594635f17fe98c88aadc8ff97), this will cause launch time delays
+[12Dec2024 01:41:25.323] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance
+[12Dec2024 01:41:25.324] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path_1
+[12Dec2024 01:41:25.325] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path
+[12Dec2024 01:41:25.325] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance
+[12Dec2024 01:41:25.326] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn
+[12Dec2024 01:41:25.326] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_alt
+[12Dec2024 01:41:25.327] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_2
+[12Dec2024 01:41:25.328] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_alt
+[12Dec2024 01:41:25.328] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1_alt
+[12Dec2024 01:41:25.329] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_1
+[12Dec2024 01:41:25.330] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_3
+[12Dec2024 01:41:25.330] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_2
+[12Dec2024 01:41:25.331] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_4
+[12Dec2024 01:41:25.332] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1_alt
+[12Dec2024 01:41:25.333] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_books
+[12Dec2024 01:41:25.333] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1
+[12Dec2024 01:41:25.334] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down
+[12Dec2024 01:41:25.335] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_1
+[12Dec2024 01:41:25.336] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_1
+[12Dec2024 01:41:25.337] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1
+[12Dec2024 01:41:25.337] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_4
+[12Dec2024 01:41:25.338] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_5
+[12Dec2024 01:41:25.340] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_2
+[12Dec2024 01:41:25.343] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_3
+[12Dec2024 01:41:25.346] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_3
+[12Dec2024 01:41:25.348] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_2
+[12Dec2024 01:41:25.349] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_5
+[12Dec2024 01:41:25.413] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_prison
+[12Dec2024 01:41:25.413] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_1
+[12Dec2024 01:41:25.414] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/camp
+[12Dec2024 01:41:25.414] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_3
+[12Dec2024 01:41:25.415] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_carrot
+[12Dec2024 01:41:25.415] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_red_mushroom
+[12Dec2024 01:41:25.416] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_amethyst
+[12Dec2024 01:41:25.416] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tnt
+[12Dec2024 01:41:25.417] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_armor
+[12Dec2024 01:41:25.417] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils
+[12Dec2024 01:41:25.418] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_1
+[12Dec2024 01:41:25.418] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/prison
+[12Dec2024 01:41:25.419] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_copper
+[12Dec2024 01:41:25.419] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_weapons
+[12Dec2024 01:41:25.420] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/map
+[12Dec2024 01:41:25.420] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_2
+[12Dec2024 01:41:25.421] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/copper
+[12Dec2024 01:41:25.422] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/r_anchor
+[12Dec2024 01:41:25.422] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/archer
+[12Dec2024 01:41:25.423] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tools
+[12Dec2024 01:41:25.423] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_2
+[12Dec2024 01:41:25.424] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_gold
+[12Dec2024 01:41:25.424] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_melon
+[12Dec2024 01:41:25.425] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_crafting
+[12Dec2024 01:41:25.426] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_wheat
+[12Dec2024 01:41:25.426] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_rip
+[12Dec2024 01:41:25.427] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/potions
+[12Dec2024 01:41:25.428] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_pumpkin
+[12Dec2024 01:41:25.428] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_brown_mushroom
+[12Dec2024 01:41:25.429] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/stews
+[12Dec2024 01:41:25.430] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/iron_golem
+[12Dec2024 01:41:25.430] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_redstone
+[12Dec2024 01:41:25.431] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/portal
+[12Dec2024 01:41:25.432] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_smelting
+[12Dec2024 01:41:25.432] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_emerald
+[12Dec2024 01:41:25.432] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_archer
+[12Dec2024 01:41:25.433] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_food
+[12Dec2024 01:41:25.433] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_iron
+[12Dec2024 01:41:25.434] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_diamonds
+[12Dec2024 01:41:25.434] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_potions
+[12Dec2024 01:41:25.435] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom
+[12Dec2024 01:41:25.435] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_3
+[12Dec2024 01:41:25.436] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_beetroot
+[12Dec2024 01:41:25.436] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_lapis
+[12Dec2024 01:41:25.437] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/music
+[12Dec2024 01:41:25.438] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_potato
+[12Dec2024 01:41:25.768] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[12Dec2024 01:41:29.806] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2_down
+[12Dec2024 01:41:29.808] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1_down_sculk
+[12Dec2024 01:41:29.810] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1_sculk
+[12Dec2024 01:41:29.813] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1
+[12Dec2024 01:41:29.815] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2_down_sculk
+[12Dec2024 01:41:29.817] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1_down
+[12Dec2024 01:41:29.820] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2
+[12Dec2024 01:41:29.821] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/connector_1
+[12Dec2024 01:41:29.822] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/connector_2
+[12Dec2024 01:41:29.825] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2_sculk
+[12Dec2024 01:41:29.973] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[12Dec2024 01:41:30.241] [Worker-Main-3/DEBUG] [ModernFix/]: Structure valhelsia_structures:vegetations/big_tree is being run through DFU (hash 18acaa50a761aeb3a1f71443c04f651ce0b7d4805d9f7d36ae8a388e16080ffb), this will cause launch time delays
+[12Dec2024 01:41:30.279] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of bonesupdate:weeping_willow_tree
+[12Dec2024 01:41:30.292] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_acacia
+[12Dec2024 01:41:30.303] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_birch
+[12Dec2024 01:41:30.315] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_cherry
+[12Dec2024 01:41:30.327] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_dark_oak
+[12Dec2024 01:41:30.336] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_desert
+[12Dec2024 01:41:30.345] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_jungle
+[12Dec2024 01:41:30.355] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_mangrove
+[12Dec2024 01:41:30.365] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_oak
+[12Dec2024 01:41:30.373] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_spruce
+[12Dec2024 01:41:30.380] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[12Dec2024 01:41:30.381] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[12Dec2024 01:41:30.382] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[12Dec2024 01:41:30.382] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[12Dec2024 01:41:30.383] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[12Dec2024 01:41:30.384] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[12Dec2024 01:41:30.384] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[12Dec2024 01:41:30.385] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[12Dec2024 01:41:30.386] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[12Dec2024 01:41:30.386] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[12Dec2024 01:41:30.387] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[12Dec2024 01:41:30.388] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[12Dec2024 01:41:30.389] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[12Dec2024 01:41:30.390] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[12Dec2024 01:41:30.391] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[12Dec2024 01:41:30.391] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[12Dec2024 01:41:30.391] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[12Dec2024 01:41:30.392] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[12Dec2024 01:41:30.393] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[12Dec2024 01:41:30.393] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[12Dec2024 01:41:30.394] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_cherry
+[12Dec2024 01:41:30.395] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[12Dec2024 01:41:30.396] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[12Dec2024 01:41:30.396] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_swamp
+[12Dec2024 01:41:30.397] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[12Dec2024 01:41:30.398] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[12Dec2024 01:41:30.400] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[12Dec2024 01:41:30.400] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[12Dec2024 01:41:30.401] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[12Dec2024 01:41:30.402] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[12Dec2024 01:41:30.403] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[12Dec2024 01:41:30.403] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[12Dec2024 01:41:30.404] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[12Dec2024 01:41:30.405] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[12Dec2024 01:41:30.405] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[12Dec2024 01:41:30.406] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[12Dec2024 01:41:30.407] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_birch
+[12Dec2024 01:41:30.408] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_oak
+[12Dec2024 01:41:30.408] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[12Dec2024 01:41:30.409] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[12Dec2024 01:41:30.409] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[12Dec2024 01:41:30.410] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[12Dec2024 01:41:30.412] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[12Dec2024 01:41:30.412] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_spruce
+[12Dec2024 01:41:30.414] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[12Dec2024 01:41:30.415] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[12Dec2024 01:41:30.416] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[12Dec2024 01:41:30.416] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[12Dec2024 01:41:30.417] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[12Dec2024 01:41:30.418] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[12Dec2024 01:41:30.418] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[12Dec2024 01:41:30.419] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[12Dec2024 01:41:30.419] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[12Dec2024 01:41:30.420] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[12Dec2024 01:41:30.421] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_swamp
+[12Dec2024 01:41:30.422] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[12Dec2024 01:41:30.422] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[12Dec2024 01:41:30.422] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[12Dec2024 01:41:30.423] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[12Dec2024 01:41:30.424] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[12Dec2024 01:41:30.424] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[12Dec2024 01:41:30.425] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[12Dec2024 01:41:30.425] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[12Dec2024 01:41:30.427] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[12Dec2024 01:41:30.427] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[12Dec2024 01:41:30.428] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_jungle
+[12Dec2024 01:41:30.428] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[12Dec2024 01:41:30.429] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[12Dec2024 01:41:30.429] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[12Dec2024 01:41:30.430] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[12Dec2024 01:41:30.431] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[12Dec2024 01:41:30.443] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_swamp
+[12Dec2024 01:41:30.444] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[12Dec2024 01:41:30.444] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[12Dec2024 01:41:30.445] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[12Dec2024 01:41:30.447] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[12Dec2024 01:41:30.447] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[12Dec2024 01:41:30.448] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[12Dec2024 01:41:30.453] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[12Dec2024 01:41:30.454] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[12Dec2024 01:41:30.454] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[12Dec2024 01:41:30.456] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[12Dec2024 01:41:30.457] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[12Dec2024 01:41:30.457] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[12Dec2024 01:41:30.463] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[12Dec2024 01:41:30.464] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[12Dec2024 01:41:30.465] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[12Dec2024 01:41:30.465] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[12Dec2024 01:41:30.466] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_acacia
+[12Dec2024 01:41:30.467] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[12Dec2024 01:41:30.467] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[12Dec2024 01:41:30.468] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_desert
+[12Dec2024 01:41:30.469] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[12Dec2024 01:41:30.485] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[12Dec2024 01:41:30.486] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_mangrove
+[12Dec2024 01:41:30.486] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[12Dec2024 01:41:30.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[12Dec2024 01:41:30.489] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[12Dec2024 01:41:30.490] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[12Dec2024 01:41:30.493] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[12Dec2024 01:41:30.518] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_swamp
+[12Dec2024 01:41:30.559] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of bonesupdate:lost_grave
+[12Dec2024 01:41:30.609] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_tiny_8
+[12Dec2024 01:41:30.620] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:tree_cage/tree_cage
+[12Dec2024 01:41:30.628] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_medium_1
+[12Dec2024 01:41:30.684] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:birch_house
+[12Dec2024 01:41:30.694] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_spruce_darkoak
+[12Dec2024 01:41:30.703] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_mixed1
+[12Dec2024 01:41:30.716] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:terracotta1
+[12Dec2024 01:41:30.747] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:cabin
+[12Dec2024 01:41:30.758] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:desert
+[12Dec2024 01:41:30.799] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of red:beach_house
+[12Dec2024 01:41:30.810] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_medium_3
+[12Dec2024 01:41:30.823] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_tiny_4
+[12Dec2024 01:41:30.833] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_medium_2
+[12Dec2024 01:41:30.846] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[12Dec2024 01:41:30.853] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/cold/whole
+[12Dec2024 01:41:30.930] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_2
+[12Dec2024 01:41:30.942] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/small_carrot_patch_variant_1
+[12Dec2024 01:41:30.960] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_cluster_1
+[12Dec2024 01:41:30.965] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/small_wheat_patch_variant_3
+[12Dec2024 01:41:30.972] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/one_potato_plant
+[12Dec2024 01:41:31.059] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_small_1
+[12Dec2024 01:41:31.078] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:plains_oracle
+[12Dec2024 01:41:31.095] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/tiny_potato_patch_variant_3
+[12Dec2024 01:41:31.161] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/two_carrot_plant
+[12Dec2024 01:41:31.176] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin1
+[12Dec2024 01:41:31.208] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of meadow:observation_post
+[12Dec2024 01:41:31.215] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/tiny_potato_patch_variant_1
+[12Dec2024 01:41:31.227] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:rot_tree/rot_tree_2
+[12Dec2024 01:41:31.249] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_swamp_hunter
+[12Dec2024 01:41:31.290] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of red:flower_oracle
+[12Dec2024 01:41:31.311] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:doorbox
+[12Dec2024 01:41:31.527] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_2
+[12Dec2024 01:41:31.545] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of meadow:chapel
+[12Dec2024 01:41:31.545] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[12Dec2024 01:41:31.546] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[12Dec2024 01:41:31.584] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_small_10
+[12Dec2024 01:41:31.595] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_mushroom_naturalist
+[12Dec2024 01:41:31.615] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_small_2
+[12Dec2024 01:41:31.657] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of red:desert_pyramid
+[12Dec2024 01:41:31.670] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_mushroom_soothsayer
+[12Dec2024 01:41:31.677] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/tiny_wheat_patch_variant_1
+[12Dec2024 01:41:31.735] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of meadow:logging_camp
+[12Dec2024 01:41:31.735] [Worker-Main-3/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[12Dec2024 01:41:31.736] [Worker-Main-3/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[12Dec2024 01:41:31.743] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_4
+[12Dec2024 01:41:31.789] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[12Dec2024 01:41:31.798] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[12Dec2024 01:41:31.887] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:desert_shrine/whole
+[12Dec2024 01:41:31.897] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/small_carrot_patch_variant_3
+[12Dec2024 01:41:31.905] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_tiny_9
+[12Dec2024 01:41:32.173] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[12Dec2024 01:41:32.175] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[12Dec2024 01:41:32.185] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/mini_carrot_patch_variant_4
+[12Dec2024 01:41:32.191] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[12Dec2024 01:41:32.197] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_3
+[12Dec2024 01:41:32.198] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/small_wheat_patch_variant_1
+[12Dec2024 01:41:32.274] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_small_13
+[12Dec2024 01:41:32.314] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:birch_mushroom_cave/birch_mushroom_cave
+[12Dec2024 01:41:33.182] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_1
+[12Dec2024 01:41:33.193] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of meadow:monument
+[12Dec2024 01:41:33.221] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_triple
+[12Dec2024 01:41:33.240] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:fortified_desert
+[12Dec2024 01:41:33.247] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_mixed3
+[12Dec2024 01:41:33.256] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:terracotta2
+[12Dec2024 01:41:33.302] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_soothsayer
+[12Dec2024 01:41:33.311] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_large_1
+[12Dec2024 01:41:33.320] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_cluster_2
+[12Dec2024 01:41:33.469] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_mushroom_sentinel
+[12Dec2024 01:41:33.480] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/medium_wheat_patch_variant_2
+[12Dec2024 01:41:33.489] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_savanna_naturalist
+[12Dec2024 01:41:33.495] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_large_18
+[12Dec2024 01:41:33.519] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_2
+[12Dec2024 01:41:33.522] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[12Dec2024 01:41:33.592] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_small_3
+[12Dec2024 01:41:33.613] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_swamp_naturalist
+[12Dec2024 01:41:33.664] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:pumpkin_patch/medium_9_pumpkin_patch
+[12Dec2024 01:41:33.695] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:spruce_house
+[12Dec2024 01:41:33.701] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:sandstone_house
+[12Dec2024 01:41:33.707] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:oak_house
+[12Dec2024 01:41:33.720] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:terracotta_double
+[12Dec2024 01:41:33.732] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_mixed_double
+[12Dec2024 01:41:33.756] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/conduit_ruin_3
+[12Dec2024 01:41:33.770] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[12Dec2024 01:41:34.040] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[12Dec2024 01:41:34.044] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[12Dec2024 01:41:34.046] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[12Dec2024 01:41:34.048] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[12Dec2024 01:41:34.049] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[12Dec2024 01:41:34.050] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[12Dec2024 01:41:34.051] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[12Dec2024 01:41:34.052] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[12Dec2024 01:41:34.053] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[12Dec2024 01:41:34.054] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[12Dec2024 01:41:34.058] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[12Dec2024 01:41:34.060] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[12Dec2024 01:41:34.061] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[12Dec2024 01:41:34.062] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[12Dec2024 01:41:34.062] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[12Dec2024 01:41:34.067] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[12Dec2024 01:41:34.069] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[12Dec2024 01:41:34.070] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[12Dec2024 01:41:34.074] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[12Dec2024 01:41:34.076] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[12Dec2024 01:41:34.081] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[12Dec2024 01:41:34.084] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[12Dec2024 01:41:34.085] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[12Dec2024 01:41:34.087] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[12Dec2024 01:41:34.091] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[12Dec2024 01:41:34.092] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[12Dec2024 01:41:34.093] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[12Dec2024 01:41:34.096] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[12Dec2024 01:41:34.098] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[12Dec2024 01:41:34.106] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[12Dec2024 01:41:34.108] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[12Dec2024 01:41:34.109] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[12Dec2024 01:41:34.462] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ms1
+[12Dec2024 01:41:34.703] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ls1
+[12Dec2024 01:41:34.851] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:libraries/cold
+[12Dec2024 01:41:34.856] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:libraries/normal
+[12Dec2024 01:41:34.858] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_corner
+[12Dec2024 01:41:34.865] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[12Dec2024 01:41:34.871] [Worker-Main-2/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/tower2 is being run through DFU (hash c8dfad228f0a93a076edd7a83fbdc07cd5877d4fc2fe257a94c654fd890cef06), this will cause launch time delays
+[12Dec2024 01:41:34.957] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[12Dec2024 01:41:35.348] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ss1
+[12Dec2024 01:41:35.367] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/mini_carrot_patch_variant_1
+[12Dec2024 01:41:35.441] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:small_bridge_sand
+[12Dec2024 01:41:35.463] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_swamp_soothsayer
+[12Dec2024 01:41:35.504] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of meadow:bench
+[12Dec2024 01:41:35.762] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_3
+[12Dec2024 01:41:35.783] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:deep_spawner_room/deep_spawner_room_1
+[12Dec2024 01:41:35.784] [Worker-Main-2/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:pumpkin_patch/medium_11_pumpkin_patch is being run through DFU (hash 6fe24abcbc5ed18db5ec5f623cc0e465601fc5d52b351db4d2229e4cdf8e88a6), this will cause launch time delays
+[12Dec2024 01:41:35.820] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[12Dec2024 01:41:35.917] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of red:statue2
+[12Dec2024 01:41:35.924] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/small_potato_patch_variant_3
+[12Dec2024 01:41:36.098] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/medium_wheat_patch_variant_1
+[12Dec2024 01:41:36.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11287ms or 225 ticks behind
+[12Dec2024 01:41:36.638] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:bee_farm/bee_farm_forest
+[12Dec2024 01:41:37.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/mini_carrot_patch_variant_2
+[12Dec2024 01:41:37.971] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_birch_double
+[12Dec2024 01:41:37.984] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_spruce_double
+[12Dec2024 01:41:38.085] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[12Dec2024 01:41:38.099] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[12Dec2024 01:41:38.100] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_jungle_soothsayer
+[12Dec2024 01:41:38.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_3
+[12Dec2024 01:41:38.116] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_3_bottom
+[12Dec2024 01:41:38.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave/cave_2
+[12Dec2024 01:41:38.122] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/entrance/entrance_2
+[12Dec2024 01:41:38.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/main_room/main_room_1
+[12Dec2024 01:41:38.134] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/passage/passage_2
+[12Dec2024 01:41:38.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/stairs/stairs_6
+[12Dec2024 01:41:38.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/spawner_room/zombie_spawner_room
+[12Dec2024 01:41:38.193] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:forge/forge_2 is being run through DFU (hash 9239a17b7b008c8f99b828f8f9926f43410e9cf8dbea2e0d2f366e1104a63eec), this will cause launch time delays
+[12Dec2024 01:41:38.422] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/villagers/villager_stal
+[12Dec2024 01:41:39.270] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/tiny_potato_patch_variant_2
+[12Dec2024 01:41:39.490] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of red:big_oracle
+[12Dec2024 01:41:39.668] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_hunter
+[12Dec2024 01:41:40.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_18
+[12Dec2024 01:41:40.735] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:desert_house/desert_house
+[12Dec2024 01:41:40.998] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of red:statue
+[12Dec2024 01:41:41.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/arbalist
+[12Dec2024 01:41:41.154] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[12Dec2024 01:41:41.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/axeguard
+[12Dec2024 01:41:41.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/archer
+[12Dec2024 01:41:41.254] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/mini_carrot_patch_variant_3
+[12Dec2024 01:41:41.452] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_1
+[12Dec2024 01:41:42.018] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:watchtower/taiga/base_plate/whole
+[12Dec2024 01:41:42.035] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:watchtower/plains/base_plate/whole
+[12Dec2024 01:41:42.045] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:watchtower/savanna/base_plate/whole
+[12Dec2024 01:41:42.057] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/potato_field_variant_2
+[12Dec2024 01:41:42.125] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_2
+[12Dec2024 01:41:42.127] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/cave_entrance/small_2_bottom is being run through DFU (hash 2bc053a962cf4fbc8618b188b1a6ed54110002f7a309f333abb918f229971bcf), this will cause launch time delays
+[12Dec2024 01:41:42.140] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave/cave_1
+[12Dec2024 01:41:42.142] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/entrance/entrance_1 is being run through DFU (hash 987a6ed7ee946c2ee383e89f978b2ec154382a55cc4d5f2b1c16da07cae0c8f5), this will cause launch time delays
+[12Dec2024 01:41:42.151] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/main_room/main_room_3 is being run through DFU (hash 81d4287e27371a65839f7060aa7585a179412dce52c42677eeda47e00df315ee), this will cause launch time delays
+[12Dec2024 01:41:42.170] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/passage/passage_3
+[12Dec2024 01:41:42.171] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/stairs/stairs_2 is being run through DFU (hash 7bea1c1c6ed4c0a16c82af6e177825b35c147edc33b71c2381006b6e77af7c5f), this will cause launch time delays
+[12Dec2024 01:41:42.174] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/spawner_room/spider_spawner_room is being run through DFU (hash 7f37b54e91c8a66285724370c307a3a565a8c93f409e32f49f3243b91814b324), this will cause launch time delays
+[12Dec2024 01:41:42.183] [Worker-Main-2/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/side_room/side_room_4 is being run through DFU (hash c143340e369ff2f135c791a92f431c31817ca53a474ae69b3b65899b2bdeb1a7), this will cause launch time delays
+[12Dec2024 01:41:42.219] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:gallows/gallows
+[12Dec2024 01:41:42.230] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:abandoned_mansion
+[12Dec2024 01:41:42.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_room/spawner_room_1
+[12Dec2024 01:41:42.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_1
+[12Dec2024 01:41:43.368] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_large_2
+[12Dec2024 01:41:44.325] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:ice_shanty/ice_shanty
+[12Dec2024 01:41:44.398] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_jungle_sentinel
+[12Dec2024 01:41:46.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_small_3
+[12Dec2024 01:44:29.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:44:29.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:47:16.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:altar/small_altar_2
+[12Dec2024 01:47:17.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_center_3
+[12Dec2024 01:47:17.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_chest_fail
+[12Dec2024 01:47:17.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_fail
+[12Dec2024 01:47:17.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_crossbow
+[12Dec2024 01:47:17.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_sword
+[12Dec2024 01:47:17.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_brute
+[12Dec2024 01:47:17.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_1
+[12Dec2024 01:47:17.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_4
+[12Dec2024 01:47:17.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_2
+[12Dec2024 01:47:17.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_3
+[12Dec2024 01:47:17.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_chest
+[12Dec2024 01:47:17.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_corner_3
+[12Dec2024 01:47:17.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_corner_1
+[12Dec2024 01:47:17.263] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:obsidian_egg/medium_obsidian_egg_side
+[12Dec2024 01:47:17.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:crimson_tower/base/top/0
+[12Dec2024 01:47:17.314] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:crimson_tower/interior/blaze
+[12Dec2024 01:47:17.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hearths:crimson_tower/interior/chest
+[12Dec2024 01:47:17.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_accum_quad
+[12Dec2024 01:47:20.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of piglinproliferation:bastion/alchemist_piglin
+[12Dec2024 01:47:20.880] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/bridge/starting_pieces/entrance
+[12Dec2024 01:47:27.231] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4556c194: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[12Dec2024 01:47:28.117] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:sanctum/top
+[12Dec2024 01:47:28.340] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:sanctum/mobs/cultist is being run through DFU (hash c4dc25cb58097915579886106bbc1e198520b55f3eb8f04a345a00a0c765ccc7), this will cause launch time delays
+[12Dec2024 01:47:28.424] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:sanctum/mobs/ritualist is being run through DFU (hash 0e868659c1ca8ea3c707f4dc74b8119925cdfa2503c5e991622fdb8eec7b3068), this will cause launch time delays
+[12Dec2024 01:47:28.428] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:sanctum/mobs/apostle is being run through DFU (hash 51bdd10b72ec0e30598b836096e9bc29e89369a9bc5e7f85ccdd70c861dccc29), this will cause launch time delays
+[12Dec2024 01:47:28.433] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:sanctum/mobs/inquisitor is being run through DFU (hash 8d96e75436567823b0257ccfd704c195705b127037c26e870fe75e08e300a3c7), this will cause launch time delays
+[12Dec2024 01:47:28.436] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:sanctum/mobs/protector is being run through DFU (hash 6392f20315df84b827a6e9cc406f96b1a50e427cdb9bd85496a488c4093d5c6d), this will cause launch time delays
+[12Dec2024 01:47:28.441] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:sanctum/mobs/illusionist is being run through DFU (hash 027c4f4c7d331a655bf1fbaef8b0a92d9e1e530e2644d6db1b69203ff004e6d2), this will cause launch time delays
+[12Dec2024 01:47:28.467] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:sanctum/mobs/ravager is being run through DFU (hash fff94ec6c55b75b9599582288348925a4ca31253c27d738a183f520268f002fd), this will cause launch time delays
+[12Dec2024 01:47:28.660] [Worker-Main-3/DEBUG] [ModernFix/]: Structure incendium:sanctum/mobs/guardian is being run through DFU (hash 13f86bba30b380e54541b1d7bf2884d6eee8fe55b51c8f550b26a4cd60b61fe7), this will cause launch time delays
+[12Dec2024 01:47:28.781] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4556c194: RandomSpreadSearchWorker succeeded with 3840 radius, 135 samples
+[12Dec2024 01:47:42.001] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:altar/small_altar_1
+[12Dec2024 01:47:48.085] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mod_integration/keep_create
+[12Dec2024 01:47:48.109] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep
+[12Dec2024 01:47:48.113] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mobs/wither_skeleton
+[12Dec2024 01:47:48.114] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_front_left
+[12Dec2024 01:47:48.115] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_front_left
+[12Dec2024 01:47:48.117] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_front_left
+[12Dec2024 01:47:48.119] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/keep_tower_front_left
+[12Dec2024 01:47:48.120] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mobs/piglin
+[12Dec2024 01:47:48.122] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/keep_right_side
+[12Dec2024 01:47:48.122] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mobs/skeleton
+[12Dec2024 01:47:48.126] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:mod_integration/battle_bridge_gate_create
+[12Dec2024 01:47:48.127] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:battle_bridge/battle_bridge_start
+[12Dec2024 01:47:48.128] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_back_left
+[12Dec2024 01:47:48.129] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_back_left
+[12Dec2024 01:47:48.131] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_back_left
+[12Dec2024 01:47:48.132] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/keep_tower_back_left
+[12Dec2024 01:47:48.134] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/keep_left_side
+[12Dec2024 01:47:48.135] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/keep_well
+[12Dec2024 01:47:48.136] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_back_right
+[12Dec2024 01:47:48.137] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_back_right
+[12Dec2024 01:47:48.138] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_back_right
+[12Dec2024 01:47:48.140] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/keep_tower_back_right
+[12Dec2024 01:47:48.140] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_top_front_right
+[12Dec2024 01:47:48.141] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_chainable_front_right
+[12Dec2024 01:47:48.143] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_front_right
+[12Dec2024 01:47:48.145] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/keep_tower_front_right
+[12Dec2024 01:47:48.146] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:battle_bridge/battle_bridge_straight
+[12Dec2024 01:47:48.147] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:battle_bridge/battle_bridge_pillar
+[12Dec2024 01:47:48.152] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:battle_bridge/battle_bridge_gate
+[12Dec2024 01:47:48.153] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:battle_bridge/battle_bridge_split
+[12Dec2024 01:47:48.154] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_bottom_back_left
+[12Dec2024 01:47:48.155] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_bottom_back_right
+[12Dec2024 01:47:48.156] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_bottom_back_right
+[12Dec2024 01:47:48.157] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_bottom_front_right
+[12Dec2024 01:47:48.158] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_front_left
+[12Dec2024 01:47:48.162] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/alchemy_md_side_0
+[12Dec2024 01:47:48.163] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_straight_prop
+[12Dec2024 01:47:48.165] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/quarters_sm
+[12Dec2024 01:47:48.167] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_stairs
+[12Dec2024 01:47:48.171] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/better_portals
+[12Dec2024 01:47:48.173] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/jail_md_l_0
+[12Dec2024 01:47:48.173] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_turn_left_decor
+[12Dec2024 01:47:48.174] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_straight_decor
+[12Dec2024 01:47:48.176] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_3_prop
+[12Dec2024 01:47:48.177] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/study_md_l_0
+[12Dec2024 01:47:48.178] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_turn_left_prop_0
+[12Dec2024 01:47:48.179] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/mess_md_l_0
+[12Dec2024 01:47:48.179] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_turn_left
+[12Dec2024 01:47:48.180] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_3
+[12Dec2024 01:47:48.181] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/armory_md_side_0
+[12Dec2024 01:47:48.182] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/storeroom_sm_1
+[12Dec2024 01:47:48.183] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_3_decor
+[12Dec2024 01:47:48.183] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_straight
+[12Dec2024 01:47:48.184] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/study_sm
+[12Dec2024 01:47:48.185] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/mess_md_r_0
+[12Dec2024 01:47:48.186] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_turn_left_prop_1
+[12Dec2024 01:47:48.187] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/storeroom_sm_0
+[12Dec2024 01:47:48.188] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/nether_reactor_md_l_0
+[12Dec2024 01:47:48.188] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/officer_sm
+[12Dec2024 01:47:48.190] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/study_md_r_0
+[12Dec2024 01:47:48.191] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/quarters_md_r_0
+[12Dec2024 01:47:48.191] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/halls_entrance_frame
+[12Dec2024 01:47:48.193] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/quarters_md_l_0
+[12Dec2024 01:47:48.195] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/worship_md_r_0
+[12Dec2024 01:47:48.197] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/nether_reactor_md_r_0
+[12Dec2024 01:47:48.198] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/worship_md_l_0
+[12Dec2024 01:47:48.199] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/a_very_ethical_room
+[12Dec2024 01:47:48.200] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/halls_entrance_tunnel
+[12Dec2024 01:47:48.202] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/jail_md_r_0
+[12Dec2024 01:47:48.203] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/obsidan_md_side_0
+[12Dec2024 01:47:48.205] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/room/puzzle_md_side_0
+[12Dec2024 01:47:48.209] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_stairs_l
+[12Dec2024 01:47:48.212] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_stairs_r
+[12Dec2024 01:47:48.213] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/blaze_stairs
+[12Dec2024 01:47:48.214] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start
+[12Dec2024 01:47:48.215] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_2
+[12Dec2024 01:47:48.216] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar
+[12Dec2024 01:47:48.219] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_chest_empty
+[12Dec2024 01:47:48.220] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_3
+[12Dec2024 01:47:48.221] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_4wide_1
+[12Dec2024 01:47:48.222] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_deadend
+[12Dec2024 01:47:48.223] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_deadend_prop
+[12Dec2024 01:47:48.224] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_deadend_decor
+[12Dec2024 01:47:48.224] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/hall_terminator
+[12Dec2024 01:47:48.227] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_4
+[12Dec2024 01:47:48.227] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_end
+[12Dec2024 01:47:48.227] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_end_wall
+[12Dec2024 01:47:48.228] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_wall
+[12Dec2024 01:47:48.228] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_wall
+[12Dec2024 01:47:48.228] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_3
+[12Dec2024 01:47:48.229] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_3
+[12Dec2024 01:47:48.229] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_end_ruined_0
+[12Dec2024 01:47:48.230] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_2
+[12Dec2024 01:47:48.230] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_2
+[12Dec2024 01:47:48.231] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/blaze_stairs_ruined_0
+[12Dec2024 01:47:48.232] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_0
+[12Dec2024 01:47:48.232] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_1
+[12Dec2024 01:47:48.233] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_4
+[12Dec2024 01:47:48.233] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_1
+[12Dec2024 01:47:48.234] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_2
+[12Dec2024 01:47:48.234] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_1
+[12Dec2024 01:47:48.234] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/blaze_stairs_ruined_1
+[12Dec2024 01:47:48.235] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_4
+[12Dec2024 01:47:48.235] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_4
+[12Dec2024 01:47:48.236] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_long_ruined_3
+[12Dec2024 01:47:48.236] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_start_ruined_0
+[12Dec2024 01:47:48.237] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_ruined_0
+[12Dec2024 01:47:48.238] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_chest
+[12Dec2024 01:47:48.240] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_broken_statue_0
+[12Dec2024 01:47:48.242] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_4wide_0
+[12Dec2024 01:47:48.245] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_wart_5wide
+[12Dec2024 01:47:48.248] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_hearth_5wide_0
+[12Dec2024 01:47:48.249] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_3wide_0
+[12Dec2024 01:47:48.250] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_3wide_3
+[12Dec2024 01:47:48.255] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_broken_statue_2
+[12Dec2024 01:47:48.258] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_beacon_unlit
+[12Dec2024 01:47:48.259] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_pillar_shelter
+[12Dec2024 01:47:48.261] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_hearth_5wide_1
+[12Dec2024 01:47:48.261] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_shelf_5wide_1
+[12Dec2024 01:47:48.266] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_0
+[12Dec2024 01:47:48.268] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_0_l
+[12Dec2024 01:47:48.269] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_0_r
+[12Dec2024 01:47:48.270] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_1_l
+[12Dec2024 01:47:48.271] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_1_r
+[12Dec2024 01:47:48.272] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_2_l
+[12Dec2024 01:47:48.273] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_2_r
+[12Dec2024 01:47:48.275] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_3_l
+[12Dec2024 01:47:48.276] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_3_r
+[12Dec2024 01:47:48.277] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_4_l
+[12Dec2024 01:47:48.278] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:blaze/blaze_broken_4_r
+[12Dec2024 01:47:48.281] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_armory_5wide_0
+[12Dec2024 01:47:48.283] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_3wide_2
+[12Dec2024 01:47:48.283] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_4wide_1
+[12Dec2024 01:47:48.288] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_3wide_1
+[12Dec2024 01:47:48.289] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_4wide_0
+[12Dec2024 01:47:48.292] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/obsidian_deposit_2
+[12Dec2024 01:47:48.297] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_3wide_2
+[12Dec2024 01:47:48.301] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_3wide_1
+[12Dec2024 01:47:48.304] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_shelf_4wide_1
+[12Dec2024 01:47:48.310] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_wart_3wide
+[12Dec2024 01:47:48.312] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_fireplace_crumbled_3wide_0
+[12Dec2024 01:47:48.314] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/obsidian_deposit_1
+[12Dec2024 01:47:48.485] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterfortresses:bridge/bridge_pillar_beacon_lit is being run through DFU (hash 07dc634af68f91e80a67b499a17b26f43bcf2e91067f445da0f899467b2d13d6), this will cause launch time delays
+[12Dec2024 01:47:48.866] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_3_covered
+[12Dec2024 01:47:54.140] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[12Dec2024 01:47:54.205] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[12Dec2024 01:47:54.233] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[12Dec2024 01:47:54.381] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:warped_ender_claw/warped_ender_claw
+[12Dec2024 01:47:55.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20365ms or 407 ticks behind
+[12Dec2024 01:47:58.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[12Dec2024 01:47:58.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has reached the goal [An Illager Refuge?]
+[12Dec2024 01:48:00.516] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[12Dec2024 01:48:00.523] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[12Dec2024 01:48:01.089] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:piglin_house/piglin_house_2
+[12Dec2024 01:48:01.090] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:altar/big_altar_2
+[12Dec2024 01:48:02.053] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[12Dec2024 01:48:08.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa moved too quickly! 4.626402515529662,-8.05000016093258,4.104959272770202
+[12Dec2024 01:48:19.983] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[12Dec2024 01:48:24.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[12Dec2024 01:48:31.155] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/tower/whole
+[12Dec2024 01:48:31.156] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/nether_wart
+[12Dec2024 01:48:31.156] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gilded_blackstone
+[12Dec2024 01:48:31.157] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/bridge_chest
+[12Dec2024 01:48:31.158] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/treasure_chest
+[12Dec2024 01:48:31.159] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge/normal
+[12Dec2024 01:48:31.159] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/blaze_spawner
+[12Dec2024 01:48:31.160] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/netherite
+[12Dec2024 01:48:31.160] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/hoglin_spawner
+[12Dec2024 01:48:31.160] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gold_blocks
+[12Dec2024 01:48:31.161] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/chisel
+[12Dec2024 01:48:31.161] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/glowstone
+[12Dec2024 01:48:31.161] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge_feature/gold
+[12Dec2024 01:48:31.162] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/piglins
+[12Dec2024 01:48:31.167] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/bridge/ruined
+[12Dec2024 01:48:32.024] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:basalt_factory_ruin/basalt_factory_ruin
+[12Dec2024 01:48:49.313] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:altar/small_altar_3
+[12Dec2024 01:48:49.925] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[12Dec2024 01:49:10.704] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[12Dec2024 01:49:10.705] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[12Dec2024 01:49:10.706] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[12Dec2024 01:49:10.707] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[12Dec2024 01:49:10.708] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[12Dec2024 01:49:10.708] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[12Dec2024 01:49:10.708] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[12Dec2024 01:49:10.709] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[12Dec2024 01:49:10.710] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[12Dec2024 01:49:10.710] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[12Dec2024 01:49:10.711] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[12Dec2024 01:49:10.711] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[12Dec2024 01:49:10.711] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[12Dec2024 01:49:10.712] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[12Dec2024 01:49:10.712] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[12Dec2024 01:49:10.712] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[12Dec2024 01:49:10.713] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[12Dec2024 01:49:10.713] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[12Dec2024 01:49:10.713] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[12Dec2024 01:49:10.714] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[12Dec2024 01:49:10.714] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[12Dec2024 01:49:10.714] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[12Dec2024 01:49:10.715] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[12Dec2024 01:49:10.715] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[12Dec2024 01:49:10.718] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[12Dec2024 01:49:12.541] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonrangedboss at BlockPos{x=2071, y=17, z=1500} at Barrel with:minecraft:chests/nether_bridge
+[12Dec2024 01:49:28.971] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_blaze_tower
+[12Dec2024 01:49:31.237] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower3
+[12Dec2024 01:49:32.572] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_obsi_house
+[12Dec2024 01:49:38.463] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[12Dec2024 01:49:38.478] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=2129, y=41, z=1618} at Chest with:minecraft:chests/bastion_treasure
+[12Dec2024 01:49:47.682] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=2172, y=61, z=1529} at Chest with:minecraft:chests/bastion_treasure
+[12Dec2024 01:49:50.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:49:50.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:49:57.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:bastion/treasure/bases/centers/center_1
+[12Dec2024 01:50:01.784] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:piglin_house/piglin_house_1
+[12Dec2024 01:50:01.784] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:altar/big_altar_3
+[12Dec2024 01:50:05.799] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Dec2024 01:50:11.312] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4556c194: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[12Dec2024 01:50:11.347] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4556c194: RandomSpreadSearchWorker succeeded with 415 radius, 2 samples
+[12Dec2024 01:50:16.136] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_absi_palace
+[12Dec2024 01:50:16.163] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_giant_crimson_tree
+[12Dec2024 01:50:17.630] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of netherdungeons:altar/big_altar_1
+[12Dec2024 01:50:23.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8952ms or 179 ticks behind
+[12Dec2024 01:50:28.427] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of awesomedungeonnether:nth_center_square
+[12Dec2024 01:50:31.381] [Worker-Main-1/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:basalt_castle/king_piglin_brute/king_piglin_brute is being run through DFU (hash 49087f20db021c321c04f68dd25626ab552a93e591f54b58eef2cbe16f06a651), this will cause launch time delays
+[12Dec2024 01:50:31.390] [Worker-Main-1/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:basalt_castle/piglins/gold_sword_piglin is being run through DFU (hash 5f9b288e0bc3999e9e9ec0ea5412e42aace4dfbbb74beec31662cd7a7c6eaf43), this will cause launch time delays
+[12Dec2024 01:50:31.393] [Worker-Main-1/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:basalt_castle/blaze/blaze is being run through DFU (hash fad7db3d5b2d6e0705188365ddc0cba26d5f1d191b886adfa3a2975e735fad88), this will cause launch time delays
+[12Dec2024 01:50:31.396] [Worker-Main-1/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:basalt_castle/piglin_brute/piglin_brute is being run through DFU (hash 223d7c17505f105ac5ac18005aa681d3645cfcc7b66046301a9cafa1dc80bc69), this will cause launch time delays
+[12Dec2024 01:50:31.399] [Worker-Main-1/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:basalt_castle/hoglins/hoglin is being run through DFU (hash 0ced4b6042ebcba655bad08dae23623b7c74cca7f051a76a54dd4048028eee37), this will cause launch time delays
+[12Dec2024 01:50:31.401] [Worker-Main-1/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:basalt_castle/piglins/baby_piglin is being run through DFU (hash 170dba22a6ea50a1d543e5b60e79cb823d59632e461c7ef4b96601a96a78901d), this will cause launch time delays
+[12Dec2024 01:50:31.404] [Worker-Main-1/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:basalt_castle/piglins/normal_piglin is being run through DFU (hash 4af5d15291c285886f13c2417a06bfd36dcec107f6e9d9c56a9384379515029c), this will cause launch time delays
+[12Dec2024 01:50:31.408] [Worker-Main-1/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:basalt_castle/piglins/crossbow_piglin is being run through DFU (hash 0185b84ab5e8d32ad2b530f5f3466756e26f0b7dd6ac4a2e15a2b0440c416865), this will cause launch time delays
+[12Dec2024 01:50:34.233] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[12Dec2024 01:50:34.261] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[12Dec2024 01:50:34.287] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[12Dec2024 01:50:34.312] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[12Dec2024 01:50:34.343] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[12Dec2024 01:50:34.368] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[12Dec2024 01:50:34.374] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[12Dec2024 01:50:48.743] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_front_right
+[12Dec2024 01:50:48.744] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_bottom_front_left
+[12Dec2024 01:50:48.745] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:keep/tower/tower_stairs_mid_back_left
+[12Dec2024 01:50:48.757] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_shelf_4wide_0
+[12Dec2024 01:50:48.766] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_armory_4wide_0
+[12Dec2024 01:50:48.776] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:halls/prop/hall_prop_glowstone_3wide_0
+[12Dec2024 01:50:49.067] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of betterfortresses:bridge/bridge_junction_2_covered
+[12Dec2024 01:50:51.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Nightmare Fuel]
+[12Dec2024 01:50:54.410] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_main is being run through DFU (hash 5732e26fb8226e16e15cf8dd8e79d0bfbb0e09943a037b648d64aec30d5d054e), this will cause launch time delays
+[12Dec2024 01:50:54.670] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/courtyards/courtyard_2x1 is being run through DFU (hash 481b91e1450d0bccec91a7d5d98d2b7ab7b4ab9e7412ef89ed7beab5587977d8), this will cause launch time delays
+[12Dec2024 01:50:54.763] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l2 is being run through DFU (hash 35f57725feadaa0a957aaaa4e79c990d5545fb471e8ffb3d5480a3af39d0dbb4), this will cause launch time delays
+[12Dec2024 01:50:54.835] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l2 is being run through DFU (hash 5c362b041a58640733daedc05b77666b6ac36d25183b7e2929abd612bb780a4b), this will cause launch time delays
+[12Dec2024 01:50:55.069] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/shock_troop is being run through DFU (hash a8a55635cbbb85f86b1658e5401e889aa0d6c468041ebff0fcd56d660b29437c), this will cause launch time delays
+[12Dec2024 01:50:55.112] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l3_alt is being run through DFU (hash d8b4ceaa3939a3d7ab19fb1c421bbd5847fd932e9a4cfaceb185f6b5f0e4eb6b), this will cause launch time delays
+[12Dec2024 01:50:55.265] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/archer is being run through DFU (hash 6d0cc24a884d6e855f4631741955b7488628df73c9894bd6abeae0a7b384ddeb), this will cause launch time delays
+[12Dec2024 01:50:55.277] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l3 is being run through DFU (hash 81b8007f23aaf5cc78ff3961f1217f663549ef7945baf5505a43cc4b0c209dad), this will cause launch time delays
+[12Dec2024 01:50:55.319] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/courtyards/courtyard_1x1 is being run through DFU (hash 3247bcac13485f0b49c125b907e9ca4f2d8eb7d44893019fa013b7b53a629098), this will cause launch time delays
+[12Dec2024 01:50:55.356] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_gate3 is being run through DFU (hash 486c4e3ede277965a67ad50569949ed5f8674eb2f4c0fc1dfee0181e79954a92), this will cause launch time delays
+[12Dec2024 01:50:55.389] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_gate is being run through DFU (hash 1532467e9ee42e1ccd626e3cfec29e742e76e800ee49c4de650aa129844ac761), this will cause launch time delays
+[12Dec2024 01:50:55.417] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x1_l3 is being run through DFU (hash 192c3adcba94605f8ad4e1b47293e53e1960c493b78af1d45819bd9318536cd4), this will cause launch time delays
+[12Dec2024 01:50:55.516] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l3 is being run through DFU (hash f153841a40656b021235c6cbb1297424973d8a428c18e1fa20c5601f6c9f7723), this will cause launch time delays
+[12Dec2024 01:50:55.675] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/crossroads1 is being run through DFU (hash aaf3c0996d3f5ae6287902c51a3a9d3caf493f107709bb94f659b69dda5fe83a), this will cause launch time delays
+[12Dec2024 01:50:55.684] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/coolant_room is being run through DFU (hash 229442f8abab9ca8e2484d4178c354285a7d15c832ccadf9af5bd8da02093c92), this will cause launch time delays
+[12Dec2024 01:50:55.701] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/crimson_greenhouse is being run through DFU (hash 85ed23286fef6bb7d738d3e3db8329e8397272e92bd37ef44f99a8f7f26da6d4), this will cause launch time delays
+[12Dec2024 01:50:55.752] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/magma_room is being run through DFU (hash fe038dbe2947e331140de5ba21902eaee56f12c01fb19f707cdbd49f45f63a5c), this will cause launch time delays
+[12Dec2024 01:50:55.887] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/kitchen is being run through DFU (hash 15021c9d6882d24471a7715da9b1af075b32f6e811183b17357cd8905455639f), this will cause launch time delays
+[12Dec2024 01:50:55.914] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/brewing is being run through DFU (hash 38208be29806ecd7bef79f33520ca6205e0f13bfcb20a174de486289fc5d3e44), this will cause launch time delays
+[12Dec2024 01:50:55.934] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/cell is being run through DFU (hash c97528a624199d6ce6f9a666a2ea98015156e484b63d8d5ccecef2a978b80154), this will cause launch time delays
+[12Dec2024 01:50:55.944] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15w is being run through DFU (hash c7577f08da449dbff07262cc26a1da05798b38a406b1527543a93961f1cc44de), this will cause launch time delays
+[12Dec2024 01:50:55.960] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15_compat is being run through DFU (hash 7e5dc38539a504a294004469361a0453274f59a92d8bcd4c7069ce5d7be6d7c7), this will cause launch time delays
+[12Dec2024 01:50:55.979] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_corner is being run through DFU (hash 920f27d007c214ea46ee0edf93f8a62622b16638c6f3719b1864c7781c1e2c2d), this will cause launch time delays
+[12Dec2024 01:50:55.998] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15 is being run through DFU (hash d3915e9fb1c16b0139533fe9641347f85b273b9cc3fc36d3fc0a7ce46f13603b), this will cause launch time delays
+[12Dec2024 01:50:56.016] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_10 is being run through DFU (hash 87b0a593989cb1fdf6a64c467439fa2205209df4b4c31eefbf863c0983122e16), this will cause launch time delays
+[12Dec2024 01:50:56.049] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/statues/statue_2x2 is being run through DFU (hash a82f713589a469e67f3c5c6378e1ea68987b561b7b5a2b4892443d9dbf587c43), this will cause launch time delays
+[12Dec2024 01:50:56.161] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/corridors is being run through DFU (hash b06a625724574d309308623059d68b33bd4911370535f576b8eae7927f5e9a66), this will cause launch time delays
+[12Dec2024 01:50:56.182] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_gold is being run through DFU (hash 997183b71a923ddc251a357bfb47c310d25d117e7dd1ca4cec6b847b5d6cdc99), this will cause launch time delays
+[12Dec2024 01:50:56.188] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/odd_treasure is being run through DFU (hash 6c25b5187eac6373c48db213bc10e6a452cf10498e576f89ad7ae2288334c7e8), this will cause launch time delays
+[12Dec2024 01:50:56.193] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/crossroads/decor1 is being run through DFU (hash 38b6f84706a798d66ed09a4165ba139eec7c062b8064f09bdaf90fce9c805caa), this will cause launch time delays
+[12Dec2024 01:50:56.195] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/dining is being run through DFU (hash 7ab3014f33ca41720940744024532fb68aa210e64abc8290f8764b6219376f90), this will cause launch time delays
+[12Dec2024 01:50:56.224] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/strider_pen is being run through DFU (hash c50717c3bee264bd51a2086ed2d85c64fc418d915f689ceb065e010a13aba0b2), this will cause launch time delays
+[12Dec2024 01:50:56.234] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short1 is being run through DFU (hash 704f686a67931a13efb2a1386796360fb996c11d1a745b0059b275c9065025a5), this will cause launch time delays
+[12Dec2024 01:50:56.237] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short2 is being run through DFU (hash cf5e59c84d9292709e0b11b96df3329f37917ee4906d7bea4235c843e6c6c950), this will cause launch time delays
+[12Dec2024 01:50:56.251] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/round_table is being run through DFU (hash 2fc2b5b6b3c17c8535b218d66ebb61d3141be7573d51b7a26baf53c9a6fad2f7), this will cause launch time delays
+[12Dec2024 01:50:56.315] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_5 is being run through DFU (hash 1c18099ee402dc8f1edf0bc89117772a80baad8c5a5781dad51f0dd29732b7a4), this will cause launch time delays
+[12Dec2024 01:50:56.328] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/livq1 is being run through DFU (hash df369eb9c1e515ef6f6b908ecb55b545864d1abc4c417ad2ae8d48ac4d3cfb5b), this will cause launch time delays
+[12Dec2024 01:50:56.339] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/ocean_portal is being run through DFU (hash 91c51fcb53aa42b9843a863bc4ad69a117290edb388c0f7cbe795d95b1e81cde), this will cause launch time delays
+[12Dec2024 01:50:56.348] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight is being run through DFU (hash 4107d7897b8634939926aabe8cf3fa0c6a18adba25d56f0f57449d0e065a386b), this will cause launch time delays
+[12Dec2024 01:50:56.357] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/trap_room is being run through DFU (hash 515d07bf7066d536759f06692750f17eb7e9b606afd44e9d1a052c2c0ce38ba8), this will cause launch time delays
+[12Dec2024 01:50:56.386] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_small is being run through DFU (hash 40b1fd3ef8248b68e77e3e2c1ef8df61294147556524570047d597271e0362e7), this will cause launch time delays
+[12Dec2024 01:50:56.528] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_small_w is being run through DFU (hash 99f2538c790b8ea5d56f619fea79c614150c08617ee40e7a530a7bbf51142a47), this will cause launch time delays
+[12Dec2024 01:50:56.611] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_d1 is being run through DFU (hash 0a71166328e02fb94c61a1f34752c281bf73223bf82a1ada215a00921a9c6165), this will cause launch time delays
+[12Dec2024 01:50:56.653] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_d2 is being run through DFU (hash 9aab6eb4871dd41fce66cdd767283341eff96b9f7ec1cc7a0ff759c77bd23eb7), this will cause launch time delays
+[12Dec2024 01:50:56.679] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_backup is being run through DFU (hash 0530d2e3a62ab493253713f2bcf99f0697d89c2134819a241eac9927b0c4a108), this will cause launch time delays
+[12Dec2024 01:50:56.688] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor3 is being run through DFU (hash 1f5ae44df04752073c033471fccb557ffdde2084f92774ac8f9abbe6737856b7), this will cause launch time delays
+[12Dec2024 01:50:56.716] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/statues/king_ruined1 is being run through DFU (hash d20500e6a0a0fcad89727b68c6124859c1241463629e4f1216d175867283e4d9), this will cause launch time delays
+[12Dec2024 01:50:56.871] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/statues/king_intact1 is being run through DFU (hash 051f8c59252b079d1983cf2cd1c8aac2db40efecfd082e27cd043ff226eb1185), this will cause launch time delays
+[12Dec2024 01:50:57.005] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove4 is being run through DFU (hash 39c0c67e3a9673cbd2c97a158622c20104e44519fbc4c76e40ac3454ae3e91c5), this will cause launch time delays
+[12Dec2024 01:50:57.011] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove10 is being run through DFU (hash b53615fd2e41f15bd4f0171b01d1d8a578ec500b14b680b1955da0c3186cf569), this will cause launch time delays
+[12Dec2024 01:50:57.012] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/corridor2 is being run through DFU (hash 795c7a39bd3b6b1f60856bbcb1517664fae8171687ec28931834a6e3be6b5f45), this will cause launch time delays
+[12Dec2024 01:50:57.017] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/corridor1 is being run through DFU (hash 25ad478c9bb6f0fa8525872067524350c44a82db0f81d49c71d0419c94ab866f), this will cause launch time delays
+[12Dec2024 01:50:57.022] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove7 is being run through DFU (hash 449d30e7a22e016482a630ad0554d1037c2f29c545a7e2a82b1f92a43fad1853), this will cause launch time delays
+[12Dec2024 01:50:57.024] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove1 is being run through DFU (hash 1b12e88f3c5a33353f4c3b9cb5207984dbae19664a5b7abd37d1df238584a143), this will cause launch time delays
+[12Dec2024 01:50:57.025] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove12 is being run through DFU (hash a59c6f3d371d9131858216da63b81b60f580b4883bd729b1164f49a6ba351155), this will cause launch time delays
+[12Dec2024 01:50:57.026] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove14 is being run through DFU (hash 06ecf85a335deae65637fcf5ce35239e7ac389b4ddc2505e867e97fbc6b55576), this will cause launch time delays
+[12Dec2024 01:50:57.028] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove6 is being run through DFU (hash 9e2dc7d3dda776dc443966bbdefcf5cff6aa094ce44aebc53704432d200b58ef), this will cause launch time delays
+[12Dec2024 01:50:57.054] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor2 is being run through DFU (hash 325c0aadd9873daeef187fb7103d1cb67b66029b9fe75f2fdb499233e4ed4d7e), this will cause launch time delays
+[12Dec2024 01:50:57.056] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor1 is being run through DFU (hash de48a3ea0d6bdc4d1151cc6b10458574cf0ed0b9665de9ccabb0a1856dec56eb), this will cause launch time delays
+[12Dec2024 01:50:57.058] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor4 is being run through DFU (hash 7b5fb082ab5176729187cd68a9b09726b58ab87e883249fa70e858a78755d7b9), this will cause launch time delays
+[12Dec2024 01:50:57.061] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor6 is being run through DFU (hash 79ed125ea232bfc95c06144ae9d02ef23ec21d02fe5f616ad96202808922bc78), this will cause launch time delays
+[12Dec2024 01:50:57.063] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table1 is being run through DFU (hash 409092f96f258af8c7f811852d856258f1bd0c79a51bd9b11858489ce3e91ed8), this will cause launch time delays
+[12Dec2024 01:50:57.068] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table2 is being run through DFU (hash f14de7f70526efdb042f418f81334b38043bd725659b7e1fa144407b9a7c3f2b), this will cause launch time delays
+[12Dec2024 01:50:57.070] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small2 is being run through DFU (hash 88d55e517f8aae14402dce491cc6d72e6916736f8c96d2363ea3655daaa88999), this will cause launch time delays
+[12Dec2024 01:50:57.072] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small3 is being run through DFU (hash 5c59dca773286a2a88f668c7a9bdf90810ff19b65003b8eb1a0eb26e4c1e2628), this will cause launch time delays
+[12Dec2024 01:50:57.076] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small1 is being run through DFU (hash ee0415a08738ceb00ae5ccd38a1876b352ee22106dd8f9e969e28b79a2ed8773), this will cause launch time delays
+[12Dec2024 01:50:57.084] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/brewing_w is being run through DFU (hash 6b227cde7f7be104c34326d5a1319a090002d65183e78b5cb5ededcf25aaafdf), this will cause launch time delays
+[12Dec2024 01:50:57.106] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/house_1x1 is being run through DFU (hash 16ee77a4d5d51867ddad884f87610785e60fe667aaef6007afdcdc0afe63ad9b), this will cause launch time delays
+[12Dec2024 01:50:57.120] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/bridges/bridge1 is being run through DFU (hash e64e8ae8df4ef0520c9624f099b5ce5e062a966ff83c013895a894c74401ad5b), this will cause launch time delays
+[12Dec2024 01:50:57.126] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_diamond is being run through DFU (hash 20b7fbd3dfcbe7eb57715d56ecb8336022fcec8113a41c010b67144b2cdd1f64), this will cause launch time delays
+[12Dec2024 01:50:57.134] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool4 is being run through DFU (hash 13437ca3f2a07ca102d5f073b12b2c7a41ed6ce319f77ee7170789af8eb2c1e5), this will cause launch time delays
+[12Dec2024 01:50:57.145] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool2 is being run through DFU (hash fd360ee4d586d4a71fcaf3654d3fa3e15a1be84e93a904c8398a242135ac1242), this will cause launch time delays
+[12Dec2024 01:50:57.160] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool1 is being run through DFU (hash 703ed201bdbcfb8f5bb09429d105dddbfc72a8f062fae72b85db006e3246998d), this will cause launch time delays
+[12Dec2024 01:50:57.173] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool3 is being run through DFU (hash 4b6c302bd8e6baa2858a3f7f761771bc9177d1d5d6f9236f23ad227763b1048a), this will cause launch time delays
+[12Dec2024 01:50:57.189] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/treasure_netherite is being run through DFU (hash b3cd8088634bcfbf2a963d440440dc09f1934c1107f39fcb928d96f0baf84a25), this will cause launch time delays
+[12Dec2024 01:50:57.204] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_3 is being run through DFU (hash 66efcbe05f2ac29af828764826874af1715387eb37b28938afa3bb40205888ce), this will cause launch time delays
+[12Dec2024 01:50:57.217] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_6 is being run through DFU (hash 1ab5b01d1aaf3bb29620ffa845c70a741e050429a22a228351f44f132462def2), this will cause launch time delays
+[12Dec2024 01:50:57.227] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/pigstep is being run through DFU (hash 2c3c9f51ce1fc6f07424b0cb4c21f879b5615a1e5636a4f252e586060269ce50), this will cause launch time delays
+[12Dec2024 01:50:57.238] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short1_hoglin is being run through DFU (hash 127513bb46e7cea9b392f0a53a1b1cad6ba9b80c419c1ff0bad8c7e6544486e3), this will cause launch time delays
+[12Dec2024 01:50:57.248] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/livq2 is being run through DFU (hash 27b003d52f5b2286596b1a3b486f5b0ba7507db29f2fc4a275961fbc42b391f8), this will cause launch time delays
+[12Dec2024 01:50:57.264] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/armory_1 is being run through DFU (hash ee1713b38f1454cfbe0e0aa7b6aa3fa92110daad6d1fb12e33e7606afca11ae6), this will cause launch time delays
+[12Dec2024 01:50:57.304] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/cryostasis_chamber is being run through DFU (hash f3f7d063082f8fabf919f1295981338a962018d4a36dd877bb98b9b61b8a1e92), this will cause launch time delays
+[12Dec2024 01:50:57.325] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_1 is being run through DFU (hash 0c061032cc41ffac892476ffa8603198e627de4db55548e94e6cf0e867de035b), this will cause launch time delays
+[12Dec2024 01:50:57.345] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_2 is being run through DFU (hash 85fd3ed0ea8cff4f3a79530b3c73bc28968d6ef5f3b8c6e5facfb61a66a9ab71), this will cause launch time delays
+[12Dec2024 01:50:57.364] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_8 is being run through DFU (hash 7f8289537156aa830c6cc5b273938cfd329495fe2e82f3da24b04be79a868c19), this will cause launch time delays
+[12Dec2024 01:50:57.388] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/pig_ben is being run through DFU (hash f50d99e478053f6778ebf88a6d60b786029db89bcb3b227dd3bd6f5c77d7d581), this will cause launch time delays
+[12Dec2024 01:50:57.463] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/archery_tower is being run through DFU (hash 3cdac9b175b1745001631ee79b383f6855f8b3549564a40bc0d2ff199387a5a2), this will cause launch time delays
+[12Dec2024 01:50:57.492] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_4 is being run through DFU (hash e2bc29fe93203dc41b594eaf448290d42700b061b0e4d0ce37f2abc2a4041fd8), this will cause launch time delays
+[12Dec2024 01:50:57.516] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove11 is being run through DFU (hash b5fa057942b1e46255422542abd134b7ee70b5fd75b1c191794bb543f9aa2b2d), this will cause launch time delays
+[12Dec2024 01:50:57.518] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove13 is being run through DFU (hash aaf4d2430bd1889894f9634bffd3c6a1b2fb71ffe55a22bf791ae4e4f1256b2f), this will cause launch time delays
+[12Dec2024 01:50:57.519] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove2 is being run through DFU (hash dbc1d8ce41fe99c00c74b961b34ae70991369feeb49f859edd3b5850eaece11c), this will cause launch time delays
+[12Dec2024 01:50:57.536] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove3 is being run through DFU (hash 73bf66f6d4b0da7c059df40d1f15f1b2f851d1b1c955c2ac324d124836fc9939), this will cause launch time delays
+[12Dec2024 01:50:57.537] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove9 is being run through DFU (hash f42e42f64622f5df9978c36b6556a9531a2ff6da96a3748979e97ff1245a256e), this will cause launch time delays
+[12Dec2024 01:50:57.539] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove5 is being run through DFU (hash 4fcb8a77583640003c7e75224dd6468abb96e1372c6000e355dfc5531dce3feb), this will cause launch time delays
+[12Dec2024 01:50:57.547] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/scout is being run through DFU (hash 8f01827d88eb8b2d27b117cdfe85e76e60256360acab401ab8408900be1cf30e), this will cause launch time delays
+[12Dec2024 01:50:57.556] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_base is being run through DFU (hash ac404f7915bd641821149a2f1b09c1398d445825856f09d3b06e511da2f0f1a1), this will cause launch time delays
+[12Dec2024 01:50:57.576] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/alchemist is being run through DFU (hash 7b59154803c0fd581e6d94457f855943cdad6d72b39127dd9bcfc32a74334243), this will cause launch time delays
+[12Dec2024 01:50:57.582] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm1_w is being run through DFU (hash d015463916324afba2105e16015bfc3fb73411f4394ced54b802bd1e794358e1), this will cause launch time delays
+[12Dec2024 01:50:57.584] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand6 is being run through DFU (hash 4ec31af4d4deb327b324ae3fe3560277c00ab3da133be2b1ef9731c8539f5e8a), this will cause launch time delays
+[12Dec2024 01:50:57.586] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand1 is being run through DFU (hash be0dba5391e352bef6c8f459a08d5f03888f0169020ee98a641346f95c0561d2), this will cause launch time delays
+[12Dec2024 01:50:57.589] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand2 is being run through DFU (hash c21ae4ba40ecae7f99bfb35491926c2c284454e4c4daf84f2f8ad2a9f47f1316), this will cause launch time delays
+[12Dec2024 01:50:57.592] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand5 is being run through DFU (hash 7b62a5fdc721d9f7fa7688b120c55aba9bb2856dff4314f17629b03f6b61121f), this will cause launch time delays
+[12Dec2024 01:50:57.594] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm2_w is being run through DFU (hash ce705a108e4566b424458d624c8205238e7f939b5bf0ea48e67b33573d5dec39), this will cause launch time delays
+[12Dec2024 01:50:57.598] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/table2_w is being run through DFU (hash 33336284493df03de35f1b6f539d70e0ceb846901d0163cc6576a32bb1795730), this will cause launch time delays
+[12Dec2024 01:50:57.603] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/statues/small1 is being run through DFU (hash baadc2db45ed7224343ee0e3c6eb1a4d800adc794dfaabf8b678cf3add553306), this will cause launch time delays
+[12Dec2024 01:50:57.607] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/statues/small3 is being run through DFU (hash 7b096d536666f31b65f6e804753b9adaab48104f95dff98f9dfaa0913b37de96), this will cause launch time delays
+[12Dec2024 01:50:57.626] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/saplings_b is being run through DFU (hash e0d03cffed5237d3ba16c9f8c18b9fd30c14e9519c7ffeeb0a0d8300268fabd0), this will cause launch time delays
+[12Dec2024 01:50:57.628] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/saplings_small is being run through DFU (hash a8a880e0fea90cac3e1e82f4809809d421ec10234d0119a2042a307af67dfe74), this will cause launch time delays
+[12Dec2024 01:50:57.630] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/saplings_big is being run through DFU (hash 6fc71266613d99be7a797725fabacdd44f0a5bf8c774727b4851cdf11b61bc07), this will cause launch time delays
+[12Dec2024 01:50:57.632] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_netherite is being run through DFU (hash 1f29f3ba4ff0a764f45e841875abfd92f6fd338e60422c9444ae59ce9ab904e9), this will cause launch time delays
+[12Dec2024 01:50:57.639] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove8 is being run through DFU (hash 82f1d0d947952f4819bb2ae61efae730d5a87fa014408cc334538c12c37bc31e), this will cause launch time delays
+[12Dec2024 01:50:57.641] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand3 is being run through DFU (hash a32c399882395657f26b6766a1830109a6f05395fd992f7a537ba336b9a1ab97), this will cause launch time delays
+[12Dec2024 01:50:57.644] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand4 is being run through DFU (hash 3d4dc78799f286bcdabe75fc711acc843c3da6d358f4648b716062ead63417a6), this will cause launch time delays
+[12Dec2024 01:50:57.647] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm3_w is being run through DFU (hash d395572e21f77eed1ff64a2a3092395a2afae28e17adaecaaf438cc08d44abd3), this will cause launch time delays
+[12Dec2024 01:51:28.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[12Dec2024 01:52:21.020] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zoglinboss at BlockPos{x=1499, y=63, z=1993} at Chest with:minecraft:chests/nether_bridge
+[12Dec2024 01:54:16.682] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [c06f74f7-c8ae-4486-9113-c0f0a47b6a30]
+[12Dec2024 01:54:52.965] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[12Dec2024 01:54:59.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:54:59.259] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 01:55:16.307] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonrangedboss at BlockPos{x=1523, y=74, z=1513} at Chest with:minecraft:chests/nether_bridge
+[12Dec2024 01:56:16.048] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [fec1f3e2-c3ba-4ce8-ba7e-9ec138c96688]
+[12Dec2024 01:56:56.639] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [012db93e-8cdb-47de-ab7b-f6a948cad051]
+[12Dec2024 01:58:28.634] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [247e9264-90bd-4cca-87e8-635bca36922d]
+[12Dec2024 01:59:59.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 01:59:59.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:01:47.168] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of red:herobrine_statue
+[12Dec2024 02:01:47.185] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/vindicator
+[12Dec2024 02:01:47.186] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:mobs/sorcerer
+[12Dec2024 02:01:47.397] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_mixed2
+[12Dec2024 02:01:47.438] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_4
+[12Dec2024 02:01:47.644] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of red:swamp_pillager
+[12Dec2024 02:01:47.669] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of red:swamp_pillager_mangrove
+[12Dec2024 02:01:47.785] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/pathlong_2
+[12Dec2024 02:01:47.786] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/down_4
+[12Dec2024 02:01:47.789] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/down_2
+[12Dec2024 02:01:47.792] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/path
+[12Dec2024 02:01:47.794] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/pathlong_2
+[12Dec2024 02:01:47.796] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/path
+[12Dec2024 02:01:47.798] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/pathlong_2
+[12Dec2024 02:01:49.749] [Worker-Main-2/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:monster_egg/monster_egg_medium_1 is being run through DFU (hash 3701f26b716e259fd8005eb6e860161b192666211e0200fb2661f4442ee74936), this will cause launch time delays
+[12Dec2024 02:01:50.567] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[12Dec2024 02:01:50.577] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/connector_long
+[12Dec2024 02:01:50.587] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard1
+[12Dec2024 02:01:50.593] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/bell is being run through DFU (hash ed90f7bd607015da6eff5078ec5aed8f2b4f250a6d6997c0a3876650f89f82bd), this will cause launch time delays
+[12Dec2024 02:01:50.622] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/grave1 is being run through DFU (hash 81c63b0f7828b9e3fddcfc35cdcacffadfff2fcb44fd3164c35e159d8012faa8), this will cause launch time delays
+[12Dec2024 02:01:50.645] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:labyrinth/tower
+[12Dec2024 02:01:50.693] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_5
+[12Dec2024 02:01:50.835] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_birch
+[12Dec2024 02:01:50.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_cherry
+[12Dec2024 02:01:50.849] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_dark_oak
+[12Dec2024 02:01:50.857] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_forest
+[12Dec2024 02:01:50.863] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_jungle
+[12Dec2024 02:01:50.871] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_mangrove
+[12Dec2024 02:01:50.879] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_savanna
+[12Dec2024 02:01:50.889] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_swamp
+[12Dec2024 02:01:50.901] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_taiga
+[12Dec2024 02:01:50.937] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:jungle_portal
+[12Dec2024 02:01:50.975] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/mini_carrot_patch_variant_5
+[12Dec2024 02:01:50.997] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[12Dec2024 02:01:51.005] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/taiga/guildhouse_taiga
+[12Dec2024 02:01:51.008] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/taiga/campfire
+[12Dec2024 02:01:51.010] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[12Dec2024 02:01:52.354] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[12Dec2024 02:01:52.369] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[12Dec2024 02:01:52.775] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of bosses_of_mass_destruction:lich_tower/bottom
+[12Dec2024 02:01:52.811] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:jungle_pyramid
+[12Dec2024 02:01:53.424] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of red:birch_deforestation
+[12Dec2024 02:01:53.445] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of red:forest_deforestation
+[12Dec2024 02:01:53.467] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of red:jungle_deforestation
+[12Dec2024 02:01:53.488] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of red:taiga_deforestation
+[12Dec2024 02:01:53.716] [Worker-Main-2/DEBUG] [ModernFix/]: Structure wabi_sabi_structures:firewatch_tower/large_firewatch_tower is being run through DFU (hash 41e7c44ca94ad90c9e56da5e44ce65712d80332cbfc64ed3de0fe3250f4342fc), this will cause launch time delays
+[12Dec2024 02:01:53.887] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/small_wheat_patch_variant_2
+[12Dec2024 02:01:54.159] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/beach_lighthouse/town_centers/beach_meeting_point_1
+[12Dec2024 02:01:54.179] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[12Dec2024 02:01:54.192] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sparse_jungle_polynesian/town_centers/sparse_jungle_meeting_point_1
+[12Dec2024 02:01:54.204] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[12Dec2024 02:01:54.218] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/badlands_pueblo/town_centers/badlands_meeting_point_1
+[12Dec2024 02:01:54.225] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3 is being run through DFU (hash 59a9a0d79ad86ad99a3e7ebba5f11a9d6d1909779d13188a935a9a0d8534be30), this will cause launch time delays
+[12Dec2024 02:01:54.237] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/iberian/town_centers/iberian_meeting_point_1
+[12Dec2024 02:01:54.249] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/nilotic/base_plate
+[12Dec2024 02:01:54.258] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_1
+[12Dec2024 02:01:54.269] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/town_centers/grove_meeting_point_1
+[12Dec2024 02:01:54.280] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_slopes_inn/town_centers/snowy_slopes_meeting_point_1
+[12Dec2024 02:01:54.294] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/tudor/town_centers/tudor_meeting_point_1
+[12Dec2024 02:01:54.316] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/birch_forest_romanian/town_centers/birch_forest_meeting_point_1
+[12Dec2024 02:01:54.326] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/old_growth_taiga_polish/town_centers/old_growth_taiga_meeting_point_1
+[12Dec2024 02:01:54.337] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/wandering_trader_camp/town_centers/trader_meeting_point_1
+[12Dec2024 02:01:54.342] [Worker-Main-1/DEBUG] [ModernFix/]: Structure kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1 is being run through DFU (hash 2b161666470cdae038cc9215e0866357d25cff7d98b8fe0774ad8fc2d9a1c882), this will cause launch time delays
+[12Dec2024 02:01:54.356] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/swamp_boat/town_centers/swamp_b_meeting_point_1
+[12Dec2024 02:01:54.372] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/meadow_swiss/town_centers/meadow_meeting_point_1
+[12Dec2024 02:01:54.378] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/exclusives/swedish/town_centers/swedish_meeting_point_1
+[12Dec2024 02:01:54.398] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[12Dec2024 02:01:54.406] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/mushroom_fields_fantasy/town_centers/mushroom_meeting_point_1
+[12Dec2024 02:01:54.586] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_tiny_6
+[12Dec2024 02:01:54.605] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:frost_reactor_plant/frost_reactor_plant
+[12Dec2024 02:01:54.660] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_2
+[12Dec2024 02:01:54.799] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_enterance1

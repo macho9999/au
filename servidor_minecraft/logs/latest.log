@@ -76,3 +76,28 @@
 [12Dec2024 01:28:39.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
 [12Dec2024 01:31:03.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
 [12Dec2024 01:31:07.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[12Dec2024 01:35:41.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4076ms or 81 ticks behind
+[12Dec2024 01:37:01.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[12Dec2024 01:37:08.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Creative Mode]
+[12Dec2024 01:37:20.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[12Dec2024 01:39:48.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[12Dec2024 01:41:31.545] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[12Dec2024 01:41:31.546] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[12Dec2024 01:41:31.735] [Worker-Main-3/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[12Dec2024 01:41:31.736] [Worker-Main-3/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[12Dec2024 01:41:36.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11287ms or 225 ticks behind
+[12Dec2024 01:47:27.231] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4556c194: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[12Dec2024 01:47:28.781] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4556c194: RandomSpreadSearchWorker succeeded with 3840 radius, 135 samples
+[12Dec2024 01:47:55.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20365ms or 407 ticks behind
+[12Dec2024 01:47:58.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[12Dec2024 01:47:58.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has reached the goal [An Illager Refuge?]
+[12Dec2024 01:48:02.053] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[12Dec2024 01:48:08.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa moved too quickly! 4.626402515529662,-8.05000016093258,4.104959272770202
+[12Dec2024 01:48:24.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[12Dec2024 01:48:49.925] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[12Dec2024 01:50:05.799] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Dec2024 01:50:11.312] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4556c194: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[12Dec2024 01:50:11.347] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4556c194: RandomSpreadSearchWorker succeeded with 415 radius, 2 samples
+[12Dec2024 01:50:23.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8952ms or 179 ticks behind
+[12Dec2024 01:50:51.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Nightmare Fuel]
+[12Dec2024 01:51:28.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
