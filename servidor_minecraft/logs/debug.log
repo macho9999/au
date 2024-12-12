@@ -13592,3 +13592,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [12Dec2024 02:30:14.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_6
 [12Dec2024 02:30:14.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_4
 [12Dec2024 02:30:31.338] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=3074, y=14, z=40399} at Chest with:minecraft:chests/simple_dungeon
+[12Dec2024 02:35:10.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:35:10.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:40:10.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:40:10.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
