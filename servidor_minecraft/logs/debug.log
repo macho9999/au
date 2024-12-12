@@ -13414,3 +13414,104 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [12Dec2024 02:01:54.605] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:frost_reactor_plant/frost_reactor_plant
 [12Dec2024 02:01:54.660] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_2
 [12Dec2024 02:01:54.799] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:illager_mansion/mansion_enterance1
+[12Dec2024 02:01:55.027] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:sand_wall
+[12Dec2024 02:01:55.119] [Worker-Main-3/DEBUG] [ModernFix/]: Structure valhelsia_structures:ruins/castle_ruin is being run through DFU (hash 089f4d78b693ddb85313839c1a8a6880aae196dff3dbe82cb6c218ba0437a241), this will cause launch time delays
+[12Dec2024 02:01:55.183] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_crossbow_1
+[12Dec2024 02:01:55.184] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/pillager_with_sword_1
+[12Dec2024 02:01:55.184] [Worker-Main-3/DEBUG] [ModernFix/]: Structure valhelsia_structures:mobs/pillager_with_axe_1 is being run through DFU (hash 84a9605198a1f2fddf96c5530306bdbd9317f245fe68822b7a96b4bbec4ca5bb), this will cause launch time delays
+[12Dec2024 02:01:55.903] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:mossy_roof_shed/mossy_roof_shed
+[12Dec2024 02:01:56.040] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_savanna_soothsayer
+[12Dec2024 02:01:56.277] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:witch_hut/witch_hut2
+[12Dec2024 02:01:58.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11074ms or 221 ticks behind
+[12Dec2024 02:01:58.299] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_1
+[12Dec2024 02:01:58.693] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/pillager
+[12Dec2024 02:01:58.695] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/treasure3
+[12Dec2024 02:01:58.698] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/evoker
+[12Dec2024 02:01:58.699] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/vindicator
+[12Dec2024 02:01:58.700] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/witch
+[12Dec2024 02:01:58.703] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/quarters3
+[12Dec2024 02:01:59.011] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_savanna_sentinel
+[12Dec2024 02:01:59.717] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:witch_hut/witch_hut_2
+[12Dec2024 02:01:59.867] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_swamp_sentinel
+[12Dec2024 02:02:00.527] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_fire
+[12Dec2024 02:02:00.547] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_7
+[12Dec2024 02:02:00.548] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_1
+[12Dec2024 02:02:00.551] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_5
+[12Dec2024 02:02:00.551] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:00.551] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:00.552] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:00.552] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:03.585] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1764, y=15, z=1759} at Chest with:minecraft:chests/simple_dungeon
+[12Dec2024 02:02:03.704] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of theorcs:orc_camp
+[12Dec2024 02:02:05.003] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:llama_sanctuary/llama_sanctuary_plateau
+[12Dec2024 02:02:05.188] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[12Dec2024 02:02:05.207] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[12Dec2024 02:02:05.221] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[12Dec2024 02:02:05.237] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[12Dec2024 02:02:05.255] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[12Dec2024 02:02:05.265] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/potato
+[12Dec2024 02:02:05.275] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/shack
+[12Dec2024 02:02:05.289] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/gallows
+[12Dec2024 02:02:05.299] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[12Dec2024 02:02:05.309] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/tree
+[12Dec2024 02:02:05.321] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/campsite
+[12Dec2024 02:02:05.323] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_1
+[12Dec2024 02:02:05.351] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tower
+[12Dec2024 02:02:05.352] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[12Dec2024 02:02:05.353] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[12Dec2024 02:02:05.353] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/hay
+[12Dec2024 02:02:05.354] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/rock_2
+[12Dec2024 02:02:05.354] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/tent
+[12Dec2024 02:02:05.355] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[12Dec2024 02:02:05.355] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/targets
+[12Dec2024 02:02:05.356] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/pumpkin
+[12Dec2024 02:02:05.357] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[12Dec2024 02:02:05.539] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/swamp/pond2 is being run through DFU (hash 7ad3070ec908e24021e557480211df2dcb3abfd9de261559fbe88c5e9856e347), this will cause launch time delays
+[12Dec2024 02:02:06.422] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:totem_pole/totem_pole_3
+[12Dec2024 02:02:08.289] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/tiny_potato_patch_variant_4
+[12Dec2024 02:02:09.079] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_5
+[12Dec2024 02:02:09.122] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_3
+[12Dec2024 02:02:09.148] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_enterance_room_3
+[12Dec2024 02:02:09.149] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_ladder
+[12Dec2024 02:02:09.149] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_ladder_room_2 is being run through DFU (hash 12c5137b9b9ee0566853f676bbbedba9a921716f935987fc94d87503ae834aa4), this will cause launch time delays
+[12Dec2024 02:02:09.154] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_room_big_1 is being run through DFU (hash a4e9a1b1524982eec2440dbf8f6da4dbd8f4181e721001c4a0243521e3536b1e), this will cause launch time delays
+[12Dec2024 02:02:09.160] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_underground_room_big_2
+[12Dec2024 02:02:09.161] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_hallway_4 is being run through DFU (hash 9b5ff422b82fab71f928b67d7221bb438e64e3f0bd4d5b44c3d645aedeedb81e), this will cause launch time delays
+[12Dec2024 02:02:09.163] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_underground_room_medium_4
+[12Dec2024 02:02:09.163] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_underground_room_medium_5
+[12Dec2024 02:02:09.164] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_room_small_1 is being run through DFU (hash d222592322a48ae6d1dc5664bc0d66c487717b851bc0e16b8c0a63c51f987363), this will cause launch time delays
+[12Dec2024 02:02:09.165] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_room_medium_3 is being run through DFU (hash 41df7f7d73edb2edb98cb84019cf8fd99432e48c755d8ff07d4762e8de39ad9a), this will cause launch time delays
+[12Dec2024 02:02:09.170] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_underground_room_small_5
+[12Dec2024 02:02:09.173] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_underground_room_medium_1
+[12Dec2024 02:02:09.173] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_room_small_4 is being run through DFU (hash 13c553dee88aea22d4e7ee96c458716f4a362244960a75d4e293dc1d556ec24d), this will cause launch time delays
+[12Dec2024 02:02:09.175] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_underground_room_small_3
+[12Dec2024 02:02:09.176] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:bunker/bunker_underground_room_big_3
+[12Dec2024 02:02:09.177] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_room_big_5 is being run through DFU (hash 337747d76f71efcd5bff081a9d7dd57a48f638aafc97d7a4988bb275f15f5b92), this will cause launch time delays
+[12Dec2024 02:02:09.180] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_room_big_4 is being run through DFU (hash 63b50df351fb4eca15ebb984b0f00286b2e79d2622ec353c909db3f6d3eba2ed), this will cause launch time delays
+[12Dec2024 02:02:09.183] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_room_small_2 is being run through DFU (hash 75d882a8d27be16e8eba4bb095be0d4e130c60aa4336764a9a5243cc4433edff), this will cause launch time delays
+[12Dec2024 02:02:09.185] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_room_medium_2 is being run through DFU (hash 0c3e7254a90b4c2d98891453ed7b4ed39fb9136d81373503d897140da0a2fc8d), this will cause launch time delays
+[12Dec2024 02:02:09.187] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.188] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.188] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.188] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.189] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_hallway_2 is being run through DFU (hash 15ba5a3dc5179346065eec464491475b9728302af898737dff9db804e0058659), this will cause launch time delays
+[12Dec2024 02:02:09.191] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.192] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.193] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.196] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.196] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_hallway_3 is being run through DFU (hash 49e35c73d6c6f33033551ef154ed74aaf4bc712fbcf843406953f245d3b422d9), this will cause launch time delays
+[12Dec2024 02:02:09.198] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_hallway_5 is being run through DFU (hash 6602b4b344e81b2572b217e57e4a3f77f0380e9c89085c6cce5deba8823110a8), this will cause launch time delays
+[12Dec2024 02:02:09.200] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:bunker/bunker_underground_hallway_1 is being run through DFU (hash d4605b6977c47f02612db267651610310499b857dba2472869d4e7affb03fb53), this will cause launch time delays
+[12Dec2024 02:02:09.210] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.211] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.211] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.213] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.213] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.214] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:09.215] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 02:02:10.178] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/conduit_ruin_2
+[12Dec2024 02:05:10.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:05:10.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 02:08:14.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[12Dec2024 02:10:10.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 02:10:10.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
