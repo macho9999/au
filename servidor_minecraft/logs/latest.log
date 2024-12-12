@@ -24,3 +24,16 @@
 [12Dec2024 00:18:33.976] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/satisfyu/meadow/entity/chicken/ChickenVar
 [12Dec2024 00:19:40.681] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4556c194: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [12Dec2024 00:19:40.732] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 4556c194: RandomSpreadSearchWorker succeeded with 215 radius, 1 samples
+[12Dec2024 00:41:48.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
+[12Dec2024 00:42:17.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2723ms or 54 ticks behind
+[12Dec2024 00:42:43.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3360ms or 67 ticks behind
+[12Dec2024 00:44:03.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3111ms or 62 ticks behind
+[12Dec2024 00:44:34.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[12Dec2024 00:44:53.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
+[12Dec2024 00:46:20.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3049ms or 60 ticks behind
+[12Dec2024 00:47:06.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3123ms or 62 ticks behind
+[12Dec2024 00:47:37.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[12Dec2024 00:48:36.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2987ms or 59 ticks behind
+[12Dec2024 00:50:09.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[12Dec2024 00:50:31.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
+[12Dec2024 00:51:00.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
