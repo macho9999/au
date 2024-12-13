@@ -1865,3 +1865,27 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [13Dec2024 06:39:29.436] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/warden/AngerLevel
 [13Dec2024 06:40:37.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has completed the challenge [Phantom Thief]
 [13Dec2024 06:40:42.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Strange biomass]
+[13Dec2024 06:57:52.394] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[13Dec2024 06:57:52.396] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[13Dec2024 06:57:57.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Blindfolded]
+[13Dec2024 06:58:39.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3582, y=64, z=40263} BlockPos{x=3582, y=62, z=40261}
+[13Dec2024 06:59:25.400] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/6891, l='ServerLevel[world]', x=3343.86, y=58.38, z=40336.31]
+[13Dec2024 06:59:25.401] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/6892, l='ServerLevel[world]', x=3343.86, y=58.38, z=40336.31]
+[13Dec2024 06:59:25.401] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/6893, l='ServerLevel[world]', x=3343.86, y=58.38, z=40336.31]
+[13Dec2024 06:59:25.401] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/6894, l='ServerLevel[world]', x=3343.86, y=58.38, z=40336.31]
+[13Dec2024 06:59:25.402] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/6895, l='ServerLevel[world]', x=3343.86, y=58.38, z=40336.31]
+[13Dec2024 07:00:29.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[13Dec2024 07:02:31.927] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Dec2024 07:02:31.989] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker succeeded with 1998 radius, 3 samples
+[13Dec2024 07:02:41.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7579ms or 151 ticks behind
+[13Dec2024 07:02:49.275] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;391,137,373],type:"minecraft:block"}}]
+[13Dec2024 07:02:49.276] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.0f,range:8,source:{pos:[I;391,137,375],type:"minecraft:block"}}]
+[13Dec2024 07:02:57.588] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[13Dec2024 07:03:00.304] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 07:03:00.304] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 07:03:00.305] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 07:03:00.305] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 07:03:18.838] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 07:03:18.839] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 07:03:18.839] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 07:03:18.839] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
