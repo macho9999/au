@@ -6229,105 +6229,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-12 03:03:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:quartz_flats/rescue_mission": {
-    "criteria": {
-      "requirement": "2024-12-12 00:16:42 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/sanctum/root": {
-    "criteria": {
-      "requirement": "2024-12-12 01:47:58 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/platinum_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2024-12-11 23:51:23 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed": "2024-12-12 01:50:51 +0000"
-    },
-    "done": true
-  },
   "alltheores:recipes/misc/raw_platinum_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/platinum]": "2024-12-11 23:51:23 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/platinum_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2024-12-11 23:51:23 +0000"
     },
     "done": true
   },
@@ -6343,9 +6259,33 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/platinum_ingot_from_raw": {
+  "incendium:quartz_flats/rescue_mission": {
     "criteria": {
-      "has_item": "2024-12-11 23:51:23 +0000"
+      "requirement": "2024-12-12 00:16:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/sanctum/root": {
+    "criteria": {
+      "requirement": "2024-12-12 01:47:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2024-12-12 01:50:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2024-12-13 06:38:56 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-12-13 06:34:47 +0000"
     },
     "done": true
   },
