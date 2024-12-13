@@ -14478,3 +14478,502 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [13Dec2024 07:54:25.138] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/2
 [13Dec2024 07:54:25.550] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_sword
 [13Dec2024 07:54:38.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[13Dec2024 07:54:58.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Creative Mode]
+[13Dec2024 07:55:14.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 07:55:15.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 07:55:18.968] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_corner_2
+[13Dec2024 07:55:18.975] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_conect_corner_4
+[13Dec2024 07:55:23.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[13Dec2024 07:55:27.693] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_5
+[13Dec2024 07:55:27.935] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_2
+[13Dec2024 07:55:27.976] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of meadow:chalet
+[13Dec2024 07:55:28.011] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:entities/witch
+[13Dec2024 07:55:28.012] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor/connector2
+[13Dec2024 07:55:28.020] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/pumpkins
+[13Dec2024 07:55:28.031] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/well
+[13Dec2024 07:55:28.043] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/zombie
+[13Dec2024 07:55:28.045] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/amethyst_shrine
+[13Dec2024 07:55:28.046] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/allay_cage
+[13Dec2024 07:55:28.050] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graveyard_large
+[13Dec2024 07:55:28.053] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graves
+[13Dec2024 07:55:28.149] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:medieval_boat
+[13Dec2024 07:55:28.454] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:desert_house/desert_house
+[13Dec2024 07:55:28.603] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center2
+[13Dec2024 07:55:28.610] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center2
+[13Dec2024 07:55:28.632] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_medium_2
+[13Dec2024 07:55:28.646] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_4
+[13Dec2024 07:55:28.698] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:birch_deforestation
+[13Dec2024 07:55:28.720] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:forest_deforestation
+[13Dec2024 07:55:28.741] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:jungle_deforestation
+[13Dec2024 07:55:28.763] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:taiga_deforestation
+[13Dec2024 07:55:28.874] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:badlands_pyramid/whole
+[13Dec2024 07:55:28.910] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/small_wheat_patch_variant_3
+[13Dec2024 07:55:28.923] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of eugene:pillager_loot_carriage
+[13Dec2024 07:55:28.948] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_small_13
+[13Dec2024 07:55:29.048] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:witch_hut/witch_hut_2
+[13Dec2024 07:55:29.061] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_4
+[13Dec2024 07:55:29.361] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_acacia
+[13Dec2024 07:55:29.374] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[13Dec2024 07:55:29.376] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[13Dec2024 07:55:29.378] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[13Dec2024 07:55:29.379] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[13Dec2024 07:55:29.380] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[13Dec2024 07:55:29.380] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[13Dec2024 07:55:29.381] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[13Dec2024 07:55:29.382] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[13Dec2024 07:55:29.382] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[13Dec2024 07:55:29.385] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[13Dec2024 07:55:29.386] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[13Dec2024 07:55:29.387] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[13Dec2024 07:55:29.388] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[13Dec2024 07:55:29.389] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[13Dec2024 07:55:29.389] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[13Dec2024 07:55:29.390] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[13Dec2024 07:55:29.390] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_birch
+[13Dec2024 07:55:29.391] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[13Dec2024 07:55:29.392] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[13Dec2024 07:55:29.392] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[13Dec2024 07:55:29.394] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[13Dec2024 07:55:29.395] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[13Dec2024 07:55:29.395] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[13Dec2024 07:55:29.396] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[13Dec2024 07:55:29.396] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[13Dec2024 07:55:29.397] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[13Dec2024 07:55:29.398] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[13Dec2024 07:55:29.399] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[13Dec2024 07:55:29.399] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[13Dec2024 07:55:29.400] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[13Dec2024 07:55:29.401] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[13Dec2024 07:55:29.401] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[13Dec2024 07:55:29.402] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_spruce
+[13Dec2024 07:55:29.403] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[13Dec2024 07:55:29.409] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[13Dec2024 07:55:29.410] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[13Dec2024 07:55:29.410] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[13Dec2024 07:55:29.411] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[13Dec2024 07:55:29.411] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[13Dec2024 07:55:29.412] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[13Dec2024 07:55:29.413] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[13Dec2024 07:55:29.414] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[13Dec2024 07:55:29.414] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[13Dec2024 07:55:29.415] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[13Dec2024 07:55:29.422] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[13Dec2024 07:55:29.422] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[13Dec2024 07:55:29.427] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[13Dec2024 07:55:29.433] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[13Dec2024 07:55:29.433] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[13Dec2024 07:55:29.434] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[13Dec2024 07:55:29.434] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[13Dec2024 07:55:29.435] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[13Dec2024 07:55:29.436] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[13Dec2024 07:55:29.436] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[13Dec2024 07:55:29.437] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[13Dec2024 07:55:29.437] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_swamp
+[13Dec2024 07:55:29.438] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[13Dec2024 07:55:29.438] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_acacia
+[13Dec2024 07:55:29.439] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[13Dec2024 07:55:29.440] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[13Dec2024 07:55:29.441] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[13Dec2024 07:55:29.450] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[13Dec2024 07:55:29.451] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[13Dec2024 07:55:29.451] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[13Dec2024 07:55:29.452] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[13Dec2024 07:55:29.453] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[13Dec2024 07:55:29.453] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_spruce
+[13Dec2024 07:55:29.456] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[13Dec2024 07:55:29.456] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[13Dec2024 07:55:29.457] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[13Dec2024 07:55:29.457] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[13Dec2024 07:55:29.458] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[13Dec2024 07:55:29.460] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[13Dec2024 07:55:29.460] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[13Dec2024 07:55:29.461] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_oak
+[13Dec2024 07:55:29.461] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[13Dec2024 07:55:29.462] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[13Dec2024 07:55:29.462] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[13Dec2024 07:55:29.462] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[13Dec2024 07:55:29.463] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_acacia
+[13Dec2024 07:55:29.465] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[13Dec2024 07:55:29.465] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[13Dec2024 07:55:29.465] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_acacia
+[13Dec2024 07:55:29.466] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_acacia
+[13Dec2024 07:55:29.466] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[13Dec2024 07:55:29.467] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_mangrove
+[13Dec2024 07:55:29.467] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[13Dec2024 07:55:29.468] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_spruce
+[13Dec2024 07:55:29.469] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_acacia
+[13Dec2024 07:55:29.469] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[13Dec2024 07:55:29.469] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_cherry
+[13Dec2024 07:55:29.472] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_swamp
+[13Dec2024 07:55:29.472] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[13Dec2024 07:55:29.473] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_desert
+[13Dec2024 07:55:29.474] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[13Dec2024 07:55:29.474] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[13Dec2024 07:55:29.475] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_jungle
+[13Dec2024 07:55:29.475] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_swamp
+[13Dec2024 07:55:29.476] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[13Dec2024 07:55:29.477] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_acacia
+[13Dec2024 07:55:29.747] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_acacia_double
+[13Dec2024 07:55:29.766] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:desert
+[13Dec2024 07:55:30.137] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:cabin2
+[13Dec2024 07:55:30.210] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[13Dec2024 07:55:30.216] [Worker-Main-3/DEBUG] [ModernFix/]: Structure structory:outcast_villager/graveyard/main1 is being run through DFU (hash 894cb9e1465dbc8f3399f332bf462c20658231822c8927a8c37e37eeab1d2137), this will cause launch time delays
+[13Dec2024 07:55:30.266] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/graveyard2
+[13Dec2024 07:55:30.288] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[13Dec2024 07:55:30.299] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/desert/copper_house1
+[13Dec2024 07:55:30.308] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/tower/grassy_small2
+[13Dec2024 07:55:30.318] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/chapel/church
+[13Dec2024 07:55:30.952] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path
+[13Dec2024 07:55:30.953] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance_alt
+[13Dec2024 07:55:30.954] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/down_3
+[13Dec2024 07:55:30.955] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1_alt
+[13Dec2024 07:55:30.958] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/pathlong_1
+[13Dec2024 07:55:30.959] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:mineshaft/acacia/down_2 is being run through DFU (hash 118325dbd196ef52661d69214b4e5fc7f6fa3309b31eb7a7195bfad46ecee2f4), this will cause launch time delays
+[13Dec2024 07:55:30.960] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:mineshaft/birch/entrance_alt is being run through DFU (hash 452180d2b4a65a3dc4e802b7774b565b99026eb673367a0350d20a2d8e7bca71), this will cause launch time delays
+[13Dec2024 07:55:30.963] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/stone/turn
+[13Dec2024 07:55:30.964] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:mineshaft/dark_oak/entrance_alt is being run through DFU (hash 6689278a7d0fec6c5b318b6744ee7d24b5fc2057a00624bd1b73d56478c81b1b), this will cause launch time delays
+[13Dec2024 07:55:30.966] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1
+[13Dec2024 07:55:30.966] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tools
+[13Dec2024 07:55:30.967] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn
+[13Dec2024 07:55:30.968] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_alt
+[13Dec2024 07:55:30.969] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/stews
+[13Dec2024 07:55:30.970] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_beetroot
+[13Dec2024 07:55:30.971] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/portal
+[13Dec2024 07:55:30.971] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_iron
+[13Dec2024 07:55:30.972] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_archer
+[13Dec2024 07:55:30.972] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_books
+[13Dec2024 07:55:30.973] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_3
+[13Dec2024 07:55:30.973] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/camp
+[13Dec2024 07:55:30.974] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/potions
+[13Dec2024 07:55:30.975] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_rip
+[13Dec2024 07:55:30.975] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_emerald
+[13Dec2024 07:55:30.976] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/music
+[13Dec2024 07:55:30.976] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_armor
+[13Dec2024 07:55:30.977] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/archer
+[13Dec2024 07:55:30.977] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_1
+[13Dec2024 07:55:30.978] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_redstone
+[13Dec2024 07:55:30.978] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_wheat
+[13Dec2024 07:55:30.979] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_lapis
+[13Dec2024 07:55:30.979] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_2
+[13Dec2024 07:55:30.980] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_red_mushroom
+[13Dec2024 07:55:30.980] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_crafting
+[13Dec2024 07:55:30.981] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom
+[13Dec2024 07:55:30.981] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_amethyst
+[13Dec2024 07:55:30.982] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/prison
+[13Dec2024 07:55:30.983] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_prison
+[13Dec2024 07:55:30.983] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_brown_mushroom
+[13Dec2024 07:55:30.984] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_melon
+[13Dec2024 07:55:30.984] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_potions
+[13Dec2024 07:55:30.985] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_gold
+[13Dec2024 07:55:30.985] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tnt
+[13Dec2024 07:55:30.986] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_2
+[13Dec2024 07:55:30.986] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_carrot
+[13Dec2024 07:55:30.987] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_diamonds
+[13Dec2024 07:55:30.987] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_food
+[13Dec2024 07:55:30.988] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_copper
+[13Dec2024 07:55:30.989] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/map
+[13Dec2024 07:55:30.990] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/copper
+[13Dec2024 07:55:30.990] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_3
+[13Dec2024 07:55:30.991] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/iron_golem
+[13Dec2024 07:55:30.991] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils
+[13Dec2024 07:55:30.992] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_potato
+[13Dec2024 07:55:31.026] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_2
+[13Dec2024 07:55:31.027] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1_alt
+[13Dec2024 07:55:31.028] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_1
+[13Dec2024 07:55:31.029] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path
+[13Dec2024 07:55:31.029] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1
+[13Dec2024 07:55:31.030] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1_alt
+[13Dec2024 07:55:31.031] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_1
+[13Dec2024 07:55:31.034] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_2
+[13Dec2024 07:55:31.035] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance
+[13Dec2024 07:55:31.036] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_2
+[13Dec2024 07:55:31.038] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_5
+[13Dec2024 07:55:31.039] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down
+[13Dec2024 07:55:31.040] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_3
+[13Dec2024 07:55:31.040] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_2
+[13Dec2024 07:55:31.041] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_4
+[13Dec2024 07:55:31.043] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_5
+[13Dec2024 07:55:31.044] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_3
+[13Dec2024 07:55:31.046] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_4
+[13Dec2024 07:55:31.754] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/fountain1
+[13Dec2024 07:55:31.772] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:pumpkin_patch/medium_9_pumpkin_patch
+[13Dec2024 07:55:31.821] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/stone/trap/trap_3 is being run through DFU (hash 762b8ddfeab92d48e91a3ddb7dc07f227e5e84ed93b6bf8999060e6d3e08a3fc), this will cause launch time delays
+[13Dec2024 07:55:31.830] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/acacia/turn_2
+[13Dec2024 07:55:31.830] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/entrance
+[13Dec2024 07:55:31.831] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/entrance
+[13Dec2024 07:55:31.831] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1_alt
+[13Dec2024 07:55:31.832] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path
+[13Dec2024 07:55:31.833] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/entrance
+[13Dec2024 07:55:31.834] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/trap/trap_4 is being run through DFU (hash a9436f89e34965edbc520ea27b0ceec91e2fbeeef85ec712f0341fcc131c408a), this will cause launch time delays
+[13Dec2024 07:55:31.841] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path_1
+[13Dec2024 07:55:31.845] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/pathlong_1
+[13Dec2024 07:55:31.846] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/down_3 is being run through DFU (hash c070bacb4a8898179f4fd4537eb791d47a36c922219f817d2039748ccd014cbf), this will cause launch time delays
+[13Dec2024 07:55:31.851] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/entrance_1
+[13Dec2024 07:55:31.851] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/entrance
+[13Dec2024 07:55:31.852] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/path_1_alt
+[13Dec2024 07:55:31.855] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/down
+[13Dec2024 07:55:31.855] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/turn_2
+[13Dec2024 07:55:31.856] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/entrance_alt
+[13Dec2024 07:55:31.857] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/trap/trap_2 is being run through DFU (hash a9436f89e34965edbc520ea27b0ceec91e2fbeeef85ec712f0341fcc131c408a), this will cause launch time delays
+[13Dec2024 07:55:31.864] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/pathlong_2
+[13Dec2024 07:55:31.866] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/pathlong_3 is being run through DFU (hash 91192dcc556d417d297c2fcb4002083860dc13f4db7bf8adcdb82395e9858d6c), this will cause launch time delays
+[13Dec2024 07:55:31.933] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/path_alt is being run through DFU (hash da6940cdbd9510103f376a0e7913654e268609d121fe08d846b7eac46e908bf9), this will cause launch time delays
+[13Dec2024 07:55:31.939] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/turn_1
+[13Dec2024 07:55:31.940] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/down_5 is being run through DFU (hash 10e717887c8731eaed3b58bb251423bb06a60052b46c1085a9ccd92ccd92e2af), this will cause launch time delays
+[13Dec2024 07:55:31.948] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/turn
+[13Dec2024 07:55:31.948] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/down_2
+[13Dec2024 07:55:31.951] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/trap/trap_1 is being run through DFU (hash 3d9a5fd4febc795ec2e929e4635344d2abbd20067c9d203a961ba68a62df8739), this will cause launch time delays
+[13Dec2024 07:55:31.954] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/trap/trap_3 is being run through DFU (hash b89515b6fbe87651263aefccf023545acf59a6f81f9eb5a00a994223ea4bfa5a), this will cause launch time delays
+[13Dec2024 07:55:32.026] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/trap/trap_5 is being run through DFU (hash 51233d39f924bbf6b9f1f0090c71e22b94eccf942dfd95b5c4a09ecddffc8583), this will cause launch time delays
+[13Dec2024 07:55:32.326] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/iron_golem is being run through DFU (hash 2bbd8177d87f523e8f393258ac5c7280a5ca78e231065ca47ade3abc68c17886), this will cause launch time delays
+[13Dec2024 07:55:32.329] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_brown_mushroom is being run through DFU (hash c7c0a5196155f0a6ba5fe6f3c4953ad02ff95caaf4c864687c3b4830091ada3e), this will cause launch time delays
+[13Dec2024 07:55:32.330] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_gold is being run through DFU (hash a2822bee6e1d13c73751f42f1b271e1c0c9367bed0d8df7c057256185fd2b9c0), this will cause launch time delays
+[13Dec2024 07:55:32.332] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_iron is being run through DFU (hash 469dbeba9a39862908424c3104af4197040af9830ea03ff11814b99b98d433ee), this will cause launch time delays
+[13Dec2024 07:55:32.334] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/farm_carrot is being run through DFU (hash 5d4abc6aef2c242128cd2345b5322194790bfd941e646db91661d9aaf5fc529e), this will cause launch time delays
+[13Dec2024 07:55:32.336] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/portal is being run through DFU (hash a477a7b0505022b03f3994e68de680366311cb64666abbb53790905e7fb3145a), this will cause launch time delays
+[13Dec2024 07:55:32.339] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_fossils is being run through DFU (hash 804554223d685a0c1280ac6cf2da348866162778f5f167e9b0995287b3c948d6), this will cause launch time delays
+[13Dec2024 07:55:32.340] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_books is being run through DFU (hash 76ec060141c4faf3cf562964c3709d2cecf1eca7378a1dc9e7f3bed3bb1037d5), this will cause launch time delays
+[13Dec2024 07:55:32.342] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_potions is being run through DFU (hash b749dee3be7d8945e2dc9e37595803437217eb26eedc147c7cf606fdf26539f2), this will cause launch time delays
+[13Dec2024 07:55:32.344] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/archer is being run through DFU (hash ab2452be3e7b1a727a4d03582605ffc9bdafcef2e0658c2fa12353eb581c3b09), this will cause launch time delays
+[13Dec2024 07:55:32.347] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/farm_potato is being run through DFU (hash 0cfc29f41350e45851637f38b9bebad542cc14068825e09d9c3648395a04f85a), this will cause launch time delays
+[13Dec2024 07:55:32.350] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/r_anchor is being run through DFU (hash 45146c2650f944bbcf5cf8eee6d72751388c8845213004e6b9173f3ca94c0951), this will cause launch time delays
+[13Dec2024 07:55:32.353] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/farm_wheat is being run through DFU (hash 2bd82fa315987f4c0666ad00fa35ff299f89974667b72b1342765731fd59cee5), this will cause launch time delays
+[13Dec2024 07:55:32.356] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/potions is being run through DFU (hash c2b473a90f0f68dd55540ad7bfec191582c0fd1a000d71f127bd1e78b6253027), this will cause launch time delays
+[13Dec2024 07:55:32.389] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_smelting is being run through DFU (hash 95ec786b7d0522dab3f8e3f9f7289d113f2deb2f75dd45ee7b4b2a843ee13c4b), this will cause launch time delays
+[13Dec2024 07:55:32.392] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_weapons is being run through DFU (hash 1de0cb9cb86b9fbf77082dbacdf1c0a07acadfd68a36670635d60f09b53df257), this will cause launch time delays
+[13Dec2024 07:55:32.394] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_emerald is being run through DFU (hash c06af9f037f81d1669d9ad5efa389f76ebacaf65bda8400a9bfcae8cff18e933), this will cause launch time delays
+[13Dec2024 07:55:32.396] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_red_mushroom is being run through DFU (hash 1dbf62a0441133fe47f0be6a5d6e743dc93a45e2dcd98c805182f49874e777e7), this will cause launch time delays
+[13Dec2024 07:55:32.398] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_armor is being run through DFU (hash d85445cf9fddfcd992b12bbbe28a50aa1b51f4bbced0bae2f9478519e88f6a07), this will cause launch time delays
+[13Dec2024 07:55:32.405] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/camp is being run through DFU (hash 5b62f1685d04b6c1cbd614b50d6737d48c1e1cf59c0f7dd1f116e80a0dd94bee), this will cause launch time delays
+[13Dec2024 07:55:32.408] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_food is being run through DFU (hash 83ba75dd8b17482996e634618499a1b381b42eb2633e4e6c273ef21831257e0e), this will cause launch time delays
+[13Dec2024 07:55:32.411] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_fossils_1 is being run through DFU (hash b4d1a48c5c722f63c438e85774dc0f6d3df8f8ce463f66ae44d78e29614e0976), this will cause launch time delays
+[13Dec2024 07:55:32.413] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_bedroom is being run through DFU (hash 1f89e0163cfff5979fd9e2a78440b046d24a526590c54a11674a823e798a29b5), this will cause launch time delays
+[13Dec2024 07:55:32.415] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_copper is being run through DFU (hash f717751f8bf0e095e699c72e312ce6098614e4291dd09e84ec07408b62b73f72), this will cause launch time delays
+[13Dec2024 07:55:32.417] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_crafting is being run through DFU (hash 32640423065542967fa718cce1beed5a80aa9e70787a11739f73363b1d92279e), this will cause launch time delays
+[13Dec2024 07:55:32.419] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_rip is being run through DFU (hash 4553b98b6f8e0e7766e00ca67a9b5bf2a5405616ed3b6d7dc50154c09cdfc664), this will cause launch time delays
+[13Dec2024 07:55:32.421] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_prison is being run through DFU (hash d0dea32379d3e6dbf439b49bdce70d9eba6cc7d59978efd872064d8d3193bfef), this will cause launch time delays
+[13Dec2024 07:55:32.423] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_redstone is being run through DFU (hash 9384490a797e0def7d3a806a8968603719b496d7772e67ea95cc413310fb8128), this will cause launch time delays
+[13Dec2024 07:55:32.425] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_archer is being run through DFU (hash 001916f1cd975ec2a8705f605e9dd249a5cfdd1c8185c0ba02e452826a4a8b1d), this will cause launch time delays
+[13Dec2024 07:55:32.427] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_bedroom_1 is being run through DFU (hash 89370fb735e86e1272fd34a8d1d760c3c755cd1c70a1d9d0e953d930b389d3a4), this will cause launch time delays
+[13Dec2024 07:55:32.429] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_lapis is being run through DFU (hash 1dfda5d31b020235b765b0b353543705e80402eaf5be5c84c1d84a5f666fd3ca), this will cause launch time delays
+[13Dec2024 07:55:32.431] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_amethyst is being run through DFU (hash ef9dd7ec70756c82fcecb9ffb54ff959f19222a4a4ce32ba4e5c1cf61935de17), this will cause launch time delays
+[13Dec2024 07:55:32.433] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/stews is being run through DFU (hash 27cf3718de8a1a61ef9b92448ea853109c2963d6f9d6e044b910edb0ef0b2c9a), this will cause launch time delays
+[13Dec2024 07:55:32.438] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/farm_beetroot is being run through DFU (hash ac7408aed04d5417939e78c50586c339d5562540eee420a99800b9d331fe68ac), this will cause launch time delays
+[13Dec2024 07:55:32.441] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/farm_melon is being run through DFU (hash ac11aa2744eaec5905afdff4847bbe98e55db0126c2fc722729c568339f672cd), this will cause launch time delays
+[13Dec2024 07:55:32.444] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_diamonds is being run through DFU (hash bec50a1abe6ca60e0c01028c009191712de1ef2706659a6e27208b910025f4df), this will cause launch time delays
+[13Dec2024 07:55:32.446] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/map is being run through DFU (hash 162cff630483fd40b56a202410b24e0a9f58ed85af6977b96dc03cd071975a51), this will cause launch time delays
+[13Dec2024 07:55:32.450] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/copper is being run through DFU (hash aaa4e6954dc54f918f9e7ed74eb76f3eb6b6115de3a6d07ad96fa3ea74419e1a), this will cause launch time delays
+[13Dec2024 07:55:32.452] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_tools is being run through DFU (hash 03f20dab33039306aa7e6f9139249f381218c1303128d1753fb568988c2e774d), this will cause launch time delays
+[13Dec2024 07:55:32.455] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/music is being run through DFU (hash 59dba287e5478bd1b744b1fea65a479710634487972bb4ce8c2b7df85833e5f6), this will cause launch time delays
+[13Dec2024 07:55:32.458] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/prison is being run through DFU (hash 2cdd9edc4a397a12e0b3070fe68c151cced28562b2e0a5a7aab4d92714e36478), this will cause launch time delays
+[13Dec2024 07:55:32.466] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_bedroom_3 is being run through DFU (hash eea620f99797ba6ef673d2b700b4b802d68dc1de57e5e1d4df8f6712cfb99565), this will cause launch time delays
+[13Dec2024 07:55:32.468] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_fossils_3 is being run through DFU (hash 9f6e0fe9de658f720db4d9e80d07ed958dde083af4249a759a686055562dbf4c), this will cause launch time delays
+[13Dec2024 07:55:32.471] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_fossils_2 is being run through DFU (hash d02eb8909bdb12be8f2c7c4a46eec8e90b27331287838b44c204f36c808b7993), this will cause launch time delays
+[13Dec2024 07:55:32.473] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_tnt is being run through DFU (hash cd7517fda50ae3b2691608ae5715e107131db30891ebe7f695cf0a73504e7538), this will cause launch time delays
+[13Dec2024 07:55:32.476] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/big_rooms/farm_pumpkin is being run through DFU (hash 0f0a429ad630602560ca930f10bf6ca1c8502a7e96994947c3055c0febc11925), this will cause launch time delays
+[13Dec2024 07:55:32.480] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/room_bedroom_2 is being run through DFU (hash 7c2a4a5b94657231497bfb86b3fc95f86e05f6748e443791dfcb6eff8fb2a7f6), this will cause launch time delays
+[13Dec2024 07:55:32.865] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/minecart/path_1_down_sculk is being run through DFU (hash fff2c37a15131a445b02fec455ebe6b0bdb4dbd5e67397fd5e9f008146399196), this will cause launch time delays
+[13Dec2024 07:55:32.904] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/minecart/path_2_down_sculk is being run through DFU (hash d62aad88e28e44e57d3fe87bfaabdf2bf4ba811d37f130d11dcb8c3bb8bde09a), this will cause launch time delays
+[13Dec2024 07:55:32.919] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/minecart/connector_1 is being run through DFU (hash 96fb28ac239374bd9bee8300db0535e98b2434afea365c437596a868a66e9e7d), this will cause launch time delays
+[13Dec2024 07:55:32.923] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/minecart/connector_2 is being run through DFU (hash 74ddb6a049c152751333755248d1db05e0dd5fe290de90c15b5bcc1377f0cfe1), this will cause launch time delays
+[13Dec2024 07:55:32.928] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/minecart/path_1_sculk is being run through DFU (hash a5f0e8607dd84f3455132d516cbbab2526a0cfe7f5aa035003d269d7c18087d5), this will cause launch time delays
+[13Dec2024 07:55:32.938] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/minecart/path_2_down is being run through DFU (hash 675005ad502bf4f0c1fab17c448fd33e9b51e84e826e42801e703047e95b905a), this will cause launch time delays
+[13Dec2024 07:55:32.950] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/minecart/path_2 is being run through DFU (hash b05c613eaec91a10e195019c910d6341bd193d81cab2ca58ea1e35f14804349d), this will cause launch time delays
+[13Dec2024 07:55:32.962] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/minecart/path_2_sculk is being run through DFU (hash 72c04e16ba2ad1396118d2a6d09de774f222a2217d26e2a73aef934637af57b3), this will cause launch time delays
+[13Dec2024 07:55:32.978] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/minecart/path_1 is being run through DFU (hash a222952b67bf42e7b0acbd8bbda58fbd67e267109ec36634fa5e912b8025fca8), this will cause launch time delays
+[13Dec2024 07:55:32.987] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:mineshaft/cherry/minecart/path_1_down is being run through DFU (hash e7e401f83d316298e8df6a970a20db6909a6cd9d7e843b9650f3f58cf7453a34), this will cause launch time delays
+[13Dec2024 07:55:33.662] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:decoration/jungle_well
+[13Dec2024 07:55:34.122] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_spruce_double
+[13Dec2024 07:55:34.189] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:pumpkin_patch/tiny_2_pumpkin_patch
+[13Dec2024 07:55:35.102] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of red:plains_oracle
+[13Dec2024 07:55:35.116] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[13Dec2024 07:55:37.006] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:pumpkin_field/the_great_pumpkin
+[13Dec2024 07:55:38.097] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_small_4
+[13Dec2024 07:55:38.155] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[13Dec2024 07:55:38.214] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:doorbox
+[13Dec2024 07:55:38.555] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:illusioner_tower/tower_3
+[13Dec2024 07:55:39.672] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ms1
+[13Dec2024 07:55:40.181] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[13Dec2024 07:55:40.187] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_jungle
+[13Dec2024 07:55:40.192] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[13Dec2024 07:55:40.198] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_savana
+[13Dec2024 07:55:40.204] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_spruce
+[13Dec2024 07:55:40.919] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/conduit_ruin_3
+[13Dec2024 07:55:41.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14279ms or 285 ticks behind
+[13Dec2024 07:55:44.809] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_center
+[13Dec2024 07:55:44.822] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_outpost is being run through DFU (hash 8c578abca8a93ffc4fae5629a4a35a15658e0533c7922edaa8f721849d8da1a7), this will cause launch time delays
+[13Dec2024 07:55:44.834] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_l_house is being run through DFU (hash c8286047b0cf9be7076bc19d79e40654ea3c404f48239eaeac753a9f49466907), this will cause launch time delays
+[13Dec2024 07:55:44.852] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_empty is being run through DFU (hash 3d5620a6aa116545c6bd611bac50ef67902431145f61fe34719afeeec2a16d7f), this will cause launch time delays
+[13Dec2024 07:55:44.853] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_2 is being run through DFU (hash 3b5c41c69da61f668740acf5ca25d915c6e5a59f84fafa5597e33fb1b0106e3a), this will cause launch time delays
+[13Dec2024 07:55:44.860] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_1 is being run through DFU (hash 52c6db74aa375bb51e141ddbc09254783a923903fc0ebc08007b1f1524484ffe), this will cause launch time delays
+[13Dec2024 07:55:44.866] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_t_house_5 is being run through DFU (hash 8e6108f3fdb7f5770f7e938f346fbf6eef74bc15faff52c43d9a049224cf89be), this will cause launch time delays
+[13Dec2024 07:55:44.867] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_7 is being run through DFU (hash dc4980b98509a090d793fabc4499e8df4a6563f84a66e8c36bf8b2f365d12756), this will cause launch time delays
+[13Dec2024 07:55:44.884] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_medium_slim is being run through DFU (hash 2940975dafc83c6bd27c1399b93a5c5bbc5cfe951b84af6055ce380852d9d6c9), this will cause launch time delays
+[13Dec2024 07:55:44.909] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_21 is being run through DFU (hash 0b1dfc3787c8d11a2f44b9f4578b57ba0679ea7531d25315f50b77650ee59004), this will cause launch time delays
+[13Dec2024 07:55:44.913] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_large is being run through DFU (hash 06b60fc98f0be0d09d37ea702ab6c727179325679d19dcc46f1d3f60951d40f9), this will cause launch time delays
+[13Dec2024 07:55:44.920] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_l_house_5 is being run through DFU (hash 7c9721777e22779a015e1d53db134be9405c8415d38992b01ca9d5d28339297c), this will cause launch time delays
+[13Dec2024 07:55:44.921] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_slim_4 is being run through DFU (hash b0ea645bf64a07b18262d67cf3dc6646b060441d58a234c5a13e22010cccd003), this will cause launch time delays
+[13Dec2024 07:55:44.924] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_outpost_5 is being run through DFU (hash 13a7fe8579917185f5501111b293fe25de153058eacfe12a5005aeb50ac8599e), this will cause launch time delays
+[13Dec2024 07:55:44.925] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_5 is being run through DFU (hash 93ebbe4d1fa19d3f049fe1a0a41fb6617a7763b83541d6f297056874bbeef8d1), this will cause launch time delays
+[13Dec2024 07:55:44.926] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_5 is being run through DFU (hash a311451caa89bda519bc46e986aea1325a2956e15045f207d68baff826b4faf2), this will cause launch time delays
+[13Dec2024 07:55:44.929] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_small_2 is being run through DFU (hash 92bab52d7fb8f74133756efdbd4a81049468e4959507fcde393b2f91bfb5be53), this will cause launch time delays
+[13Dec2024 07:55:44.930] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_10 is being run through DFU (hash 39ebe096908e2bc469f48f208cf7555d70c1677bab645920d57fb6f2aea6b26f), this will cause launch time delays
+[13Dec2024 07:55:44.933] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_5 is being run through DFU (hash d952e6bf5d9292c6d771cef74063dce322f27aa2c3a6ccff100b4824a39e464f), this will cause launch time delays
+[13Dec2024 07:55:44.945] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_3 is being run through DFU (hash d642f76edccf685c21461da607a339fce2afa6eb26b0254db5fa5a8c80e7833f), this will cause launch time delays
+[13Dec2024 07:55:44.949] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_3 is being run through DFU (hash f92a7ea12e7f0352127b844d731ffb0c56ff327469121891e6f3b917b4d24c46), this will cause launch time delays
+[13Dec2024 07:55:44.956] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_4 is being run through DFU (hash beca7d62e223f9f7e4ab0e8f07f65e2bc46ce0eaca2b1eac70a7e620b4c19be3), this will cause launch time delays
+[13Dec2024 07:55:44.956] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_13 is being run through DFU (hash 706068fde452059a068e5ff8ccb7d79fa2e0bfaadb9d7c742d409193457ce07d), this will cause launch time delays
+[13Dec2024 07:55:44.958] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_4 is being run through DFU (hash 3c8ea0fe15d580bb4cbd1dbd1773dd8ec6bd960469fc775729da562d03dbfdbe), this will cause launch time delays
+[13Dec2024 07:55:44.961] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_slim_1 is being run through DFU (hash 40084463b3e5a276e3db2f56b415cf5036b028cca4cc295250d767d829b41fa8), this will cause launch time delays
+[13Dec2024 07:55:44.964] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_l_house_2 is being run through DFU (hash b08a85186699eee8f1958cc5ca1649d3052d73fbeea59ee87fcaf92b450c5138), this will cause launch time delays
+[13Dec2024 07:55:44.965] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_small_4 is being run through DFU (hash 9fd2b5e583893281548007c210c519866edb8452f2b60c66bb6b5a33433ef772), this will cause launch time delays
+[13Dec2024 07:55:44.966] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_6 is being run through DFU (hash 7657f8a79085bfdfb6d5dbee04b7a2b911f27b8faa8b1e4ecd4e4aac5a58d4c1), this will cause launch time delays
+[13Dec2024 07:55:44.967] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_2 is being run through DFU (hash f7f2d0c378f805731063cf8752d37a54f70f6952a288a97de062d58f50ffdb0c), this will cause launch time delays
+[13Dec2024 07:55:44.968] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_slim_2 is being run through DFU (hash 92f46e642eb3fa5000c2185081b5a285a58e06398e333ac629c3836c6d8650e4), this will cause launch time delays
+[13Dec2024 07:55:44.970] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_20 is being run through DFU (hash 29bc2bd80e64e08806bad193fcd3591f9ab3384916653cf2336b06571d300284), this will cause launch time delays
+[13Dec2024 07:55:44.973] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_l_house_3 is being run through DFU (hash 688a98ba01637e27794c2ceb487a654b1fd2e9ffc9cea8fc97372828e5cc0d00), this will cause launch time delays
+[13Dec2024 07:55:44.974] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_small_tower is being run through DFU (hash fb7879c91efa9d3488208f3181cb816844b3bfc73980946128a7f34e6c933bf8), this will cause launch time delays
+[13Dec2024 07:55:44.977] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_11 is being run through DFU (hash 50e4e5904972f299b7ea4c3fc48889565813a26793b19129dcc2a623250744ec), this will cause launch time delays
+[13Dec2024 07:55:44.978] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_t_house_4 is being run through DFU (hash a7006551e0460dd2f7ac5b08cecd2453b02d5d41282fba93aff94433642fe7a5), this will cause launch time delays
+[13Dec2024 07:55:44.980] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_4 is being run through DFU (hash 94a8f2d5a2f985532083e7ac7c3f68284e9c4121e9270f6f055bf10b0ceb9f04), this will cause launch time delays
+[13Dec2024 07:55:44.981] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_3 is being run through DFU (hash 74ed2768cb53e1a5ca4361aad671a5b43f3853a9dc0ab24bf4f2ba284d05ed6c), this will cause launch time delays
+[13Dec2024 07:55:44.981] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_8 is being run through DFU (hash f36e5c560314c329851bf7fb8f40b2efc8ea3cf07d17bdc1aa66ffa88db14d70), this will cause launch time delays
+[13Dec2024 07:55:44.982] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_slim_5 is being run through DFU (hash 1df2042c80b441fd020d34632676c3b29ab30c688dda13ce8f86fae880c35fa9), this will cause launch time delays
+[13Dec2024 07:55:44.984] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_medium is being run through DFU (hash 03364baa8db2ae180dbd6404a1cf4bace0d43d542a287790da32285e726ae728), this will cause launch time delays
+[13Dec2024 07:55:44.990] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_road_8 is being run through DFU (hash 1ae28090e00b43b6d166e69806563589769cf6c92f1f4ee714e954ce6350b99f), this will cause launch time delays
+[13Dec2024 07:55:44.990] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_16 is being run through DFU (hash ae5ef777aac76587e6294cd187d7cc8e0fb1f4bc57eeab385461dd268b15f1bc), this will cause launch time delays
+[13Dec2024 07:55:44.992] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_slim_4 is being run through DFU (hash 2198f8b75ac7eb090320d1008eae7049a4d5ff416a338bc36d09396935b8a344), this will cause launch time delays
+[13Dec2024 07:55:44.993] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_small_tower_4 is being run through DFU (hash da084e4f15771b035204bddea9ff218ca60681e4a18a1927f0903b6ac1e591da), this will cause launch time delays
+[13Dec2024 07:55:44.996] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_slim_2 is being run through DFU (hash f33e8dc9638d489507c0a3f35dd8c206f426749ffbe08cd325438be54fd9fa45), this will cause launch time delays
+[13Dec2024 07:55:44.999] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_small_tower_3 is being run through DFU (hash 1003987ba9bfdadda8960ed2ef116f709e8c256bdef93916eee761097396e434), this will cause launch time delays
+[13Dec2024 07:55:45.001] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_outpost_3 is being run through DFU (hash ef1fdbe925d4d315fb6770d51f40fa1bfe8a6e0d6f7fabf263260193ae62fcfa), this will cause launch time delays
+[13Dec2024 07:55:45.002] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_7 is being run through DFU (hash 23b582e18f6e79393fa721def41d7838f7c86a35cd015bbffc9fa321ca36e16d), this will cause launch time delays
+[13Dec2024 07:55:45.003] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_small_tower_5 is being run through DFU (hash 0a7161641d383c7181b33bfd2d4a6a70fc1e4097df8fbfeade4e3cf27aa4ce7a), this will cause launch time delays
+[13Dec2024 07:55:45.004] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_2 is being run through DFU (hash 7d9fd74ce606a22fecd1c89b433ad0989e25e1dfb86f999580a6ce8fe500e7db), this will cause launch time delays
+[13Dec2024 07:55:45.006] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_slim_5 is being run through DFU (hash e77ed20656e97946d32b54d5beb2ef31d7ce438c8e5227ebef772bf1a04d3643), this will cause launch time delays
+[13Dec2024 07:55:45.007] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_14 is being run through DFU (hash 4d6e64cb6e12b2447852fa5d0160c132a4416973a8ab4b4e0d5f212cd38c5622), this will cause launch time delays
+[13Dec2024 07:55:45.009] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_outpost_2 is being run through DFU (hash 9a83e45e2370fbf507cec66bd5f59bfc55d88f13c8d01b824e2029f651a6a4e6), this will cause launch time delays
+[13Dec2024 07:55:45.010] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_12 is being run through DFU (hash 54138746de20dfe696954c4358f659a8a4a50db6a9998154a74a4066972f256e), this will cause launch time delays
+[13Dec2024 07:55:45.012] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_tower_3 is being run through DFU (hash b78fc2159163a619f10ab52f98944d86ba80da6ee553a94fda266fb534abc508), this will cause launch time delays
+[13Dec2024 07:55:45.015] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_outpost_4 is being run through DFU (hash 4c424534796efc0f20a9d09e38ae99330312516c5cbea6f187b6e7aeb69e2a3e), this will cause launch time delays
+[13Dec2024 07:55:45.017] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_5 is being run through DFU (hash 905f2f0d6d72b14313d5b1699a3c289497c1763769954c30a3fee52973206118), this will cause launch time delays
+[13Dec2024 07:55:45.019] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_l_house_4 is being run through DFU (hash 6a9cbe3c4d635875ce03a8c96ffcf9fecc9d5047ae7a91c8525de5447c399e40), this will cause launch time delays
+[13Dec2024 07:55:45.020] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_tower_4 is being run through DFU (hash b34da0d7c8711255d7703bbf2f0a58bdbabd0b07f881c6e6df824b82eccffd5a), this will cause launch time delays
+[13Dec2024 07:55:45.022] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_3 is being run through DFU (hash 96f4e8d712bcc6c77dfdf866acd9c647beeb4b88c8a4e0dc478e005375bfcd32), this will cause launch time delays
+[13Dec2024 07:55:45.025] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_slim_3 is being run through DFU (hash 7c106df06b164c6a4b379f8e31ad857a0e51f8aee22a878494d7841678c1ce81), this will cause launch time delays
+[13Dec2024 07:55:45.028] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_tower_5 is being run through DFU (hash 9b4a943af6c6ffd83ffad60624f542a96ab46c2fcf1c3c659f621a2bdf719101), this will cause launch time delays
+[13Dec2024 07:55:45.030] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_small_3 is being run through DFU (hash 33f0af3b0db5840134be4d0702fb74f078d02adb3940d9e2cc92ed6bea4f04e1), this will cause launch time delays
+[13Dec2024 07:55:45.031] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_1 is being run through DFU (hash 1ff03fc1aedf97f2a6950a13924a2d21c53f6936bc5813db23c691a09e36f72f), this will cause launch time delays
+[13Dec2024 07:55:45.033] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_slim_1 is being run through DFU (hash a33209851840359973acf0c8662e6605aa3346db82cae632b5c8539b682ebc05), this will cause launch time delays
+[13Dec2024 07:55:45.034] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_t_house_2 is being run through DFU (hash 61a9320d58e8312070f19b70bcef026098b6b98a9ebcbfd28fa9177a4be27d7b), this will cause launch time delays
+[13Dec2024 07:55:45.037] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_t_house_1 is being run through DFU (hash f0ad275f62c5175770350cf6cf5aa4db63e0a0352e15166099d26c234baa5425), this will cause launch time delays
+[13Dec2024 07:55:45.039] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_tower_2 is being run through DFU (hash cf5d67f7a02bd09ee1e94370183ac992eaf7c45d619f159606970b76d913ff87), this will cause launch time delays
+[13Dec2024 07:55:45.043] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_2 is being run through DFU (hash 80500ce0a2bb4e767cc2ee4a2142caef25d3a34af1a43ad2751da6900b27c120), this will cause launch time delays
+[13Dec2024 07:55:45.047] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_19 is being run through DFU (hash afa42ccb7d66e7f7a4eac1e32fb5248c8a21bbe17459f24b5399078b0b370a42), this will cause launch time delays
+[13Dec2024 07:55:45.049] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_18 is being run through DFU (hash c19a75baeacd2eaf82ec7c601a60ff2f2f0aaf8931927c08e5a8fecfd599c9ff), this will cause launch time delays
+[13Dec2024 07:55:45.052] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_small_tower_2 is being run through DFU (hash 4956923b274df5126b14339842d6ae0e054d53c713d637ff3fb2cc2f59c2d9c4), this will cause launch time delays
+[13Dec2024 07:55:45.053] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_medium_slim_3 is being run through DFU (hash 33c1bf17f80a5f493dfeacdd82df6850ba6c7865dbf7f1a19da03392cd617d31), this will cause launch time delays
+[13Dec2024 07:55:45.055] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_tower_1 is being run through DFU (hash 886572e776725c8939732657d2b5af61d489c203d744f5b03de63e0f6ca5976f), this will cause launch time delays
+[13Dec2024 07:55:45.057] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_4 is being run through DFU (hash 5115ee0146af20a9e49851f5c8b94d821d7033127ffd0ec05bc083220619f50e), this will cause launch time delays
+[13Dec2024 07:55:45.058] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_1 is being run through DFU (hash ebe0f1da1972390264efdcab1087f8ceaf107a1eaeed7fca95043a1a90e9864a), this will cause launch time delays
+[13Dec2024 07:55:45.060] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_9 is being run through DFU (hash 240ebfbed205c18201eb326dd7a594136361184386d823f2fbd0ec6afc1ec581), this will cause launch time delays
+[13Dec2024 07:55:45.062] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_17 is being run through DFU (hash ce159ddc7dcba3bceead1d71c28338d80d4d890de49dd6b47003f984d312cb46), this will cause launch time delays
+[13Dec2024 07:55:45.064] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_small_tower_1 is being run through DFU (hash a589d52cb0cba59d7edee89fd60a87a1f33fb998d48abb4e7e49a41577fa2e5c), this will cause launch time delays
+[13Dec2024 07:55:45.065] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_l_house_1 is being run through DFU (hash d9417a528de46b68aee8443939d96b765b5b5c3ac2bd5be636c5534c83997ab9), this will cause launch time delays
+[13Dec2024 07:55:45.067] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_t_house_3 is being run through DFU (hash cfb44ec61e990763031338b35d6d55d0e8a2535c1b112a2bb4c364a0c3420183), this will cause launch time delays
+[13Dec2024 07:55:45.069] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_15 is being run through DFU (hash 4893421babde7374fbd5d60255549c923c0a9f7c214a457e650b4e13590aaf9c), this will cause launch time delays
+[13Dec2024 07:55:45.070] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_small_1 is being run through DFU (hash 1751fc780f76f7a1fb06e68eac2574bdce1ceb62f06b056a64b457a0145ad76a), this will cause launch time delays
+[13Dec2024 07:55:45.072] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_outpost_1 is being run through DFU (hash 41107833b0a346350a4d54b558632f2917ca74e47d583a984d472465763a0183), this will cause launch time delays
+[13Dec2024 07:55:45.075] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_house_large_1 is being run through DFU (hash 2f994234aec999f8d42d9357760c19a69b902c5a2c5ae81bd31471f30ba99006), this will cause launch time delays
+[13Dec2024 07:55:45.077] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_event_6 is being run through DFU (hash f85c91c931cbb732092a946915977b7bd4d8c4443d027df89952723c6557e279), this will cause launch time delays
+[13Dec2024 07:55:45.337] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_wall_4 is being run through DFU (hash ea05db11cd93dc8f31985940fd7b2605a174c35f8cfc8c521d35dd36b464efe0), this will cause launch time delays
+[13Dec2024 07:55:45.338] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_pillar_3 is being run through DFU (hash a3048c8929704aeab713d41351837e6a0a9fb827275c34d4e17c62c5fa5ed9a1), this will cause launch time delays
+[13Dec2024 07:55:45.338] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_pillar_4 is being run through DFU (hash 7be86257bbc27e208fffe3c48773c0c24ca3f66db6703e551c93e532d3f4c43f), this will cause launch time delays
+[13Dec2024 07:55:45.339] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_wall_1 is being run through DFU (hash d55048b03fc016f87f3dba607ab537280263ee0b8eaed3efa3e53aac77bc251d), this will cause launch time delays
+[13Dec2024 07:55:45.339] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_pillar_1 is being run through DFU (hash 3b8965bcb54b0b8d64a9e3a2bf7a03fd34b5e5da89fb99f199c702b80bd8958d), this will cause launch time delays
+[13Dec2024 07:55:45.339] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_wall_3 is being run through DFU (hash 7629e0bc7e01768a0ba187ab9982f1a193fd53d4d7c8a45b9c82b27ff10a73c6), this will cause launch time delays
+[13Dec2024 07:55:45.340] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_wall_2 is being run through DFU (hash a4d0288b203a603ac38656ecc734ca363c25e507ca9fd769248a387f8f930260), this will cause launch time delays
+[13Dec2024 07:55:45.341] [Worker-Main-1/DEBUG] [ModernFix/]: Structure nova_structures:ruin_town/ruin_town_plot_pillar_2 is being run through DFU (hash 3a808d9a81c6d5c8bc02cc1d37e41dae2b6a2d88a35b9874266e1ea4dbf4db94), this will cause launch time delays
+[13Dec2024 07:55:48.971] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:jungle_portal
+[13Dec2024 07:55:50.286] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:sand_wall
+[13Dec2024 07:55:51.409] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9
+[13Dec2024 07:55:52.321] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$Interp
+[13Dec2024 07:55:52.322] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$NoiseType
+[13Dec2024 07:55:52.323] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$FractalType
+[13Dec2024 07:55:52.324] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$CellularDistanceFunction
+[13Dec2024 07:55:52.324] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/world/gen/FastNoise$CellularReturnType
+[13Dec2024 07:55:53.467] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ss1
+[13Dec2024 07:55:54.182] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=11569, y=11, z=15714} at Chest with:minecraft:chests/simple_dungeon
+[13Dec2024 07:55:55.005] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=11537, y=31, z=15822} at Chest with:minecraft:chests/simple_dungeon
+[13Dec2024 07:55:55.342] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of red:desert_pyramid
+[13Dec2024 07:55:55.850] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_small_10
+[13Dec2024 07:55:55.869] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_savanna_naturalist
+[13Dec2024 07:55:56.441] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ls1
+[13Dec2024 07:55:57.449] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:abandoned_mansion
+[13Dec2024 07:55:57.536] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/small_potato_patch_variant_3
+[13Dec2024 07:55:57.567] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:mossy_roof_shed/mossy_roof_shed
+[13Dec2024 07:55:58.757] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[13Dec2024 07:55:58.875] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[13Dec2024 07:56:17.650] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[13Dec2024 07:56:42.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Ring of Recovery] to aaaaa]
+[13Dec2024 07:56:48.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Ancient Codex] to aaaaa]
+[13Dec2024 07:56:59.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:00.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:00.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:00.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:00.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:01.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:01.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:01.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:01.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:01.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:01.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:02.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:02.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:02.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:02.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:02.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:03.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:03.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:03.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 07:57:28.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Bottle o' Lightning] to aaaaa]
+[13Dec2024 07:57:28.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Bottle o' Lightning] to aaaaa]
+[13Dec2024 07:57:28.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Bottle o' Lightning] to aaaaa]
+[13Dec2024 07:57:28.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Bottle o' Lightning] to aaaaa]
+[13Dec2024 07:57:28.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Bottle o' Lightning] to aaaaa]
+[13Dec2024 07:59:14.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:15.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:15.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:23.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:23.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:23.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:23.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:23.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:23.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:23.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:24.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:24.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:25.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:25.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:25.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:25.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:25.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:25.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:26.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:26.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:26.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 07:59:26.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 08:00:29.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 08:00:29.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 08:04:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:04:55.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:04:55.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:04:55.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:04:55.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:04:55.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:04:56.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:04:56.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:04:56.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:04:56.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:04:56.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
