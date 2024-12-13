@@ -1637,6 +1637,7 @@
       "minecraft:zombified_piglin": "2024-12-12 00:23:25 +0000",
       "minecraft:piglin": "2024-12-08 01:16:58 +0000",
       "minecraft:enderman": "2024-12-13 06:58:56 +0000",
+      "minecraft:silverfish": "2024-12-13 08:25:30 +0000",
       "minecraft:vex": "2024-12-11 05:18:21 +0000",
       "minecraft:zombie": "2024-12-07 01:00:29 +0000",
       "minecraft:drowned": "2024-12-06 04:48:08 +0000"
@@ -6370,6 +6371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-13 08:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-13 08:11:34 +0000"
@@ -6418,9 +6425,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-13 08:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-13 08:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-13 08:25:41 +0000"
     },
     "done": true
   },

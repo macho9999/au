@@ -2077,3 +2077,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [13Dec2024 08:18:27.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has completed the challenge [Cover Me in Debris]
 [13Dec2024 08:24:34.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
 [13Dec2024 08:25:10.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[13Dec2024 08:38:11.342] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/entities/Sparkle$CrystalType
+[13Dec2024 08:38:35.586] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes

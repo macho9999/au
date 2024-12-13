@@ -15000,3 +15000,95 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [13Dec2024 08:25:10.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
 [13Dec2024 08:25:29.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 08:25:29.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 08:26:48.394] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/knight
+[13Dec2024 08:27:08.990] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[13Dec2024 08:27:08.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_2
+[13Dec2024 08:27:08.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_1
+[13Dec2024 08:30:29.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 08:30:29.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 08:30:45.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1_down_sculk
+[13Dec2024 08:30:45.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2_down_sculk
+[13Dec2024 08:30:45.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2
+[13Dec2024 08:30:45.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/connector_2
+[13Dec2024 08:30:45.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2_down
+[13Dec2024 08:30:45.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_6
+[13Dec2024 08:30:45.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_5
+[13Dec2024 08:30:45.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_4
+[13Dec2024 08:31:35.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_oak
+[13Dec2024 08:31:35.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:libraries/cold
+[13Dec2024 08:31:35.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:libraries/normal
+[13Dec2024 08:31:35.423] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/tiny_potato_patch_variant_3
+[13Dec2024 08:31:44.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[13Dec2024 08:31:44.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[13Dec2024 08:31:44.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[13Dec2024 08:31:50.435] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[13Dec2024 08:31:50.442] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[13Dec2024 08:31:50.648] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_oak_double
+[13Dec2024 08:31:50.679] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:terracotta_double
+[13Dec2024 08:31:51.601] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of theorcs:orc_camp
+[13Dec2024 08:34:51.751] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_1
+[13Dec2024 08:34:51.754] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_1_bottom
+[13Dec2024 08:34:51.760] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/entrance/entrance_1
+[13Dec2024 08:34:51.764] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/main_room/main_room_3
+[13Dec2024 08:34:51.765] [Worker-Main-3/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/passage/passage_5 is being run through DFU (hash 3c1af4a619e5f18bd23a678b901323f97a9570a228b696d0220ee3ca2a16bd2c), this will cause launch time delays
+[13Dec2024 08:34:51.789] [Worker-Main-3/DEBUG] [ModernFix/]: Structure valhelsia_structures:spawner_dungeon/stairs/stairs_3 is being run through DFU (hash d4b10eef614d8fad327cca1b7473ed892e4634c04890d1e576fdb3f1f43595b6), this will cause launch time delays
+[13Dec2024 08:34:51.792] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/side_room/side_room_3
+[13Dec2024 08:34:51.794] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/spawner_room/spider_spawner_room
+[13Dec2024 08:34:51.795] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/spawner_room/skeleton_spawner_room
+[13Dec2024 08:34:51.797] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/side_room/side_room_1
+[13Dec2024 08:34:58.135] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_1
+[13Dec2024 08:35:10.161] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/potato_field_variant_1
+[13Dec2024 08:35:29.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 08:35:29.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 08:35:36.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:watchtower/plains/feature_plate/whole
+[13Dec2024 08:35:36.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:watchtower/plains/tower/whole
+[13Dec2024 08:35:36.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:watchtower/plains/features/resource_pile
+[13Dec2024 08:35:48.173] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1_down
+[13Dec2024 08:35:48.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1_sculk
+[13Dec2024 08:35:57.703] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower3
+[13Dec2024 08:35:57.762] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/circle_small
+[13Dec2024 08:35:57.779] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector2
+[13Dec2024 08:35:57.791] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector3
+[13Dec2024 08:35:57.797] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_tabletwall
+[13Dec2024 08:35:57.804] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_watchtower
+[13Dec2024 08:35:57.816] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector1
+[13Dec2024 08:35:57.834] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector5
+[13Dec2024 08:35:57.835] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/connector4
+[13Dec2024 08:35:57.874] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_castle_small
+[13Dec2024 08:35:57.893] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/house3 is being run through DFU (hash cede5f78d3c091ad7f58fb27463bcfe1aaf648c006c206d5a2e7b6899207a004), this will cause launch time delays
+[13Dec2024 08:35:57.917] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle2
+[13Dec2024 08:35:57.924] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/house2
+[13Dec2024 08:35:57.940] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/castle1
+[13Dec2024 08:36:51.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:firewatch_tower/firewatch_cherry
+[13Dec2024 08:36:56.583] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/campsite/main/campfire
+[13Dec2024 08:36:56.602] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_mushroom_soothsayer
+[13Dec2024 08:37:32.816] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=3056, y=-7, z=39559} at Chest with:minecraft:chests/simple_dungeon
+[13Dec2024 08:38:11.342] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/entities/Sparkle$CrystalType
+[13Dec2024 08:38:35.586] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[13Dec2024 08:38:44.524] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_tiny_4
+[13Dec2024 08:38:44.533] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_3
+[13Dec2024 08:38:47.734] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/mini_carrot_patch_variant_4
+[13Dec2024 08:38:47.740] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_mushroom_naturalist
+[13Dec2024 08:38:47.745] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_4
+[13Dec2024 08:38:47.765] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/tiny_potato_patch_variant_4
+[13Dec2024 08:38:47.792] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/small_carrot_patch_variant_3
+[13Dec2024 08:38:48.820] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/two_carrot_plant
+[13Dec2024 08:38:59.885] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/small_wheat_patch_variant_3
+[13Dec2024 08:39:02.661] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[13Dec2024 08:40:29.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 08:40:29.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 08:40:40.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_3
+[13Dec2024 08:40:40.142] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_3_bottom
+[13Dec2024 08:40:40.145] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/entrance/entrance_2
+[13Dec2024 08:40:40.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/main_room/main_room_1
+[13Dec2024 08:40:40.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/passage/passage_2
+[13Dec2024 08:40:40.150] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/stairs/stairs_6
+[13Dec2024 08:40:40.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_trap_3
+[13Dec2024 08:40:40.576] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_18
+[13Dec2024 08:40:40.685] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/arbalist
+[13Dec2024 08:40:40.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_birch_double
+[13Dec2024 08:40:40.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/axeguard
+[13Dec2024 08:40:40.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/archer
+[13Dec2024 08:40:41.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_1
+[13Dec2024 08:45:29.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 08:45:29.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
