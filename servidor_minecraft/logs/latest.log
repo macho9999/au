@@ -2065,3 +2065,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [13Dec2024 08:04:56.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
 [13Dec2024 08:04:56.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
 [13Dec2024 08:04:56.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:11:16.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Creative Mode]
+[13Dec2024 08:11:32.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[13Dec2024 08:15:03.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Netherite Battlemage Leggings] to aaaaa]

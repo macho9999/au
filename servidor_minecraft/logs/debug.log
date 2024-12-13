@@ -14977,3 +14977,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [13Dec2024 08:04:56.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
 [13Dec2024 08:04:56.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
 [13Dec2024 08:04:56.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 08:05:29.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 08:05:29.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 08:10:29.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 08:10:29.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 08:11:16.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Creative Mode]
+[13Dec2024 08:11:32.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[13Dec2024 08:15:03.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Netherite Battlemage Leggings] to aaaaa]
+[13Dec2024 08:15:05.302] [Netty Epoll Server IO #6/DEBUG] [mezz.jei.common.platform.Services/]: Loaded mezz.jei.forge.platform.PlatformHelper@ddcaa37 for service interface mezz.jei.common.platform.IPlatformHelper
