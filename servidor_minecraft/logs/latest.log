@@ -1949,3 +1949,43 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [13Dec2024 07:19:44.403] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Dec2024 07:19:44.403] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Dec2024 07:19:44.403] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 07:24:48.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa was kicked for floating too long!
+[13Dec2024 07:24:48.856] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Disconnected
+[13Dec2024 07:24:48.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
+[13Dec2024 07:24:48.889] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Dec2024 07:25:00.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaaaa[/100.110.119.13:50089] logged in with entity id 16871 at (3742.0282916680235, 65.02442408821369, 40245.603798416094)
+[13Dec2024 07:25:00.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa joined the game
+[13Dec2024 07:25:00.572] [Server thread/INFO] [Jade/]: Syncing config to aaaaa (77cc7b98-f829-305b-9a13-dbb088fbd0f5)
+[13Dec2024 07:27:23.645] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[13Dec2024 07:27:23.690] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestred/piglinproliferation/common/entities/ai/behaviors/ChargeTask$ChargePhases
+[13Dec2024 07:27:44.199] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Dec2024 07:27:45.103] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker succeeded with 3828 radius, 135 samples
+[13Dec2024 07:28:08.001] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/17721, l='ServerLevel[world]', x=1870.68, y=37.05, z=1408.07] died: Sanctum Inquisitor tried to swim in lava
+[13Dec2024 07:28:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has reached the goal [Ghast Buster]
+[13Dec2024 07:28:39.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/17669, l='ServerLevel[world]', x=1863.55, y=37.00, z=1412.50] died: Sanctum Inquisitor went up in flames
+[13Dec2024 07:30:09.314] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Dec2024 07:30:09.362] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker succeeded with 452 radius, 2 samples
+[13Dec2024 07:30:29.123] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Dec2024 07:30:29.148] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker succeeded with 363 radius, 1 samples
+[13Dec2024 07:30:32.971] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Dec2024 07:30:32.998] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker succeeded with 347 radius, 2 samples
+[13Dec2024 07:30:42.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[13Dec2024 07:31:28.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Teleported aaaaa to 12213.500000, 32.000000, 15123.500000]
+[13Dec2024 07:31:28.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15918ms or 318 ticks behind
+[13Dec2024 07:31:34.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa moved too quickly! -1.7800437638034055,0.0,10.045671243349716
+[13Dec2024 07:31:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[13Dec2024 07:32:06.182] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Dec2024 07:32:06.861] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker succeeded with 1094 radius, 6 samples
+[13Dec2024 07:32:29.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20430ms or 408 ticks behind
+[13Dec2024 07:33:25.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6680ms or 133 ticks behind
+[13Dec2024 07:35:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[13Dec2024 07:36:18.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[13Dec2024 07:38:55.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa was kicked for floating too long!
+[13Dec2024 07:38:55.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Flying is not enabled on this server
+[13Dec2024 07:38:55.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
+[13Dec2024 07:39:11.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaaaa[/100.110.119.13:50156] logged in with entity id 20586 at (11319.021410713985, 38.00133597911215, 15707.969321394046)
+[13Dec2024 07:39:11.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa joined the game
+[13Dec2024 07:39:11.299] [Server thread/INFO] [Jade/]: Syncing config to aaaaa (77cc7b98-f829-305b-9a13-dbb088fbd0f5)
+[13Dec2024 07:40:07.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[13Dec2024 07:42:26.710] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/keeper/KeeperEntity$AttackType
+[13Dec2024 07:44:16.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Creative Mode]

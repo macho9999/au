@@ -6280,9 +6280,27 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-12-13 06:34:47 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
     "criteria": {
       "has_warden_upgrade_smithing_template": "2024-12-13 06:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-13 06:39:26 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-12-13 06:40:37 +0000"
     },
     "done": true
   },
@@ -6292,33 +6310,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/packed_ice": {
+  "callfromthedepth_:key": {
     "criteria": {
-      "has_ice": "2024-12-13 07:03:19 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2024-12-13 06:34:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2024-12-13 06:58:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-12-13 06:58:29 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_warden": {
-    "criteria": {
-      "warden": "2024-12-13 06:40:37 +0000"
+      "key_0": "2024-12-13 06:40:42 +0000"
     },
     "done": true
   },
@@ -6334,15 +6328,27 @@
     },
     "done": true
   },
-  "callfromthedepth_:key": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "key_0": "2024-12-13 06:40:42 +0000"
+      "has_reeds": "2024-12-13 06:58:29 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
-      "avoid_vibration": "2024-12-13 06:39:26 +0000"
+      "has_sugar_cane": "2024-12-13 06:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-12-13 07:03:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/ghast_buster": {
+    "criteria": {
+      "kill_ghast": "2024-12-13 07:28:12 +0000"
     },
     "done": true
   },
