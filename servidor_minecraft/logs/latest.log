@@ -2100,3 +2100,26 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [13Dec2024 08:54:27.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Ancient Codex] to aaaaa]
 [13Dec2024 08:54:30.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Ancient Codex] to aaaaa]
 [13Dec2024 08:54:32.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Ancient Codex] to aaaaa]
+[13Dec2024 09:03:00.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:01.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:01.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:19.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:19.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:19.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:19.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:19.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:19.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:20.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:20.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:20.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:20.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:20.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:54.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:54.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:55.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:08:59.031] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Dec2024 09:08:59.050] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker succeeded with 852 radius, 3 samples
+[13Dec2024 09:09:03.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[13Dec2024 09:11:12.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Arag the Lurker'/53604, l='ServerLevel[world]', x=4414.65, y=43.50, z=39563.71] died: Arag the Lurker suffocated in a wall

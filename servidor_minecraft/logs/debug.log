@@ -15117,3 +15117,246 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [13Dec2024 08:54:32.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Ancient Codex] to aaaaa]
 [13Dec2024 08:55:29.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Dec2024 08:55:29.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 08:56:35.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/left
+[13Dec2024 08:56:35.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top
+[13Dec2024 08:56:35.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/right
+[13Dec2024 08:56:35.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_1
+[13Dec2024 08:56:35.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_passage_1
+[13Dec2024 08:56:35.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_horizontal_wall_stairs_4
+[13Dec2024 08:56:35.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top_left_corner
+[13Dec2024 08:56:35.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top_right_corner
+[13Dec2024 08:56:35.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_stairs_3
+[13Dec2024 08:56:35.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_right_corner_1
+[13Dec2024 08:56:35.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city/entrance/entrance_connector
+[13Dec2024 08:56:35.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_left_corner
+[13Dec2024 08:56:35.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_3b
+[13Dec2024 08:56:35.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_1
+[13Dec2024 08:56:35.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/large_ruin_1
+[13Dec2024 08:56:35.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_stairs_1
+[13Dec2024 08:56:35.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_2b
+[13Dec2024 08:56:35.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_5b
+[13Dec2024 08:56:35.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/roads/ancient_citty_path_1
+[13Dec2024 08:56:35.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_3
+[13Dec2024 08:56:35.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_horizontal_wall_stairs_1
+[13Dec2024 08:56:35.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_2b
+[13Dec2024 08:56:35.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_1
+[13Dec2024 08:56:35.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_4b
+[13Dec2024 08:56:35.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/amethyst_box_1
+[13Dec2024 08:56:35.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_horizontal_wall_stairs_3
+[13Dec2024 08:56:35.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_stairs_4
+[13Dec2024 08:56:35.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_lshape_wall_1
+[13Dec2024 08:56:35.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city/entrance/entrance_path_3
+[13Dec2024 08:56:35.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/roads/ancient_citty_path_2
+[13Dec2024 08:56:35.475] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_pillar_1
+[13Dec2024 08:56:35.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/ritual_room_3
+[13Dec2024 08:56:35.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_intersection_wall_1
+[13Dec2024 08:56:35.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_2c
+[13Dec2024 08:56:35.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_3b
+[13Dec2024 08:56:35.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/lighthouse_pillar3
+[13Dec2024 08:56:35.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/lighthouse_pillar2
+[13Dec2024 08:56:35.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_2
+[13Dec2024 08:56:35.490] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/ritual_room_4
+[13Dec2024 08:56:35.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/wall_lock
+[13Dec2024 08:56:35.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_6
+[13Dec2024 08:56:35.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/camp_3
+[13Dec2024 08:56:35.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_8
+[13Dec2024 08:56:35.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_7
+[13Dec2024 08:56:35.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_1
+[13Dec2024 08:56:35.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_4
+[13Dec2024 08:56:35.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_1b
+[13Dec2024 08:56:35.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/lighthouse_pillar1
+[13Dec2024 08:56:35.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/barracks
+[13Dec2024 08:56:35.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/ritual_room_1
+[13Dec2024 08:56:35.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/large_ruin_3
+[13Dec2024 08:56:35.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_2
+[13Dec2024 08:56:35.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_5
+[13Dec2024 08:56:35.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/large_pillar_1
+[13Dec2024 08:56:35.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/sauna_2
+[13Dec2024 08:56:35.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_1b
+[13Dec2024 08:56:35.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_1c
+[13Dec2024 08:56:35.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/chamber_3
+[13Dec2024 08:56:35.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_1b
+[13Dec2024 08:56:35.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/sauna_4
+[13Dec2024 08:56:35.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_stairs_2
+[13Dec2024 08:56:40.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_spawner_room_2
+[13Dec2024 08:56:40.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_cross
+[13Dec2024 08:56:40.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_l_2
+[13Dec2024 08:56:40.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs_high
+[13Dec2024 08:56:40.319] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_statue_room
+[13Dec2024 08:56:40.321] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_lock
+[13Dec2024 08:56:40.322] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_r
+[13Dec2024 08:56:40.323] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs_t
+[13Dec2024 08:56:40.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_2
+[13Dec2024 08:56:40.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_3
+[13Dec2024 08:56:40.326] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_1
+[13Dec2024 08:56:40.327] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_t
+[13Dec2024 08:56:40.328] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_4
+[13Dec2024 08:56:40.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs
+[13Dec2024 08:56:40.330] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_l_1
+[13Dec2024 09:00:29.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 09:00:29.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 09:03:00.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:01.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:01.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:02.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:06.177] [Server thread/DEBUG] [mezz.jei.common.network.packets.PacketDeletePlayerItem/]: Player 'literal{aaaaa} (77cc7b98-f829-305b-9a13-dbb088fbd0f5)' tried to delete Item 'scroll' but is currently holding a different ItemStack 'translation{key='chat.square_brackets', args=[empty[siblings=[translation{key='item.irons_spellbooks.legendary_ink', args=[]}]]]}[style={color=white,hoverEvent=HoverEvent{action=<action show_item>, value='net.minecraft.network.chat.HoverEvent$ItemStackInfo@768c19fa'}}]'.
+[13Dec2024 09:03:19.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:19.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:19.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:19.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:19.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:19.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:20.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:20.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:20.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:20.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:20.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Paper] to aaaaa]
+[13Dec2024 09:03:54.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:54.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:54.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:03:55.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Legendary Ink] to aaaaa]
+[13Dec2024 09:05:29.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 09:05:29.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 09:05:40.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_dark_oak
+[13Dec2024 09:05:40.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_dark_oak
+[13Dec2024 09:08:59.031] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[13Dec2024 09:08:59.050] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager f9a7b634: RandomSpreadSearchWorker succeeded with 852 radius, 3 samples
+[13Dec2024 09:09:00.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[13Dec2024 09:09:00.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_1
+[13Dec2024 09:09:00.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_house_spruce
+[13Dec2024 09:09:00.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_spruce
+[13Dec2024 09:09:00.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[13Dec2024 09:09:00.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_spruce
+[13Dec2024 09:09:00.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_spruce
+[13Dec2024 09:09:01.330] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ms1
+[13Dec2024 09:09:01.557] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ss1
+[13Dec2024 09:09:02.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_4
+[13Dec2024 09:09:02.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_right_corner_2
+[13Dec2024 09:09:02.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_corner_wall_2
+[13Dec2024 09:09:02.845] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_corner_wall_1
+[13Dec2024 09:09:02.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_1
+[13Dec2024 09:09:02.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_horizontal_wall_stairs_2
+[13Dec2024 09:09:02.848] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/barracks_3
+[13Dec2024 09:09:02.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city/entrance/entrance_path_1
+[13Dec2024 09:09:02.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_3
+[13Dec2024 09:09:02.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_4
+[13Dec2024 09:09:02.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_2
+[13Dec2024 09:09:02.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_2
+[13Dec2024 09:09:02.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/barracks_2
+[13Dec2024 09:09:02.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/camp_2
+[13Dec2024 09:09:02.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/camp_1
+[13Dec2024 09:09:02.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/ice_box_2
+[13Dec2024 09:09:02.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_ruin_4
+[13Dec2024 09:09:02.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_statue
+[13Dec2024 09:09:02.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_2b
+[13Dec2024 09:09:02.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_2
+[13Dec2024 09:09:02.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_ruin_2
+[13Dec2024 09:09:02.866] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/ritual_room_5
+[13Dec2024 09:09:02.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_4b
+[13Dec2024 09:09:02.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_ruin_6
+[13Dec2024 09:09:03.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2188ms or 43 ticks behind
+[13Dec2024 09:09:03.175] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ls1
+[13Dec2024 09:09:04.690] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[13Dec2024 09:09:05.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:dark_tower
+[13Dec2024 09:09:05.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:darktower2
+[13Dec2024 09:09:06.309] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/snowy/campfire
+[13Dec2024 09:09:06.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/house_1
+[13Dec2024 09:09:06.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_plate_2
+[13Dec2024 09:09:06.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_chicken
+[13Dec2024 09:09:06.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/chickens/chicken_1
+[13Dec2024 09:09:06.359] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/chickens/chicken_3
+[13Dec2024 09:09:06.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_large_2
+[13Dec2024 09:09:08.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_small_2
+[13Dec2024 09:09:12.173] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=4163, y=-7, z=39575} at Chest with:minecraft:chests/simple_dungeon
+[13Dec2024 09:09:15.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:orc_camp_normal_loot
+[13Dec2024 09:09:18.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_medium_3
+[13Dec2024 09:09:21.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:forge/forge_1
+[13Dec2024 09:09:21.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/villagers/villager_cynthal
+[13Dec2024 09:09:23.173] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=4233, y=80, z=39767} at Chest with:minecraft:chests/simple_dungeon
+[13Dec2024 09:09:25.197] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_2
+[13Dec2024 09:09:25.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_3
+[13Dec2024 09:09:30.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_15
+[13Dec2024 09:09:31.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:pumpkin_patch/tiny_3_pumpkin_patch
+[13Dec2024 09:09:34.318] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:castle
+[13Dec2024 09:09:34.324] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/horse
+[13Dec2024 09:09:34.325] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/skeleton
+[13Dec2024 09:09:34.368] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_7
+[13Dec2024 09:10:31.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 09:10:31.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 09:11:12.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Arag the Lurker'/53604, l='ServerLevel[world]', x=4414.65, y=43.50, z=39563.71] died: Arag the Lurker suffocated in a wall
+[13Dec2024 09:14:44.961] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: cac4de3d-d8d0-4e81-9bcf-217d86ed1f56
+[13Dec2024 09:15:31.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 09:15:31.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 09:15:48.360] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2f548f51-533e-460b-84dc-7434a6b47f45
+[13Dec2024 09:15:48.360] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2f548f51-533e-460b-84dc-7434a6b47f45
+[13Dec2024 09:15:48.360] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 2f548f51-533e-460b-84dc-7434a6b47f45
+[13Dec2024 09:17:35.758] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [fa6accae-0e33-408e-8a0e-650a1ce36e8c]
+[13Dec2024 09:20:31.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 09:20:31.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 09:20:50.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:desert_double
+[13Dec2024 09:20:50.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/knight
+[13Dec2024 09:22:09.425] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [c4809874-4ae4-4515-bf36-36fe2173e96c]
+[13Dec2024 09:22:46.306] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=4160, y=89, z=39369} at Chest with:valhelsia_structures:chests/treasure
+[13Dec2024 09:24:31.668] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/sanctum_center
+[13Dec2024 09:24:31.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/lab
+[13Dec2024 09:24:31.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/intersect2
+[13Dec2024 09:24:31.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/path_bridge
+[13Dec2024 09:24:31.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/path
+[13Dec2024 09:24:31.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/room1
+[13Dec2024 09:24:31.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/intersect1
+[13Dec2024 09:24:31.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/stairs
+[13Dec2024 09:24:31.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/sanctum_guard
+[13Dec2024 09:24:31.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/room5
+[13Dec2024 09:24:31.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/sanctum_chest
+[13Dec2024 09:24:31.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/sanctum_soul
+[13Dec2024 09:24:31.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/room_library
+[13Dec2024 09:24:31.703] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/path_end
+[13Dec2024 09:24:31.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/big_room3
+[13Dec2024 09:24:31.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/room4
+[13Dec2024 09:24:31.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/room_sculk
+[13Dec2024 09:24:31.965] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:snowy_oracle
+[13Dec2024 09:24:35.812] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_2
+[13Dec2024 09:24:35.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_alt
+[13Dec2024 09:24:35.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils
+[13Dec2024 09:24:35.816] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_alt
+[13Dec2024 09:24:35.817] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path
+[13Dec2024 09:24:35.818] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn
+[13Dec2024 09:24:35.820] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_1
+[13Dec2024 09:24:35.822] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1_alt
+[13Dec2024 09:24:35.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1
+[13Dec2024 09:24:35.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_5
+[13Dec2024 09:24:35.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[13Dec2024 09:24:35.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_prison
+[13Dec2024 09:24:35.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_3
+[13Dec2024 09:24:35.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_2
+[13Dec2024 09:24:35.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1_alt
+[13Dec2024 09:24:35.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_armor
+[13Dec2024 09:24:35.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_lapis
+[13Dec2024 09:24:35.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_iron
+[13Dec2024 09:24:35.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down
+[13Dec2024 09:24:35.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/minecart/path_2_sculk
+[13Dec2024 09:24:35.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_1
+[13Dec2024 09:24:35.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_2
+[13Dec2024 09:24:35.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_carrot
+[13Dec2024 09:24:35.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1
+[13Dec2024 09:24:35.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils_3
+[13Dec2024 09:24:35.842] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_tnt
+[13Dec2024 09:24:35.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_redstone
+[13Dec2024 09:24:35.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_3
+[13Dec2024 09:24:35.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_food
+[13Dec2024 09:24:37.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_1
+[13Dec2024 09:24:49.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:statue
+[13Dec2024 09:25:24.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:mausoleum/whole
+[13Dec2024 09:25:31.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 09:25:31.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 09:27:07.023] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [01b0c52a-63c5-4fda-bdba-fa2a5fbcf488]
+[13Dec2024 09:28:04.025] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [bb981211-f7fd-4917-9cff-1a27dc86d224]
+[13Dec2024 09:29:33.208] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_3
+[13Dec2024 09:29:34.322] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:libraries/cold
+[13Dec2024 09:29:38.353] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [2bb05874-978f-4505-bbb4-86a911e65ba4]
+[13Dec2024 09:29:57.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[13Dec2024 09:30:31.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 09:30:31.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 09:34:12.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:spooky_cottage
+[13Dec2024 09:35:31.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 09:35:31.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
