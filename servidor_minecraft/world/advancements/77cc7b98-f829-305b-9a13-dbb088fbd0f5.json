@@ -6352,5 +6352,11 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2024-12-13 07:48:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

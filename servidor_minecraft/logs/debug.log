@@ -14458,3 +14458,23 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [13Dec2024 07:42:26.710] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/keeper/KeeperEntity$AttackType
 [13Dec2024 07:43:34.859] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:poison_splash 1: [8e37f187-3e4d-4fb5-a51d-5ee7c67cd6f3]
 [13Dec2024 07:44:16.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Creative Mode]
+[13Dec2024 07:45:14.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 07:45:14.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 07:47:37.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[13Dec2024 07:48:04.752] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[13Dec2024 07:49:03.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Creative Mode]
+[13Dec2024 07:49:16.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[13Dec2024 07:50:14.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Dec2024 07:50:15.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Dec2024 07:50:32.913] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [e522d28e-f356-48ed-b576-254c288ac7d2]
+[13Dec2024 07:50:35.954] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[13Dec2024 07:53:19.451] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[13Dec2024 07:53:28.103] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[13Dec2024 07:53:28.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa was blown up by Mutant Strider
+[13Dec2024 07:53:40.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Creative Mode]
+[13Dec2024 07:54:25.115] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_crossbow
+[13Dec2024 07:54:25.133] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/1
+[13Dec2024 07:54:25.135] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/3
+[13Dec2024 07:54:25.138] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/2
+[13Dec2024 07:54:25.550] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_sword
+[13Dec2024 07:54:38.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
