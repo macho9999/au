@@ -672,12 +672,14 @@
       "minecraft:cold_ocean": "2024-12-06 04:45:17 +0000",
       "minecraft:forest": "2024-12-05 08:16:00 +0000",
       "minecraft:lush_caves": "2024-12-06 07:28:30 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-14 01:11:04 +0000",
       "minecraft:ice_spikes": "2024-12-05 08:10:16 +0000",
       "minecraft:frozen_ocean": "2024-12-06 04:28:30 +0000",
       "minecraft:desert": "2024-12-06 07:04:25 +0000",
       "minecraft:windswept_forest": "2024-12-10 06:43:58 +0000",
       "minecraft:ocean": "2024-12-06 07:32:09 +0000",
       "minecraft:jungle": "2024-12-07 23:26:43 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-13 22:15:14 +0000",
       "minecraft:snowy_beach": "2024-12-06 04:29:18 +0000",
       "minecraft:flower_forest": "2024-12-06 04:01:10 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-11 06:26:47 +0000",
@@ -733,7 +735,8 @@
   },
   "meadow:main/find_meadow": {
     "criteria": {
-      "meadow": "2024-12-05 08:13:48 +0000"
+      "meadow": "2024-12-05 08:13:48 +0000",
+      "clearing": "2024-12-13 23:08:06 +0000"
     },
     "done": false
   },
@@ -6353,15 +6356,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+  "netherexp:recipes/misc/cooked_hogham": {
     "criteria": {
-      "has_granite": "2024-12-13 08:11:34 +0000"
+      "has_item": "2024-12-13 07:48:06 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/decorations/combustion_table": {
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
-      "has_silver_ingot": "2024-12-13 09:10:50 +0000"
+      "has_granite": "2024-12-13 08:11:34 +0000"
     },
     "done": true
   },
@@ -6377,21 +6380,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-13 08:25:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-13 08:11:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2024-12-13 08:18:27 +0000"
     },
     "done": true
   },
@@ -6413,27 +6404,9 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/silver_gear": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-13 09:10:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-13 08:11:34 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/tools/spectre_flare": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-13 09:10:50 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/cooked_hogham": {
-    "criteria": {
-      "has_item": "2024-12-13 07:48:06 +0000"
     },
     "done": true
   },
@@ -6443,21 +6416,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
-      "has_rail": "2024-12-13 08:25:41 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/silver_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-13 09:10:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-13 09:10:50 +0000"
+      "has_granite": "2024-12-13 08:11:34 +0000"
     },
     "done": true
   },
@@ -6467,33 +6428,21 @@
     },
     "done": true
   },
-  "alltheores:recipes/misc/silver_rod": {
+  "minecraft:nether/netherite_armor": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-13 09:10:50 +0000"
+      "netherite_armor": "2024-12-13 08:18:27 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_silver_ingot": "2024-12-13 09:10:50 +0000"
+      "has_rail": "2024-12-13 08:25:41 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonbone": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_dragon_bone_block": "2024-12-13 09:23:15 +0000"
-    },
-    "done": true
-  },
-  "alltheores:recipes/misc/sapphire_block": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/sapphire]_ingot": "2024-12-13 09:18:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2024-12-13 09:18:11 +0000"
+      "has_rail": "2024-12-13 08:25:41 +0000"
     },
     "done": true
   },
@@ -6509,9 +6458,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
+  "iceandfire:recipes/building_blocks/dread_torch": {
     "criteria": {
-      "has_granite": "2024-12-13 08:11:34 +0000"
+      "has_item": "2024-12-13 09:09:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 09:10:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-13 09:10:50 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 09:10:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-13 09:10:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 09:10:50 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/silver_rod": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2024-12-13 09:10:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 09:10:50 +0000"
     },
     "done": true
   },
@@ -6521,9 +6512,255 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_torch": {
+  "alltheores:recipes/misc/sapphire_block": {
     "criteria": {
-      "has_item": "2024-12-13 09:09:12 +0000"
+      "has_TagKey[minecraft:item / forge:gems/sapphire]_ingot": "2024-12-13 09:18:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-13 09:18:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2024-12-13 09:23:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2024-12-13 09:47:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2024-12-13 09:47:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2024-12-13 09:47:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2024-12-13 09:47:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2024-12-13 09:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 09:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 09:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 09:53:15 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance": "2024-12-13 22:02:52 +0000"
+    },
+    "done": true
+  },
+  "player_companions:recipes/tame_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-13 22:17:15 +0000"
+    },
+    "done": true
+  },
+  "permafrost_biome:brrrverycold": {
+    "criteria": {
+      "brrrverycold": "2024-12-13 22:34:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-13 22:37:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-12-13 22:39:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2024-12-13 22:39:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-13 22:39:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2024-12-13 22:39:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2024-12-13 22:39:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-13 22:48:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-13 22:48:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-13 22:48:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-13 22:48:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-13 22:48:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2024-12-13 22:48:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-13 22:48:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-13 22:48:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2024-12-13 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2024-12-13 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2024-12-13 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-13 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2024-12-13 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-13 23:09:14 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2024-12-14 00:01:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2024-12-14 01:21:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2024-12-14 02:22:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-14 02:22:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2024-12-14 02:22:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2024-12-14 02:22:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2024-12-14 02:22:40 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:no_bones_about_it": {
+    "criteria": {
+      "killed_mutant_skeleton": "2024-12-14 02:29:53 +0000"
     },
     "done": true
   },
