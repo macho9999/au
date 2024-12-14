@@ -1842,3 +1842,33 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [14Dec2024 04:37:20.913] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [14Dec2024 04:38:26.149] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
 [14Dec2024 04:38:29.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[14Dec2024 04:41:51.213] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/explorerscompass/util/CompassState
+[14Dec2024 04:41:51.219] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6d79dbe7: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Dec2024 04:41:51.266] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[14Dec2024 04:41:51.277] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6d79dbe7: RandomSpreadSearchWorker succeeded with 833 radius, 3 samples
+[14Dec2024 04:42:00.760] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/orcinus/galosphere/entities/Sparkle$CrystalType
+[14Dec2024 04:42:01.510] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[14Dec2024 04:42:06.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[14Dec2024 04:42:16.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[14Dec2024 04:43:01.657] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6d79dbe7: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Dec2024 04:43:01.709] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6d79dbe7: RandomSpreadSearchWorker succeeded with 603 radius, 3 samples
+[14Dec2024 04:43:07.125] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[14Dec2024 04:43:12.417] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[14Dec2024 04:43:15.156] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[14Dec2024 04:43:18.212] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[14Dec2024 04:43:19.898] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[14Dec2024 04:43:19.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[14Dec2024 04:43:19.931] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[14Dec2024 04:43:45.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[14Dec2024 04:44:00.869] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6d79dbe7: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Dec2024 04:44:01.443] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6d79dbe7: RandomSpreadSearchWorker succeeded with 2358 radius, 32 samples
+[14Dec2024 04:44:29.372] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[14Dec2024 04:44:29.373] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[14Dec2024 04:46:11.862] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[14Dec2024 04:46:27.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/4358, l='ServerLevel[world]', x=3355.50, y=-18.00, z=41137.50] died: Corvin the Rotten suffocated in a wall
+[14Dec2024 04:48:31.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Clash of the Titans]
+[14Dec2024 04:49:58.861] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[14Dec2024 04:51:01.276] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[14Dec2024 04:51:01.276] [Worker-Main-1/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[14Dec2024 04:53:09.043] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[14Dec2024 04:54:43.591] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/commands/SharedSuggestionProvider$ElementSuggestionType
