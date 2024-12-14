@@ -12495,3 +12495,13 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [14Dec2024 04:55:05.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Dec2024 05:00:05.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 05:00:05.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 05:01:54.628] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6d79dbe7: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[14Dec2024 05:01:54.659] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 6d79dbe7: RandomSpreadSearchWorker succeeded with 834 radius, 3 samples
+[14Dec2024 05:02:26.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Book of Monsters]
+[14Dec2024 05:05:05.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 05:05:05.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 05:05:06.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Would you Like to Know More?]
+[14Dec2024 05:10:05.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 05:10:05.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 05:11:06.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[14Dec2024 05:11:10.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 64 [Manuscript] to aaaaa]
