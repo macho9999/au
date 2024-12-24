@@ -1785,3 +1785,56 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [24Dec2024 23:34:23.306] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/pathfinder/ExtendedPathNodeType
 [24Dec2024 23:38:22.506] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/DialogueType
 [24Dec2024 23:39:22.462] [Server thread/INFO] [Bo's Player Companions/]: 👾 Bo's Player Companions saving data ... de.markusbordihn.playercompanions.data.PlayerCompanionsServerData@6b6efdcf
+[24Dec2024 23:45:15.761] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/PacketFlow
+[24Dec2024 23:45:15.774] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/ConnectionProtocol
+[24Dec2024 23:45:15.790] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundCustomChatCompletionsPacket$Action
+[24Dec2024 23:45:15.806] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundRecipePacket$State
+[24Dec2024 23:45:15.825] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundClientCommandPacket$Action
+[24Dec2024 23:45:15.826] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/ChatVisiblity
+[24Dec2024 23:45:15.833] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundInteractPacket$ActionType
+[24Dec2024 23:45:15.839] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerActionPacket$Action
+[24Dec2024 23:45:15.839] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundPlayerCommandPacket$Action
+[24Dec2024 23:45:15.841] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/inventory/RecipeBookType
+[24Dec2024 23:45:15.843] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundResourcePackPacket$Action
+[24Dec2024 23:45:15.844] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
+[24Dec2024 23:45:15.846] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
+[24Dec2024 23:45:15.848] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[24Dec2024 23:51:01.492] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[24Dec2024 23:51:01.533] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[24Dec2024 23:51:04.015] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaaaa[/100.110.119.13:55788] logged in with entity id 148 at (3737.5, 64.0, 40250.5)
+[24Dec2024 23:51:04.025] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[24Dec2024 23:51:04.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ancient_Ancient_Remnant_Entity$AttackMode
+[24Dec2024 23:51:04.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/BKTeam/illagerrevolutionmod/entity/custom/BladeKnightEntity$Combo
+[24Dec2024 23:51:04.045] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/The_Leviathan/The_Leviathan_Entity$AttackMode
+[24Dec2024 23:51:04.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/EntityAmphithere$FlightBehavior
+[24Dec2024 23:51:04.056] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/BKTeam/illagerrevolutionmod/entity/goals/SpellcasterKnight$IllagerSpell
+[24Dec2024 23:51:04.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/IafDragonAttacks$Air
+[24Dec2024 23:51:04.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/entity/IafDragonAttacks$Ground
+[24Dec2024 23:51:04.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting nonamecrackers2/endertrigon/common/entity/BabyEnderDragon$Phase
+[24Dec2024 23:51:04.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/The_Baby_Leviathan_Entity$AttackMode
+[24Dec2024 23:51:04.079] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Nameless_Sorcerer_Entity$SpellType
+[24Dec2024 23:51:04.082] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/Pet/Modern_Remnant_Entity$AttackMode
+[24Dec2024 23:51:04.084] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/EntityMimicOctopus$MimicState
+[24Dec2024 23:51:04.085] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/belgieyt/trailsandtalesplus/Objects/entity/GhoulEntity$AttackPhase
+[24Dec2024 23:51:04.092] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/InternalAnimationMonster/IABossMonsters/Ancient_Remnant/Ancient_Remnant_Entity$AttackMode
+[24Dec2024 23:51:04.110] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/teamresourceful/yabn/elements/YabnType
+[24Dec2024 23:51:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa joined the game
+[24Dec2024 23:51:04.245] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/ability/AbilityHandler
+[24Dec2024 23:51:04.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/ability/AbilityPeriod$AbilityPeriodType
+[24Dec2024 23:51:04.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[24Dec2024 23:51:04.300] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Action
+[24Dec2024 23:51:04.389] [Server thread/INFO] [Jade/]: Syncing config to aaaaa (77cc7b98-f829-305b-9a13-dbb088fbd0f5)
+[24Dec2024 23:51:05.037] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumBestiaryPages
+[24Dec2024 23:51:05.177] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[24Dec2024 23:51:05.296] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/justinwon777/humancompanions/entity/ai/ArbalistRangedCrossbowAttackGoal$CrossbowState
+[24Dec2024 23:51:06.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Disconnected
+[24Dec2024 23:51:06.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
+[24Dec2024 23:51:06.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[24Dec2024 23:51:06.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[24Dec2024 23:51:14.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaaaa[/100.110.119.13:55790] logged in with entity id 239 at (3737.5, 64.0, 40250.5)
+[24Dec2024 23:51:14.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa joined the game
+[24Dec2024 23:51:14.992] [Server thread/INFO] [Jade/]: Syncing config to aaaaa (77cc7b98-f829-305b-9a13-dbb088fbd0f5)
+[24Dec2024 23:51:15.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/network/data/Side
+[24Dec2024 23:51:15.295] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[24Dec2024 23:51:15.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Disconnected
+[24Dec2024 23:51:15.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
