@@ -14869,3 +14869,44 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [25Dec2024 01:34:19.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting thetadev/constructionwand/basics/option/WandOptions$MATCH
 [25Dec2024 01:34:28.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 01:34:28.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:38:06.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[25Dec2024 01:38:06.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_oak
+[25Dec2024 01:38:09.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_5
+[25Dec2024 01:39:28.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:39:28.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:41:15.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_1
+[25Dec2024 01:41:25.632] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of joshie:libraries/normal
+[25Dec2024 01:42:48.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_medium_3
+[25Dec2024 01:42:54.006] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:14.419] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:14.667] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:14.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:15.171] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:15.415] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:15.670] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:15.921] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:16.171] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:16.417] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:16.668] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:16.915] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:17.171] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:17.414] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:17.669] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:17.921] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:18.167] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:18.415] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:18.675] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:18.924] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 01:43:51.120] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f630a9ec-fb96-4326-b65f-8fd1d035a054
+[25Dec2024 01:43:51.120] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f630a9ec-fb96-4326-b65f-8fd1d035a054
+[25Dec2024 01:43:51.120] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f630a9ec-fb96-4326-b65f-8fd1d035a054
+[25Dec2024 01:43:51.120] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f630a9ec-fb96-4326-b65f-8fd1d035a054
+[25Dec2024 01:43:51.120] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f630a9ec-fb96-4326-b65f-8fd1d035a054
+[25Dec2024 01:44:17.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:desert_double
+[25Dec2024 01:44:17.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/knight
+[25Dec2024 01:44:25.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[25Dec2024 01:44:25.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[25Dec2024 01:44:25.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[25Dec2024 01:44:28.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 01:44:28.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 01:44:29.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:snowy_oracle
