@@ -13435,3 +13435,859 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [25Dec2024 00:13:03.741] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
 [25Dec2024 00:13:05.291] [Server thread/DEBUG] [mixin/]: Mixing ListenerImplMixin from offhandcombat-common.mixins.json into net.minecraft.server.network.ServerGamePacketListenerImpl$1
 [25Dec2024 00:13:05.291] [Server thread/DEBUG] [mixin/]: offhandcombat-common.mixins.json:ListenerImplMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[25Dec2024 00:14:18.135] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chaosthedude/explorerscompass/util/CompassState
+[25Dec2024 00:14:18.140] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 899325d4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[25Dec2024 00:14:18.172] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[25Dec2024 00:14:18.193] [Server thread/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[25Dec2024 00:14:18.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[25Dec2024 00:14:19.387] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 899325d4: RandomSpreadSearchWorker succeeded with 4113 radius, 61 samples
+[25Dec2024 00:14:24.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:14:24.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:14:34.052] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 899325d4: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[25Dec2024 00:14:34.079] [Server thread/DEBUG] [mixin/]: Mixing JigsawPlacementMixin from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[25Dec2024 00:14:34.098] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 899325d4: RandomSpreadSearchWorker succeeded with 1093 radius, 7 samples
+[25Dec2024 00:14:57.318] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:dark_tower
+[25Dec2024 00:14:57.332] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:darktower2
+[25Dec2024 00:15:00.037] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.038] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.038] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.039] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.039] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.043] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.055] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.055] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[25Dec2024 00:15:00.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.057] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.058] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.058] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.058] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.059] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.059] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.059] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[25Dec2024 00:15:00.059] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[25Dec2024 00:15:00.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[25Dec2024 00:15:00.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[25Dec2024 00:15:00.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.062] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.063] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.064] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:00.065] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[25Dec2024 00:15:01.960] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_medium_3
+[25Dec2024 00:15:05.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_4
+[25Dec2024 00:15:16.874] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/snowy/campfire
+[25Dec2024 00:15:19.654] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_5
+[25Dec2024 00:15:24.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[25Dec2024 00:15:26.072] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:castle
+[25Dec2024 00:15:26.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/skeleton
+[25Dec2024 00:15:26.080] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/horse
+[25Dec2024 00:15:30.620] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Dec2024 00:15:30.621] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Dec2024 00:15:30.621] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from repurposed_structures-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Dec2024 00:15:30.621] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from phenomena.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Dec2024 00:15:30.621] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Dec2024 00:15:30.622] [Worker-Main-3/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Dec2024 00:15:30.622] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from galosphere.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Dec2024 00:15:30.622] [Worker-Main-3/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Dec2024 00:15:30.623] [Worker-Main-3/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Dec2024 00:15:30.624] [Worker-Main-3/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[25Dec2024 00:15:30.624] [Worker-Main-3/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[25Dec2024 00:15:30.632] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.632] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.632] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.632] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.632] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.633] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.633] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.633] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.633] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.633] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.633] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.633] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.633] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.633] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:30.633] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[25Dec2024 00:15:32.112] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_8
+[25Dec2024 00:15:33.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_alt
+[25Dec2024 00:15:33.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1
+[25Dec2024 00:15:33.727] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_food
+[25Dec2024 00:15:33.729] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_5
+[25Dec2024 00:15:33.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down
+[25Dec2024 00:15:33.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1_alt
+[25Dec2024 00:15:33.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_armor
+[25Dec2024 00:15:33.735] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_bedroom_1
+[25Dec2024 00:15:33.736] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_tools
+[25Dec2024 00:15:33.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_1
+[25Dec2024 00:15:33.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_1
+[25Dec2024 00:15:33.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_rip
+[25Dec2024 00:15:33.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_3
+[25Dec2024 00:15:33.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_alt
+[25Dec2024 00:15:33.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_gold
+[25Dec2024 00:15:33.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_tnt
+[25Dec2024 00:15:33.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/archer
+[25Dec2024 00:15:33.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_2
+[25Dec2024 00:15:33.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_5
+[25Dec2024 00:15:33.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_4
+[25Dec2024 00:15:37.922] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[25Dec2024 00:15:37.923] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[25Dec2024 00:15:37.929] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[25Dec2024 00:15:40.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_spawner_room_2
+[25Dec2024 00:15:40.157] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_cross
+[25Dec2024 00:15:40.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_l_2
+[25Dec2024 00:15:40.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs_high
+[25Dec2024 00:15:40.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_statue_room
+[25Dec2024 00:15:40.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_lock
+[25Dec2024 00:15:40.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_r
+[25Dec2024 00:15:40.173] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs_t
+[25Dec2024 00:15:40.174] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_2
+[25Dec2024 00:15:40.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_3
+[25Dec2024 00:15:40.177] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_1
+[25Dec2024 00:15:40.178] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_t
+[25Dec2024 00:15:40.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_4
+[25Dec2024 00:15:40.180] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_stairs
+[25Dec2024 00:15:40.181] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:undead_crypt/undead_crypt_room_l_1
+[25Dec2024 00:16:22.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_large_2
+[25Dec2024 00:16:59.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/left
+[25Dec2024 00:16:59.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top
+[25Dec2024 00:16:59.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/right
+[25Dec2024 00:16:59.384] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_1
+[25Dec2024 00:16:59.386] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_passage_1
+[25Dec2024 00:16:59.387] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_horizontal_wall_stairs_4
+[25Dec2024 00:16:59.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top_left_corner
+[25Dec2024 00:16:59.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/top_right_corner
+[25Dec2024 00:16:59.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_stairs_3
+[25Dec2024 00:16:59.393] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_right_corner_1
+[25Dec2024 00:16:59.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city/entrance/entrance_connector
+[25Dec2024 00:16:59.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_left_corner
+[25Dec2024 00:16:59.400] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_3b
+[25Dec2024 00:16:59.401] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_1
+[25Dec2024 00:16:59.403] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/large_ruin_1
+[25Dec2024 00:16:59.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_stairs_1
+[25Dec2024 00:16:59.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_2b
+[25Dec2024 00:16:59.406] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_5b
+[25Dec2024 00:16:59.407] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/roads/ancient_citty_path_1
+[25Dec2024 00:16:59.408] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_3
+[25Dec2024 00:16:59.409] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_horizontal_wall_stairs_1
+[25Dec2024 00:16:59.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_2b
+[25Dec2024 00:16:59.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_1
+[25Dec2024 00:16:59.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_4b
+[25Dec2024 00:16:59.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/amethyst_box_1
+[25Dec2024 00:16:59.413] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_horizontal_wall_stairs_3
+[25Dec2024 00:16:59.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_stairs_4
+[25Dec2024 00:16:59.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_lshape_wall_1
+[25Dec2024 00:16:59.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city/entrance/entrance_path_3
+[25Dec2024 00:16:59.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/roads/ancient_citty_path_2
+[25Dec2024 00:16:59.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_pillar_1
+[25Dec2024 00:16:59.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/ritual_room_3
+[25Dec2024 00:16:59.430] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_intersection_wall_1
+[25Dec2024 00:16:59.431] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_2c
+[25Dec2024 00:16:59.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_3b
+[25Dec2024 00:16:59.433] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/lighthouse_pillar3
+[25Dec2024 00:16:59.434] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/lighthouse_pillar2
+[25Dec2024 00:16:59.435] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_2
+[25Dec2024 00:16:59.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/ritual_room_4
+[25Dec2024 00:16:59.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/wall_lock
+[25Dec2024 00:16:59.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_6
+[25Dec2024 00:16:59.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/camp_3
+[25Dec2024 00:16:59.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_8
+[25Dec2024 00:16:59.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_7
+[25Dec2024 00:16:59.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_1
+[25Dec2024 00:16:59.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_4
+[25Dec2024 00:16:59.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_1b
+[25Dec2024 00:16:59.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/lighthouse_pillar1
+[25Dec2024 00:16:59.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/barracks
+[25Dec2024 00:16:59.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/ritual_room_1
+[25Dec2024 00:16:59.461] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/large_ruin_3
+[25Dec2024 00:16:59.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_2
+[25Dec2024 00:16:59.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_5
+[25Dec2024 00:16:59.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/large_pillar_1
+[25Dec2024 00:16:59.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/sauna_2
+[25Dec2024 00:16:59.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/small_ruin_1b
+[25Dec2024 00:16:59.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_1c
+[25Dec2024 00:16:59.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/chamber_3
+[25Dec2024 00:16:59.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_1b
+[25Dec2024 00:16:59.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/sauna_4
+[25Dec2024 00:16:59.476] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_stairs_2
+[25Dec2024 00:17:43.228] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:43.473] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:43.723] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:43.972] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:44.223] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:44.473] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:44.717] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:44.975] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:45.221] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:45.473] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:45.722] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:45.971] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:46.218] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:46.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:46.720] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:46.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:47.223] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:47.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:47.722] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:17:51.170] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[25Dec2024 00:17:51.170] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[25Dec2024 00:17:51.170] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[25Dec2024 00:18:04.724] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[25Dec2024 00:19:07.788] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[25Dec2024 00:19:20.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/taiga/guildhouse_taiga
+[25Dec2024 00:19:20.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_medium_2
+[25Dec2024 00:19:20.645] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_cluster_1
+[25Dec2024 00:19:20.666] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:pumpkin_patch/tiny_5_pumpkin_patch
+[25Dec2024 00:19:22.060] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[25Dec2024 00:19:22.066] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[25Dec2024 00:19:22.067] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from valhelsia_structures.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[25Dec2024 00:19:22.070] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[25Dec2024 00:19:22.070] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[25Dec2024 00:19:22.103] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[25Dec2024 00:19:22.103] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[25Dec2024 00:19:23.256] [Worker-Main-3/DEBUG] [mixin/]: Mixing DripstoneUtilsMixin from mixins.eco.json into net.minecraft.world.level.levelgen.feature.DripstoneUtils
+[25Dec2024 00:19:23.279] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:creeper_pillar_structure
+[25Dec2024 00:19:23.281] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:illager_pillar_structure
+[25Dec2024 00:19:23.281] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:capsule_chamber
+[25Dec2024 00:19:23.282] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:warden_pillar_structure
+[25Dec2024 00:19:23.283] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:wither_pillar_structure
+[25Dec2024 00:19:23.285] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:camp_setup_big
+[25Dec2024 00:19:23.285] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of orcz:fake_tree
+[25Dec2024 00:19:23.286] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of bossominium:greehouse
+[25Dec2024 00:19:23.540] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:ancient_fossil
+[25Dec2024 00:19:23.546] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:subterranean_vault
+[25Dec2024 00:19:23.549] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of deep_dark_regrowth:sculk_heart
+[25Dec2024 00:19:24.414] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_swamp_hunter
+[25Dec2024 00:19:24.437] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:guide_post/warm/whole
+[25Dec2024 00:19:24.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/mini_carrot_patch_variant_4
+[25Dec2024 00:19:24.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:19:24.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:19:25.420] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[25Dec2024 00:19:25.684] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ss1
+[25Dec2024 00:19:44.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa moved wrongly!
+[25Dec2024 00:19:47.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:small_bridge
+[25Dec2024 00:19:47.842] [Worker-Main-2/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[25Dec2024 00:19:47.886] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:sphinx
+[25Dec2024 00:19:47.898] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_2
+[25Dec2024 00:19:49.258] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ms1
+[25Dec2024 00:20:05.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/satisfyu/meadow/entity/chicken/ChickenVar
+[25Dec2024 00:20:09.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/tiny_wheat_patch_variant_2
+[25Dec2024 00:20:09.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:pumpkin_patch/tiny_3_pumpkin_patch
+[25Dec2024 00:20:09.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/house_1
+[25Dec2024 00:20:09.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_plate_2
+[25Dec2024 00:20:09.650] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_chicken
+[25Dec2024 00:20:09.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/chickens/chicken_1
+[25Dec2024 00:20:09.651] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/chickens/chicken_3
+[25Dec2024 00:20:09.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:underground_house/underground_house_4
+[25Dec2024 00:20:09.732] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of bossominium:ancientruins
+[25Dec2024 00:20:29.319] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/satisfyu/meadow/entity/sheep/SheepVar
+[25Dec2024 00:20:43.964] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city_center/walls/bottom_right_corner_2
+[25Dec2024 00:20:43.966] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_corner_wall_2
+[25Dec2024 00:20:43.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_corner_wall_1
+[25Dec2024 00:20:43.969] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_1
+[25Dec2024 00:20:43.970] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/ruined_horizontal_wall_stairs_2
+[25Dec2024 00:20:43.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/barracks_3
+[25Dec2024 00:20:43.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/city/entrance/entrance_path_1
+[25Dec2024 00:20:43.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_3
+[25Dec2024 00:20:43.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_4
+[25Dec2024 00:20:43.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/walls/intact_horizontal_wall_2
+[25Dec2024 00:20:43.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/corner_structure_2
+[25Dec2024 00:20:43.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/barracks_2
+[25Dec2024 00:20:43.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/camp_2
+[25Dec2024 00:20:43.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/camp_1
+[25Dec2024 00:20:43.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/ice_box_2
+[25Dec2024 00:20:43.983] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_ruin_4
+[25Dec2024 00:20:43.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_statue
+[25Dec2024 00:20:43.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_2b
+[25Dec2024 00:20:43.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_medium_ruin_2
+[25Dec2024 00:20:43.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_ruin_2
+[25Dec2024 00:20:43.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/ritual_room_5
+[25Dec2024 00:20:43.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/medium_ruin_4b
+[25Dec2024 00:20:43.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:ancient_city/structures/tall_ruin_6
+[25Dec2024 00:20:54.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_1
+[25Dec2024 00:23:20.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:beach_house
+[25Dec2024 00:23:36.966] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f5d4de27-bee1-48d9-9ac0-c614dbb59251
+[25Dec2024 00:23:36.966] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f5d4de27-bee1-48d9-9ac0-c614dbb59251
+[25Dec2024 00:23:36.966] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f5d4de27-bee1-48d9-9ac0-c614dbb59251
+[25Dec2024 00:23:36.966] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f5d4de27-bee1-48d9-9ac0-c614dbb59251
+[25Dec2024 00:23:36.966] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f5d4de27-bee1-48d9-9ac0-c614dbb59251
+[25Dec2024 00:23:51.596] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_3
+[25Dec2024 00:23:51.598] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/dark_oak/path_1
+[25Dec2024 00:23:51.599] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/birch/entrance_1
+[25Dec2024 00:23:51.601] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/bamboo/path_1
+[25Dec2024 00:23:51.602] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/jungle/path_1
+[25Dec2024 00:23:51.603] [Worker-Main-2/DEBUG] [ModernFix/]: Structure hopo:mineshaft/stone/path_alt is being run through DFU (hash e2838fe64236f603e452d34ee8dabf4cfe6b6a7272801ab455300deda5d6d677), this will cause launch time delays
+[25Dec2024 00:23:51.994] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/spruce/down_5
+[25Dec2024 00:23:51.997] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/cherry/entrance_1
+[25Dec2024 00:23:51.998] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mangrove/entrance_1
+[25Dec2024 00:23:52.002] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_3
+[25Dec2024 00:23:52.005] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_weapons
+[25Dec2024 00:23:52.006] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_smelting
+[25Dec2024 00:23:52.007] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/guard
+[25Dec2024 00:23:52.008] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/r_anchor
+[25Dec2024 00:23:52.010] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/portal
+[25Dec2024 00:23:52.012] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_wheat
+[25Dec2024 00:23:52.014] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_books
+[25Dec2024 00:23:52.015] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_bedroom_2
+[25Dec2024 00:23:52.016] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn_2
+[25Dec2024 00:23:52.017] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance_1
+[25Dec2024 00:23:52.018] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path
+[25Dec2024 00:23:52.019] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_redstone
+[25Dec2024 00:23:52.020] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/prison
+[25Dec2024 00:23:52.021] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_prison
+[25Dec2024 00:23:52.022] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_archer
+[25Dec2024 00:23:52.023] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/copper
+[25Dec2024 00:23:52.024] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_brown_mushroom
+[25Dec2024 00:23:52.025] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_copper
+[25Dec2024 00:23:52.026] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_emerald
+[25Dec2024 00:23:52.027] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_crafting
+[25Dec2024 00:23:52.028] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils_1
+[25Dec2024 00:23:52.030] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/iron_golem
+[25Dec2024 00:23:52.031] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_potions
+[25Dec2024 00:23:52.032] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/map
+[25Dec2024 00:23:52.034] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/music
+[25Dec2024 00:23:52.035] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_diamonds
+[25Dec2024 00:23:52.037] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/potions
+[25Dec2024 00:23:52.038] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_bedroom
+[25Dec2024 00:23:52.039] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/camp
+[25Dec2024 00:23:52.040] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_lapis
+[25Dec2024 00:23:52.041] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_amethyst
+[25Dec2024 00:23:52.043] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_iron
+[25Dec2024 00:23:52.044] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_red_mushroom
+[25Dec2024 00:23:52.045] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils
+[25Dec2024 00:23:52.046] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils_3
+[25Dec2024 00:23:52.047] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_beetroot
+[25Dec2024 00:23:52.050] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/stews
+[25Dec2024 00:23:52.052] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_carrot
+[25Dec2024 00:23:52.054] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_fossils_2
+[25Dec2024 00:23:52.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/room_bedroom_3
+[25Dec2024 00:23:52.058] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_pumpkin
+[25Dec2024 00:23:52.068] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/big_rooms/farm_potato
+[25Dec2024 00:23:52.291] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/mobs/archer
+[25Dec2024 00:23:52.293] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/path_1_alt
+[25Dec2024 00:23:52.295] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/entrance
+[25Dec2024 00:23:52.298] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_1
+[25Dec2024 00:23:52.302] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/pathlong_2
+[25Dec2024 00:23:52.310] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_4
+[25Dec2024 00:23:52.312] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/down_3
+[25Dec2024 00:23:52.313] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/turn
+[25Dec2024 00:23:52.314] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_5
+[25Dec2024 00:23:52.316] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_2
+[25Dec2024 00:23:52.322] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/deepslate/trap/trap_4
+[25Dec2024 00:23:53.994] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_tiny_6
+[25Dec2024 00:23:54.006] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_mushroom_hunter
+[25Dec2024 00:23:54.401] [Worker-Main-1/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[25Dec2024 00:23:55.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4242ms or 84 ticks behind
+[25Dec2024 00:23:56.188] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:flower_oracle
+[25Dec2024 00:23:56.354] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_small_2
+[25Dec2024 00:23:56.361] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2b
+[25Dec2024 00:23:56.369] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_3
+[25Dec2024 00:23:56.699] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:ls1
+[25Dec2024 00:23:57.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/mini_carrot_patch_variant_1
+[25Dec2024 00:23:57.336] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_mushroom_sentinel
+[25Dec2024 00:23:57.555] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_jungle_naturalist
+[25Dec2024 00:23:57.563] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:watchtower/plains/base_plate/whole
+[25Dec2024 00:23:57.570] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:watchtower/taiga/base_plate/whole
+[25Dec2024 00:23:57.577] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:watchtower/savanna/base_plate/whole
+[25Dec2024 00:23:57.819] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_medium_2
+[25Dec2024 00:23:58.494] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_savanna_sentinel
+[25Dec2024 00:23:58.504] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of bonesupdate:weeping_willow_tree
+[25Dec2024 00:23:58.531] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/two_carrot_plant
+[25Dec2024 00:24:00.470] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:swamp_pillager
+[25Dec2024 00:24:00.489] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:swamp_pillager_mangrove
+[25Dec2024 00:24:01.685] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_medium_1
+[25Dec2024 00:24:01.713] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:mausoleum/whole
+[25Dec2024 00:24:01.792] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:abandoned_mansion
+[25Dec2024 00:24:02.219] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/Building$validationResult
+[25Dec2024 00:24:03.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/sanctum_center
+[25Dec2024 00:24:03.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/lab
+[25Dec2024 00:24:03.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/intersect1
+[25Dec2024 00:24:03.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/intersect2
+[25Dec2024 00:24:03.716] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/path
+[25Dec2024 00:24:03.717] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/stairs
+[25Dec2024 00:24:03.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/sanctum_chest
+[25Dec2024 00:24:03.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/sanctum_guard
+[25Dec2024 00:24:03.720] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/room_villager_storage
+[25Dec2024 00:24:03.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/room2
+[25Dec2024 00:24:03.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/path_bridge
+[25Dec2024 00:24:03.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/path_end
+[25Dec2024 00:24:03.725] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of 1_splatus:ultris/room3
+[25Dec2024 00:24:03.741] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/tiny_potato_patch_variant_3
+[25Dec2024 00:24:04.698] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of bonesupdate:lost_grave
+[25Dec2024 00:24:04.708] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak1
+[25Dec2024 00:24:04.839] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:victory_frigate/victory_frigate_0
+[25Dec2024 00:24:04.859] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:unicorn_galleon/unicorn_galleon_0
+[25Dec2024 00:24:04.879] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:corsair_corvette/corsair_corvette_0
+[25Dec2024 00:24:04.891] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[25Dec2024 00:24:04.906] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:pirate_junk/pirate_junk_0
+[25Dec2024 00:24:05.680] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_1
+[25Dec2024 00:24:06.645] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:woak2
+[25Dec2024 00:24:09.475] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[25Dec2024 00:24:11.568] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of meadow:chapel
+[25Dec2024 00:24:11.569] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[25Dec2024 00:24:11.570] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[25Dec2024 00:24:11.592] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/small_potato_patch_variant_1
+[25Dec2024 00:24:16.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/town_centers/sunflower_plains_meeting_point_1
+[25Dec2024 00:24:16.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/streets/turn_01
+[25Dec2024 00:24:16.307] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/side/sunflower_plains_farm_wheat_1
+[25Dec2024 00:24:16.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/side/sunflower_plains_farm_beetroot_1
+[25Dec2024 00:24:16.310] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/sunflower_plains_farm/sunflower_plains_scarecrow_2
+[25Dec2024 00:24:16.349] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_small_3
+[25Dec2024 00:24:16.357] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_small_1
+[25Dec2024 00:24:16.391] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of red:jungle_pyramid
+[25Dec2024 00:24:16.399] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of meadow:monument
+[25Dec2024 00:24:16.433] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_tiny_8
+[25Dec2024 00:24:18.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[25Dec2024 00:24:21.496] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:muddy_badlands_well/muddy_badlands_well
+[25Dec2024 00:24:21.588] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_center
+[25Dec2024 00:24:21.599] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_road_1
+[25Dec2024 00:24:21.609] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_1
+[25Dec2024 00:24:21.610] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_small_tower_2
+[25Dec2024 00:24:21.612] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_small_tower_5
+[25Dec2024 00:24:21.613] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_small_tower_4
+[25Dec2024 00:24:21.614] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_small_4
+[25Dec2024 00:24:21.614] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_small_3
+[25Dec2024 00:24:21.615] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_4
+[25Dec2024 00:24:21.616] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_road_2
+[25Dec2024 00:24:21.625] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_12
+[25Dec2024 00:24:21.627] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_19
+[25Dec2024 00:24:21.629] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_large_slim_5
+[25Dec2024 00:24:21.630] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_medium_5
+[25Dec2024 00:24:21.637] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_large_slim_2
+[25Dec2024 00:24:21.671] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_large
+[25Dec2024 00:24:21.701] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_large_5
+[25Dec2024 00:24:21.714] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_medium_slim_4
+[25Dec2024 00:24:21.718] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_medium_slim
+[25Dec2024 00:24:21.720] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_outpost_3
+[25Dec2024 00:24:21.725] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_outpost
+[25Dec2024 00:24:21.728] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_t_house_4
+[25Dec2024 00:24:21.730] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_large_4
+[25Dec2024 00:24:21.731] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_l_house_4
+[25Dec2024 00:24:21.737] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_t_house_5
+[25Dec2024 00:24:21.738] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_3
+[25Dec2024 00:24:21.738] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_empty
+[25Dec2024 00:24:21.739] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_road_6
+[25Dec2024 00:24:21.745] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_road_8
+[25Dec2024 00:24:21.754] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_medium
+[25Dec2024 00:24:21.762] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_tower_3
+[25Dec2024 00:24:21.763] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_11
+[25Dec2024 00:24:21.764] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_outpost_5
+[25Dec2024 00:24:21.770] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_l_house
+[25Dec2024 00:24:21.773] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_medium_4
+[25Dec2024 00:24:21.774] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_6
+[25Dec2024 00:24:21.776] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_t_house_3
+[25Dec2024 00:24:21.777] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_medium_slim_1
+[25Dec2024 00:24:21.778] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_2
+[25Dec2024 00:24:21.779] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_7
+[25Dec2024 00:24:21.779] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_15
+[25Dec2024 00:24:21.781] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_tower_5
+[25Dec2024 00:24:21.782] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_medium_slim_5
+[25Dec2024 00:24:21.782] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_medium_3
+[25Dec2024 00:24:21.790] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_large_slim_4
+[25Dec2024 00:24:21.799] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_l_house_5
+[25Dec2024 00:24:21.799] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_5
+[25Dec2024 00:24:21.801] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_tower_2
+[25Dec2024 00:24:21.802] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_road_7
+[25Dec2024 00:24:21.803] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_small_2
+[25Dec2024 00:24:21.803] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_road_5
+[25Dec2024 00:24:21.804] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_l_house_2
+[25Dec2024 00:24:21.815] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_large_1
+[25Dec2024 00:24:21.835] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_10
+[25Dec2024 00:24:21.837] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_tower_4
+[25Dec2024 00:24:21.854] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_outpost_4
+[25Dec2024 00:24:21.856] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_medium_1
+[25Dec2024 00:24:21.858] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_t_house_1
+[25Dec2024 00:24:21.859] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_small_tower_3
+[25Dec2024 00:24:21.860] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_road_4
+[25Dec2024 00:24:21.870] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_small_1
+[25Dec2024 00:24:21.879] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_14
+[25Dec2024 00:24:21.899] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_9
+[25Dec2024 00:24:21.899] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_medium_slim_3
+[25Dec2024 00:24:21.900] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_16
+[25Dec2024 00:24:21.900] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_small_tower_1
+[25Dec2024 00:24:21.902] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_small_tower
+[25Dec2024 00:24:21.902] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_road_3
+[25Dec2024 00:24:21.904] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_outpost_2
+[25Dec2024 00:24:21.906] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_l_house_3
+[25Dec2024 00:24:21.908] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_t_house_2
+[25Dec2024 00:24:21.911] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_outpost_1
+[25Dec2024 00:24:21.912] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_l_house_1
+[25Dec2024 00:24:21.918] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_large_3
+[25Dec2024 00:24:21.921] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_medium_slim_2
+[25Dec2024 00:24:21.922] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_medium_2
+[25Dec2024 00:24:21.925] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_20
+[25Dec2024 00:24:21.926] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_13
+[25Dec2024 00:24:21.928] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_large_slim_1
+[25Dec2024 00:24:21.931] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_large_2
+[25Dec2024 00:24:21.933] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_house_large_slim_3
+[25Dec2024 00:24:21.934] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_17
+[25Dec2024 00:24:21.936] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_18
+[25Dec2024 00:24:21.938] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_tower_1
+[25Dec2024 00:24:21.939] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_8
+[25Dec2024 00:24:21.942] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_event_21
+[25Dec2024 00:24:22.089] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_wall_1
+[25Dec2024 00:24:22.089] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_pillar_4
+[25Dec2024 00:24:22.090] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_wall_3
+[25Dec2024 00:24:22.090] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_wall_2
+[25Dec2024 00:24:22.090] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_pillar_2
+[25Dec2024 00:24:22.091] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_pillar_3
+[25Dec2024 00:24:22.091] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_wall_4
+[25Dec2024 00:24:22.091] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:ruin_town/ruin_town_plot_pillar_1
+[25Dec2024 00:24:23.740] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of meadow:logging_camp
+[25Dec2024 00:24:23.741] [Worker-Main-3/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[25Dec2024 00:24:23.742] [Worker-Main-3/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[25Dec2024 00:24:25.450] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_jungle_sentinel
+[25Dec2024 00:24:26.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/one_potato_plant
+[25Dec2024 00:24:26.904] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of meadow:observation_post
+[25Dec2024 00:24:26.924] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:tree_cage/tree_cage
+[25Dec2024 00:24:28.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:24:28.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:24:31.322] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_tiny_4
+[25Dec2024 00:24:32.597] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of luminousworld:auburntreeone
+[25Dec2024 00:24:34.574] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=3359, y=-29, z=39373} at Chest with:minecraft:chests/simple_dungeon
+[25Dec2024 00:24:35.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_mixed3
+[25Dec2024 00:24:35.759] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_mushroom_naturalist
+[25Dec2024 00:24:35.778] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:other/desert_temple_mimic/pyramid_main
+[25Dec2024 00:24:35.781] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_cluster_2
+[25Dec2024 00:24:35.949] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_medium_3
+[25Dec2024 00:24:37.393] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:jungle_portal
+[25Dec2024 00:25:02.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal2
+[25Dec2024 00:25:02.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/allays_3
+[25Dec2024 00:25:02.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/zombified_piglin
+[25Dec2024 00:25:02.226] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:patch_netherrack/ruins_5
+[25Dec2024 00:25:02.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:patch_netherrack/crimson/14
+[25Dec2024 00:25:02.239] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:patch_netherrack/crimson/8
+[25Dec2024 00:25:02.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:patch_netherrack/crimson/33
+[25Dec2024 00:25:02.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:patch_netherrack/crimson/37
+[25Dec2024 00:25:02.289] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:plains_oracle
+[25Dec2024 00:25:02.331] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/tiny_potato_patch_variant_2
+[25Dec2024 00:25:02.346] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/small_wheat_patch_variant_2
+[25Dec2024 00:25:02.412] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:doorbox
+[25Dec2024 00:25:03.729] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_2
+[25Dec2024 00:25:03.738] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of illagerinvasion:sorcerer_hut/sorcerer_hut
+[25Dec2024 00:25:04.247] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=3360, y=37, z=39085} at Chest with:minecraft:chests/simple_dungeon
+[25Dec2024 00:25:04.981] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_5
+[25Dec2024 00:25:07.055] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/campsite/main/campfire
+[25Dec2024 00:25:07.067] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/campsite/path/path2x5
+[25Dec2024 00:25:07.078] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/campsite/path/path3x5
+[25Dec2024 00:25:07.099] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/campsite/path/tent
+[25Dec2024 00:25:07.100] [Worker-Main-2/DEBUG] [ModernFix/]: Structure phenomena:village/campsite/building/minifield is being run through DFU (hash 04a0d8fc0d7d4695d7a00454a6bc769f07b5f594c507300c898005765a15ce1d), this will cause launch time delays
+[25Dec2024 00:25:07.232] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/campsite/building/tent
+[25Dec2024 00:25:07.242] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/campsite/building/none
+[25Dec2024 00:25:07.243] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/campsite/building/well
+[25Dec2024 00:25:07.254] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:village/campsite/building/sheep
+[25Dec2024 00:25:07.265] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/campsite/building
+[25Dec2024 00:25:07.266] [Worker-Main-2/DEBUG] [ModernFix/]: Structure phenomena:village/campsite/building/horse4 is being run through DFU (hash be21a5cbeb4ec3493a97d7c8d8047a1cf5976bc3e41069c28ae815a9468d1d44), this will cause launch time delays
+[25Dec2024 00:25:07.634] [Worker-Main-2/DEBUG] [ModernFix/]: Structure phenomena:village/campsite/building/pig is being run through DFU (hash dfc1584618cf26b85eb5c81d6902dca48469557df980c9e45aa622598639404a), this will cause launch time delays
+[25Dec2024 00:25:07.675] [Worker-Main-2/DEBUG] [ModernFix/]: Structure phenomena:village/campsite/building/horse3 is being run through DFU (hash 4b801af5eddde72f9ef5d13d56449a70fcc6a08389316aa47b2da7931b20174c), this will cause launch time delays
+[25Dec2024 00:25:07.712] [Worker-Main-2/DEBUG] [ModernFix/]: Structure phenomena:village/campsite/building/horse2 is being run through DFU (hash eb5971f5b0ca341f99a40112c4619e6443ffc317fd80b36de40273c2ebe4b8e5), this will cause launch time delays
+[25Dec2024 00:25:07.771] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_mixed1
+[25Dec2024 00:25:07.785] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:cabin
+[25Dec2024 00:25:07.808] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:terracotta1
+[25Dec2024 00:25:07.850] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:medieval_spruce_darkoak
+[25Dec2024 00:25:07.920] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:gallows/gallows
+[25Dec2024 00:25:13.242] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/mini_carrot_patch_variant_5
+[25Dec2024 00:25:13.264] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[25Dec2024 00:25:13.351] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/small_wheat_patch_variant_3
+[25Dec2024 00:25:19.301] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/conduit_ruin_3
+[25Dec2024 00:25:19.465] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_swamp_naturalist
+[25Dec2024 00:25:19.962] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_savanna_naturalist
+[25Dec2024 00:25:20.381] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:llama_sanctuary/llama_sanctuary_plateau
+[25Dec2024 00:25:23.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/medium_wheat_patch_variant_2
+[25Dec2024 00:25:24.954] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_swamp_sentinel
+[25Dec2024 00:25:26.297] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_mushroom_soothsayer
+[25Dec2024 00:25:33.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:statue
+[25Dec2024 00:25:33.747] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:moss_blob/moss_blob_large_1
+[25Dec2024 00:25:34.126] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:wild_ruin/wild_ruin_6 is being run through DFU (hash 5d8f10ddd51abe91dea9a58693237e5da5f29fc7e927c0b8bbb1ae2e31b853ae), this will cause launch time delays
+[25Dec2024 00:25:34.374] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_small_7
+[25Dec2024 00:25:35.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[25Dec2024 00:26:04.773] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3109ecc6-3369-480d-a6be-9349c7ef36a9
+[25Dec2024 00:26:04.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3109ecc6-3369-480d-a6be-9349c7ef36a9
+[25Dec2024 00:26:04.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3109ecc6-3369-480d-a6be-9349c7ef36a9
+[25Dec2024 00:26:04.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3109ecc6-3369-480d-a6be-9349c7ef36a9
+[25Dec2024 00:26:04.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 3109ecc6-3369-480d-a6be-9349c7ef36a9
+[25Dec2024 00:26:53.173] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 9e937650-e25e-4a6c-bca2-72d976bd7083
+[25Dec2024 00:26:53.173] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 9e937650-e25e-4a6c-bca2-72d976bd7083
+[25Dec2024 00:26:53.173] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 8dc4e8b7-88cd-4166-9521-7659b60cbe31
+[25Dec2024 00:26:53.173] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 73601903-03ff-4d08-bace-bfea4025cb4e
+[25Dec2024 00:26:53.173] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: 73601903-03ff-4d08-bace-bfea4025cb4e
+[25Dec2024 00:26:56.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:56.977] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:57.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:57.476] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:57.733] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:57.971] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:58.224] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:58.485] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:58.729] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:58.974] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:59.223] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:59.478] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:59.733] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:26:59.979] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:27:00.221] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:27:00.477] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:27:00.725] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:27:00.977] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:27:01.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[25Dec2024 00:27:10.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_3
+[25Dec2024 00:27:10.947] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=3236, y=-51, z=39232} at Chest with:minecraft:chests/simple_dungeon
+[25Dec2024 00:27:11.102] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/mini_potato_patch_variant_1
+[25Dec2024 00:27:12.471] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:desert_pyramid
+[25Dec2024 00:27:21.079] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:birch_deforestation
+[25Dec2024 00:27:21.112] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:forest_deforestation
+[25Dec2024 00:27:21.146] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:jungle_deforestation
+[25Dec2024 00:27:21.181] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of red:taiga_deforestation
+[25Dec2024 00:27:23.792] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:effigy_patch/effigy_patch_sentinel
+[25Dec2024 00:27:26.640] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[25Dec2024 00:27:30.054] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=3200, y=5, z=39374} at Chest with:minecraft:chests/simple_dungeon
+[25Dec2024 00:27:31.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f4b22073-2a3f-4fae-bff9-70e092666749
+[25Dec2024 00:27:31.340] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f4b22073-2a3f-4fae-bff9-70e092666749
+[25Dec2024 00:27:31.340] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f4b22073-2a3f-4fae-bff9-70e092666749
+[25Dec2024 00:27:31.341] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f4b22073-2a3f-4fae-bff9-70e092666749
+[25Dec2024 00:27:31.341] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: f4b22073-2a3f-4fae-bff9-70e092666749
+[25Dec2024 00:27:32.140] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:potato_patch/small_potato_patch_variant_2
+[25Dec2024 00:27:32.167] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:carrot_patch/tiny_carrot_patch_variant_3
+[25Dec2024 00:29:28.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:29:28.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:32:48.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[25Dec2024 00:33:10.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[25Dec2024 00:33:49.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:desert_double
+[25Dec2024 00:33:49.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/knight
+[25Dec2024 00:34:13.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3576, y=-54, z=40235} BlockPos{x=3576, y=-53, z=40237}
+[25Dec2024 00:34:17.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_2
+[25Dec2024 00:34:17.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_1
+[25Dec2024 00:34:23.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_anchor_oak
+[25Dec2024 00:34:23.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:well/well_oak
+[25Dec2024 00:34:23.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3540, y=-51, z=40221} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:23.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3540, y=-51, z=40221} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:23.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3540, y=-51, z=40221} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:23.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3538, y=-51, z=40222} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:23.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3538, y=-51, z=40222} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:23.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3538, y=-51, z=40222} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:23.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3538, y=-51, z=40222} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:23.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3538, y=-51, z=40222} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:23.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3537, y=-51, z=40224} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:23.927] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3536, y=-51, z=40224} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:23.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3536, y=-51, z=40224} BlockPos{x=3541, y=-51, z=40219}
+[25Dec2024 00:34:25.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3538, y=-49, z=40227} BlockPos{x=3537, y=-49, z=40227}
+[25Dec2024 00:34:25.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3538, y=-49, z=40227} BlockPos{x=3537, y=-49, z=40227}
+[25Dec2024 00:34:25.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3537, y=-49, z=40228} BlockPos{x=3537, y=-49, z=40227}
+[25Dec2024 00:34:28.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:34:28.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:34:48.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3508, y=-53, z=40221} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:48.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3507, y=-53, z=40221} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:48.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3507, y=-53, z=40221} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:48.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3506, y=-53, z=40222} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:48.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3506, y=-53, z=40222} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:48.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3506, y=-53, z=40222} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3506, y=-53, z=40222} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3505, y=-53, z=40221} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3505, y=-53, z=40221} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3505, y=-53, z=40221} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3504, y=-53, z=40220} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3506, y=-53, z=40220} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3506, y=-53, z=40220} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3506, y=-53, z=40219} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3506, y=-53, z=40219} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3506, y=-53, z=40218} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3506, y=-53, z=40218} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3504, y=-53, z=40217} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3504, y=-53, z=40217} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3504, y=-53, z=40217} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3504, y=-53, z=40217} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=-53, z=40220} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=-53, z=40220} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=-53, z=40220} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3502, y=-53, z=40222} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:49.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=-53, z=40222} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:50.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=-53, z=40222} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:50.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=-53, z=40222} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:50.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=-53, z=40223} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:50.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=-53, z=40223} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:50.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=-53, z=40223} BlockPos{x=3508, y=-53, z=40219}
+[25Dec2024 00:34:52.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3492, y=-53, z=40221} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3491, y=-53, z=40221} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3491, y=-53, z=40221} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3491, y=-53, z=40220} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3491, y=-53, z=40220} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3493, y=-53, z=40219} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3493, y=-53, z=40219} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3493, y=-53, z=40218} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3493, y=-53, z=40218} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3491, y=-53, z=40217} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3491, y=-53, z=40217} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3491, y=-53, z=40217} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3491, y=-53, z=40217} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3490, y=-53, z=40221} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3490, y=-53, z=40221} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3490, y=-53, z=40221} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=-53, z=40222} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=-53, z=40222} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=-53, z=40222} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:53.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=-53, z=40224} BlockPos{x=3491, y=-53, z=40223}
+[25Dec2024 00:34:54.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3493, y=-53, z=40227} BlockPos{x=3491, y=-53, z=40224}
+[25Dec2024 00:34:54.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3493, y=-53, z=40227} BlockPos{x=3491, y=-53, z=40224}
+[25Dec2024 00:34:54.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3494, y=-53, z=40227} BlockPos{x=3491, y=-53, z=40224}
+[25Dec2024 00:34:54.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3494, y=-53, z=40227} BlockPos{x=3491, y=-53, z=40224}
+[25Dec2024 00:34:54.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3495, y=-53, z=40226} BlockPos{x=3491, y=-53, z=40224}
+[25Dec2024 00:34:54.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3495, y=-53, z=40226} BlockPos{x=3491, y=-53, z=40224}
+[25Dec2024 00:34:54.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3495, y=-52, z=40226} BlockPos{x=3491, y=-53, z=40224}
+[25Dec2024 00:34:54.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3495, y=-53, z=40224} BlockPos{x=3491, y=-53, z=40224}
+[25Dec2024 00:34:55.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3496, y=-50, z=40227} BlockPos{x=3495, y=-51, z=40225}
+[25Dec2024 00:35:09.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[25Dec2024 00:35:09.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[25Dec2024 00:35:09.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[25Dec2024 00:35:19.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3491, y=-56, z=40174} BlockPos{x=3492, y=-55, z=40174}
+[25Dec2024 00:35:19.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3491, y=-56, z=40174} BlockPos{x=3492, y=-55, z=40174}
+[25Dec2024 00:35:19.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3492, y=-55, z=40175} BlockPos{x=3492, y=-55, z=40174}
+[25Dec2024 00:35:19.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3492, y=-55, z=40175} BlockPos{x=3492, y=-55, z=40174}
+[25Dec2024 00:35:19.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3493, y=-56, z=40174} BlockPos{x=3492, y=-55, z=40174}
+[25Dec2024 00:35:19.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3493, y=-55, z=40173} BlockPos{x=3492, y=-55, z=40174}
+[25Dec2024 00:35:19.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3493, y=-55, z=40173} BlockPos{x=3492, y=-55, z=40174}
+[25Dec2024 00:35:19.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3494, y=-55, z=40172} BlockPos{x=3492, y=-55, z=40174}
+[25Dec2024 00:35:23.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3497, y=-55, z=40164} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3497, y=-55, z=40163} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3497, y=-55, z=40163} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3497, y=-55, z=40163} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3497, y=-55, z=40163} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3496, y=-55, z=40162} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3496, y=-55, z=40161} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3496, y=-55, z=40160} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3496, y=-55, z=40160} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3496, y=-55, z=40160} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3496, y=-55, z=40160} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3496, y=-55, z=40160} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:35:23.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3496, y=-55, z=40160} BlockPos{x=3495, y=-55, z=40164}
+[25Dec2024 00:36:06.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3460, y=-56, z=40115} BlockPos{x=3460, y=-56, z=40113}
+[25Dec2024 00:36:06.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3460, y=-56, z=40115} BlockPos{x=3460, y=-56, z=40113}
+[25Dec2024 00:36:06.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3459, y=-55, z=40115} BlockPos{x=3460, y=-56, z=40113}
+[25Dec2024 00:36:06.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3460, y=-55, z=40114} BlockPos{x=3460, y=-56, z=40113}
+[25Dec2024 00:36:06.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3459, y=-55, z=40116} BlockPos{x=3460, y=-56, z=40113}
+[25Dec2024 00:36:06.485] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3459, y=-55, z=40116} BlockPos{x=3460, y=-56, z=40113}
+[25Dec2024 00:36:06.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3459, y=-55, z=40116} BlockPos{x=3460, y=-56, z=40113}
+[25Dec2024 00:36:08.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3451, y=-56, z=40108} BlockPos{x=3450, y=-56, z=40109}
+[25Dec2024 00:36:10.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3452, y=-56, z=40114} BlockPos{x=3451, y=-56, z=40112}
+[25Dec2024 00:36:10.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3452, y=-56, z=40114} BlockPos{x=3451, y=-56, z=40112}
+[25Dec2024 00:36:10.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3453, y=-56, z=40114} BlockPos{x=3451, y=-56, z=40112}
+[25Dec2024 00:36:10.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3453, y=-56, z=40114} BlockPos{x=3451, y=-56, z=40112}
+[25Dec2024 00:36:10.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3453, y=-56, z=40114} BlockPos{x=3451, y=-56, z=40112}
+[25Dec2024 00:36:39.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3367, y=-56, z=40112} BlockPos{x=3367, y=-56, z=40113}
+[25Dec2024 00:36:39.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3367, y=-56, z=40112} BlockPos{x=3367, y=-56, z=40113}
+[25Dec2024 00:36:39.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3366, y=-56, z=40111} BlockPos{x=3367, y=-56, z=40113}
+[25Dec2024 00:36:39.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3366, y=-56, z=40111} BlockPos{x=3367, y=-56, z=40113}
+[25Dec2024 00:36:40.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3365, y=-56, z=40110} BlockPos{x=3367, y=-56, z=40113}
+[25Dec2024 00:36:40.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3365, y=-56, z=40110} BlockPos{x=3367, y=-56, z=40113}
+[25Dec2024 00:36:40.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3365, y=-56, z=40110} BlockPos{x=3367, y=-56, z=40113}
+[25Dec2024 00:36:40.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3365, y=-56, z=40110} BlockPos{x=3367, y=-56, z=40113}
+[25Dec2024 00:37:32.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3294, y=-55, z=40112} BlockPos{x=3296, y=-55, z=40112}
+[25Dec2024 00:37:32.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3295, y=-54, z=40111} BlockPos{x=3296, y=-55, z=40112}
+[25Dec2024 00:37:32.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3295, y=-54, z=40111} BlockPos{x=3296, y=-55, z=40112}
+[25Dec2024 00:37:33.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3296, y=-54, z=40110} BlockPos{x=3296, y=-55, z=40112}
+[25Dec2024 00:37:41.905] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_small_4
+[25Dec2024 00:37:41.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/3/top
+[25Dec2024 00:37:50.025] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=3017, y=-16, z=40259} at Chest with:minecraft:chests/simple_dungeon
+[25Dec2024 00:38:13.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:illager_camp/illager_camp_event_6
+[25Dec2024 00:38:13.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/r_anchor
+[25Dec2024 00:38:13.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_lapis
+[25Dec2024 00:38:13.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_copper
+[25Dec2024 00:38:13.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/camp
+[25Dec2024 00:38:13.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils
+[25Dec2024 00:38:13.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1
+[25Dec2024 00:38:13.556] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_weapons
+[25Dec2024 00:38:13.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_1
+[25Dec2024 00:38:13.560] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1
+[25Dec2024 00:38:13.561] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/entrance_1_alt
+[25Dec2024 00:38:13.562] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_1
+[25Dec2024 00:38:13.565] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_1_down_sculk
+[25Dec2024 00:38:13.566] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_prison
+[25Dec2024 00:38:13.567] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/copper
+[25Dec2024 00:38:13.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2_down_sculk
+[25Dec2024 00:38:13.575] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/pathlong_2
+[25Dec2024 00:38:13.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2
+[25Dec2024 00:38:13.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_alt
+[25Dec2024 00:38:13.582] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_gold
+[25Dec2024 00:38:13.583] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tools
+[25Dec2024 00:38:13.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path_1_alt
+[25Dec2024 00:38:13.585] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_3
+[25Dec2024 00:38:13.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_armor
+[25Dec2024 00:38:13.587] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/prison
+[25Dec2024 00:38:13.588] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_1
+[25Dec2024 00:38:13.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/connector_2
+[25Dec2024 00:38:13.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_5
+[25Dec2024 00:38:13.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_archer
+[25Dec2024 00:38:13.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom_2
+[25Dec2024 00:38:13.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn_2
+[25Dec2024 00:38:13.594] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down_3
+[25Dec2024 00:38:13.595] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/music
+[25Dec2024 00:38:13.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/down
+[25Dec2024 00:38:13.596] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/turn
+[25Dec2024 00:38:13.597] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/farm_potato
+[25Dec2024 00:38:13.598] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/iron_golem
+[25Dec2024 00:38:13.599] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_smelting
+[25Dec2024 00:38:13.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/path
+[25Dec2024 00:38:13.600] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_iron
+[25Dec2024 00:38:13.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/map
+[25Dec2024 00:38:13.602] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_diamonds
+[25Dec2024 00:38:13.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_brown_mushroom
+[25Dec2024 00:38:13.603] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_bedroom
+[25Dec2024 00:38:13.604] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_tnt
+[25Dec2024 00:38:13.605] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_fossils_3
+[25Dec2024 00:38:13.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/big_rooms/archer
+[25Dec2024 00:38:13.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/room_red_mushroom
+[25Dec2024 00:38:13.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/trap/trap_5
+[25Dec2024 00:38:13.610] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mineshaft/oak/minecart/path_2_down
+[25Dec2024 00:38:15.419] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:totem_pole/totem_pole_3
+[25Dec2024 00:38:15.503] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/small_wheat_patch_variant_1
+[25Dec2024 00:38:16.487] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[25Dec2024 00:38:17.829] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:beetroot_patch/beetroot_patch_small_10
+[25Dec2024 00:39:28.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:39:28.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 00:39:45.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3097, y=-55, z=40274} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3097, y=-55, z=40274} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3096, y=-55, z=40274} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3096, y=-55, z=40274} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3096, y=-55, z=40274} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3095, y=-55, z=40272} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3094, y=-55, z=40272} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3094, y=-55, z=40272} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3094, y=-55, z=40272} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3094, y=-55, z=40270} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3094, y=-55, z=40270} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3093, y=-55, z=40269} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3093, y=-55, z=40269} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:39:45.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3093, y=-55, z=40269} BlockPos{x=3097, y=-55, z=40273}
+[25Dec2024 00:40:24.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Spectator Mode]
+[25Dec2024 00:40:52.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:medieval_boat
+[25Dec2024 00:40:58.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Set own game mode to Survival Mode]
+[25Dec2024 00:41:04.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3575, y=-55, z=40417} BlockPos{x=3577, y=-56, z=40416}
+[25Dec2024 00:41:04.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3576, y=-54, z=40417} BlockPos{x=3577, y=-56, z=40416}
+[25Dec2024 00:41:04.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3575, y=-54, z=40417} BlockPos{x=3577, y=-56, z=40416}
+[25Dec2024 00:41:04.277] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3574, y=-54, z=40417} BlockPos{x=3577, y=-56, z=40416}
+[25Dec2024 00:41:09.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3571, y=-55, z=40417} BlockPos{x=3573, y=-55, z=40416}
+[25Dec2024 00:41:09.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3571, y=-55, z=40417} BlockPos{x=3573, y=-55, z=40416}
+[25Dec2024 00:41:11.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3571, y=-56, z=40410} BlockPos{x=3572, y=-56, z=40411}
+[25Dec2024 00:41:11.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3572, y=-57, z=40411} BlockPos{x=3572, y=-56, z=40411}
+[25Dec2024 00:41:11.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3572, y=-57, z=40411} BlockPos{x=3572, y=-56, z=40411}
+[25Dec2024 00:41:11.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3572, y=-58, z=40410} BlockPos{x=3572, y=-56, z=40411}
+[25Dec2024 00:41:11.276] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3573, y=-57, z=40410} BlockPos{x=3572, y=-56, z=40411}
+[25Dec2024 00:41:11.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3573, y=-57, z=40410} BlockPos{x=3572, y=-56, z=40411}
+[25Dec2024 00:41:11.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3573, y=-57, z=40410} BlockPos{x=3572, y=-56, z=40411}
+[25Dec2024 00:41:12.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3569, y=-56, z=40409} BlockPos{x=3569, y=-57, z=40409}
+[25Dec2024 00:41:14.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3562, y=-58, z=40410} BlockPos{x=3562, y=-57, z=40410}
+[25Dec2024 00:41:40.627] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[25Dec2024 00:41:45.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Lapis Lazuli] to aaaaa]
+[25Dec2024 00:42:06.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Disconnected
+[25Dec2024 00:42:06.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
+[25Dec2024 00:44:28.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 00:44:28.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
