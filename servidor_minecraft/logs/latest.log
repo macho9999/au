@@ -272,3 +272,9 @@
 [25Dec2024 00:54:37.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Infinity Wand] to aaaaa]
 [25Dec2024 00:56:16.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Disconnected
 [25Dec2024 00:56:16.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
+[25Dec2024 01:26:27.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaaaa[/100.110.119.13:56105] logged in with entity id 32298 at (3722.714764017156, 64.0, 40273.30000001192)
+[25Dec2024 01:26:27.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa joined the game
+[25Dec2024 01:26:27.426] [Server thread/INFO] [Jade/]: Syncing config to aaaaa (77cc7b98-f829-305b-9a13-dbb088fbd0f5)
+[25Dec2024 01:34:19.096] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting thetadev/constructionwand/basics/option/WandOptions$LOCK
+[25Dec2024 01:34:19.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting thetadev/constructionwand/basics/option/WandOptions$DIRECTION
+[25Dec2024 01:34:19.098] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting thetadev/constructionwand/basics/option/WandOptions$MATCH
