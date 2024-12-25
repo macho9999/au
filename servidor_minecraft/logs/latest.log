@@ -20,3 +20,22 @@
 [25Dec2024 00:02:59.839] [Server thread/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: facing with value: up for blockstate: {Name:"uniquedungeons:city_center_lectern",Properties:{facing:"up",open:"false"}}
 [25Dec2024 00:03:08.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ewrwer lost connection: Disconnected
 [25Dec2024 00:03:08.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ewrwer left the game
+[25Dec2024 00:05:40.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aaaaa[/100.110.119.13:56028] logged in with entity id 1025 at (3737.5, 64.0, 40250.5)
+[25Dec2024 00:05:40.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa joined the game
+[25Dec2024 00:05:40.074] [Server thread/INFO] [Jade/]: Syncing config to aaaaa (77cc7b98-f829-305b-9a13-dbb088fbd0f5)
+[25Dec2024 00:05:44.908] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[25Dec2024 00:06:01.318] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[25Dec2024 00:06:19.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/event/platform/Interaction
+[25Dec2024 00:06:19.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/util/HandSide
+[25Dec2024 00:06:19.861] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/sk89q/worldedit/event/platform/InputType
+[25Dec2024 00:07:32.506] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[25Dec2024 00:07:35.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[25Dec2024 00:09:16.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[25Dec2024 00:09:29.264] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[25Dec2024 00:10:37.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/satisfyu/meadow/entity/cow/CowVar
+[25Dec2024 00:11:30.161] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[25Dec2024 00:11:30.163] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[25Dec2024 00:11:50.223] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[25Dec2024 00:12:43.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[25Dec2024 00:13:01.316] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[25Dec2024 00:13:03.741] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
