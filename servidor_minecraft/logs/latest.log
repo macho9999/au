@@ -285,3 +285,7 @@
 [25Dec2024 02:21:00.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [What a Deal!]
 [25Dec2024 02:22:31.358] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
 [25Dec2024 02:26:23.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa fell from a high place
+[25Dec2024 02:27:47.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Chris'/76489, l='ServerLevel[world]', x=3645.44, y=63.00, z=40286.57] died: Chris burned to death
+[25Dec2024 02:27:47.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/entity/ai/relationship/RelationshipType
+[25Dec2024 02:29:13.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa fell from a high place
+[25Dec2024 02:31:43.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa has made the advancement [Tame Item]

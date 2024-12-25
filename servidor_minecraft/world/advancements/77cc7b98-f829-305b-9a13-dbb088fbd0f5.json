@@ -6860,6 +6860,12 @@
     },
     "done": true
   },
+  "player_companions:recipes/tame_honeycomb_from_honeycomb": {
+    "criteria": {
+      "has_lead": "2024-12-25 02:31:43 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/raw_tin_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2024-12-25 02:10:21 +0000"
@@ -6872,9 +6878,33 @@
     },
     "done": true
   },
+  "player_companions:recipes/tame_cake_from_cake": {
+    "criteria": {
+      "has_lead": "2024-12-25 02:31:43 +0000"
+    },
+    "done": true
+  },
+  "player_companions:recipes/tame_seagrass_from_seagrass": {
+    "criteria": {
+      "has_lead": "2024-12-25 02:31:43 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/climbing_rope_topmount": {
+    "criteria": {
+      "has_lead": "2024-12-25 02:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-25 02:21:00 +0000"
+    },
+    "done": true
+  },
+  "player_companions:crafting/tame_items": {
+    "criteria": {
+      "has_lead": "2024-12-25 02:31:43 +0000"
     },
     "done": true
   },
