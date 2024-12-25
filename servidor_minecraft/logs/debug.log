@@ -15127,3 +15127,60 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [25Dec2024 02:44:32.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 02:44:32.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 02:45:54.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_large_2
+[25Dec2024 02:47:23.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:flower_oracle
+[25Dec2024 02:47:24.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_2b
+[25Dec2024 02:49:32.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 02:49:32.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 02:49:33.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of red:beach_house
+[25Dec2024 02:49:45.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa moved wrongly!
+[25Dec2024 02:49:46.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3679, y=69, z=40387} BlockPos{x=3678, y=68, z=40389}
+[25Dec2024 02:49:46.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3677, y=68, z=40389} BlockPos{x=3678, y=68, z=40389}
+[25Dec2024 02:49:46.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3677, y=68, z=40390} BlockPos{x=3678, y=68, z=40389}
+[25Dec2024 02:49:46.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3679, y=69, z=40387} BlockPos{x=3678, y=68, z=40389}
+[25Dec2024 02:49:46.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/valhelsia_structures/common/block/DungeonDoorBlock$Position
+[25Dec2024 02:49:55.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3672, y=66, z=40389} BlockPos{x=3671, y=66, z=40390}
+[25Dec2024 02:49:55.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3672, y=66, z=40389} BlockPos{x=3671, y=66, z=40390}
+[25Dec2024 02:49:55.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3672, y=66, z=40389} BlockPos{x=3671, y=66, z=40390}
+[25Dec2024 02:49:55.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3674, y=67, z=40388} BlockPos{x=3671, y=66, z=40390}
+[25Dec2024 02:49:55.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3674, y=67, z=40388} BlockPos{x=3671, y=66, z=40390}
+[25Dec2024 02:49:55.944] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3674, y=68, z=40389} BlockPos{x=3671, y=66, z=40390}
+[25Dec2024 02:49:55.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3676, y=67, z=40389} BlockPos{x=3671, y=66, z=40390}
+[25Dec2024 02:49:56.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3676, y=67, z=40389} BlockPos{x=3671, y=66, z=40390}
+[25Dec2024 02:49:56.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3676, y=67, z=40389} BlockPos{x=3671, y=66, z=40390}
+[25Dec2024 02:49:56.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3675, y=66, z=40393} BlockPos{x=3677, y=66, z=40390}
+[25Dec2024 02:51:04.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of phenomena:medieval_boat
+[25Dec2024 02:51:06.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3684, y=58, z=40400} BlockPos{x=3683, y=58, z=40403}
+[25Dec2024 02:51:06.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3684, y=58, z=40400} BlockPos{x=3683, y=58, z=40403}
+[25Dec2024 02:51:06.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3684, y=58, z=40400} BlockPos{x=3683, y=58, z=40403}
+[25Dec2024 02:51:23.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3697, y=56, z=40412} BlockPos{x=3696, y=56, z=40413}
+[25Dec2024 02:51:23.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3697, y=56, z=40412} BlockPos{x=3696, y=56, z=40413}
+[25Dec2024 02:51:23.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3697, y=56, z=40412} BlockPos{x=3696, y=56, z=40413}
+[25Dec2024 02:51:23.137] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3698, y=56, z=40414} BlockPos{x=3696, y=56, z=40413}
+[25Dec2024 02:51:23.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3698, y=56, z=40414} BlockPos{x=3696, y=56, z=40413}
+[25Dec2024 02:51:26.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/conduit_ruin_3
+[25Dec2024 02:51:28.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3700, y=53, z=40423} BlockPos{x=3700, y=55, z=40424}
+[25Dec2024 02:51:28.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3700, y=52, z=40423} BlockPos{x=3700, y=55, z=40424}
+[25Dec2024 02:51:29.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3696, y=53, z=40423} BlockPos{x=3698, y=54, z=40423}
+[25Dec2024 02:51:41.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3684, y=53, z=40419} BlockPos{x=3684, y=52, z=40420}
+[25Dec2024 02:51:42.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3682, y=53, z=40422} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3682, y=53, z=40422} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3681, y=53, z=40423} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3681, y=53, z=40423} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.291] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3681, y=53, z=40423} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3681, y=53, z=40423} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3681, y=53, z=40425} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3680, y=53, z=40425} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3680, y=53, z=40425} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3681, y=53, z=40426} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3681, y=53, z=40426} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.640] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3681, y=53, z=40426} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3681, y=53, z=40426} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3682, y=53, z=40427} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3682, y=53, z=40427} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:51:42.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3682, y=53, z=40427} BlockPos{x=3684, y=52, z=40419}
+[25Dec2024 02:54:32.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 02:54:32.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 02:55:52.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:desert_double
+[25Dec2024 02:55:52.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/knight
+[25Dec2024 02:57:21.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Disconnected
+[25Dec2024 02:57:21.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
