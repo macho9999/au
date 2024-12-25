@@ -270,3 +270,5 @@
 [25Dec2024 00:48:37.488] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/network/c2s/ReportBuildingMessage$Action
 [25Dec2024 00:48:37.499] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting forge/net/mca/server/world/data/GraveyardManager$TombstoneState
 [25Dec2024 00:54:37.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [aaaaa: Gave 1 [Infinity Wand] to aaaaa]
+[25Dec2024 00:56:16.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Disconnected
+[25Dec2024 00:56:16.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
