@@ -15184,3 +15184,22 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [25Dec2024 02:55:52.579] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of humancompanions:companions/knight
 [25Dec2024 02:57:21.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aaaaa lost connection: Disconnected
 [25Dec2024 02:57:21.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aaaaa left the game
+[25Dec2024 02:59:32.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 02:59:32.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 03:00:04.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:wheat_patch/tiny_wheat_patch_variant_1
+[25Dec2024 03:01:03.961] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of wabi_sabi_structures:monster_egg/monster_egg_small_3
+[25Dec2024 03:01:18.616] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_3
+[25Dec2024 03:01:18.619] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave_entrance/small_3_bottom
+[25Dec2024 03:01:18.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/cave/cave_2
+[25Dec2024 03:01:18.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/entrance/entrance_2
+[25Dec2024 03:01:18.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/main_room/main_room_1
+[25Dec2024 03:01:18.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/passage/passage_2
+[25Dec2024 03:01:18.628] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/stairs/stairs_6
+[25Dec2024 03:01:18.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:spawner_dungeon/spawner_room/zombie_spawner_room
+[25Dec2024 03:01:37.669] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[25Dec2024 03:04:32.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 03:04:32.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 03:09:32.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 03:09:32.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 03:14:32.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 03:14:32.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
